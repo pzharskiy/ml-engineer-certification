@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.ElementTypeRegexFE","featureName":"CllTpPrc","pattern":{"pattern":"((?:[$€£₤￥¥円]|USD|EUR|GBP|CAD|CRC|JPY)\\s*[\\d,]+(?:[.]\\d+)?$)|([\\d,]+(?:[.]\\d+)?\\s*(?:USD|EUR|GBP|CAD|CRC)$)","flags":0},"searchClass":"com.workfusion.vds.sdk.api.nlp.model.Cell"}

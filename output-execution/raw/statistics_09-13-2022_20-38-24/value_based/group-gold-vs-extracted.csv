@@ -1,0 +1,376 @@
+FILE_NAME,GROUP_NAME,GOLD_TABNUMBER,EXTRACTED_TABNUMBER,RESULT,FIELD_NAME,CHILD_GOLD,CHILD_EXTRACTED
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,group,0,,"FP,FN"
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,group,,,,product,VOLUPTATE INVENTORE A,VOLUPTATE INVENTORE A
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,group,,,,quantity,391771.00,"391,771"
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,group,0,,"FP,FN"
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,group,,,,product,PERSPICIATIS OPTIO ULLAM QUIBUSDAM QUI,
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,group,,,,quantity,70445.00,"70,445"
+389057_1526301926_1.html,group,,,"FP,FN"
+389057_1526301926_1.html,group,,,,product,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443
+389057_1526301926_1.html,group,,,,quantity,1.00,1
+389057_1526301926_1.html,group,,,,price,0.00,0.00
+389057_1526301926_2.html,group,,,"FP,FN"
+389057_1526301926_2.html,group,,,,product,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443
+389057_1526301926_2.html,group,,,,quantity,1.00,1
+389057_1526301926_2.html,group,,,,price,0.00,0.00
+389842_advanced_1526302224_1.html,group,,,TP
+389842_advanced_1526302224_1.html,group,,,,product,Exercitationem sit nam labore nesciunt. Exercitationem sit nam labore nesciunt. Quidem cupiditate eligendi.,Exercitationem sit nam labore nesciunt. Exercitationem sit nam labore nesciunt. Quidem cupiditate eligendi.
+389842_advanced_1526302224_1.html,group,,,,price,55.99,55.99
+389842_advanced_1526302224_2.html,group,,,TP
+389842_advanced_1526302224_2.html,group,,,,product,Nostrum porro beatae. Nostrum porro beatae. Consequuntur asperiores voluptatum vitae.,Nostrum porro beatae. Nostrum porro beatae. Consequuntur asperiores voluptatum vitae.
+389842_advanced_1526302224_2.html,group,,,,price,21.32,21.32
+b_424261_1526302379_1.html,group,,,FN
+b_424261_1526302379_1.html,group,,,,product,2816999 HP ETHERNET 10GB 2P 560SFP ADAPT,
+b_424261_1526302379_1.html,group,,,,quantity,3.00,
+b_424261_1526302379_1.html,group,,,,price,69.96,
+c_427915_1526302430_0.html,group,,,"FP,FN"
+c_427915_1526302430_0.html,group,,,,product,HP 16GB 2RX4 PC4-2133P-R KIT,HP 16GB 2RX4 PC4-2133P-R KIT
+c_427915_1526302430_0.html,group,,,,quantity,48.00,48
+c_427915_1526302430_0.html,group,,,,price,164.39,"7,890.72"
+doc00123920180117122119.html,group,3,,"FP,FN"
+doc00123920180117122119.html,group,,,,product,Heavy Duty Wool Bottle,Heavy Duty Wool Bottle
+doc00123920180117122119.html,group,,,,quantity,39.00,39
+doc00123920180117122119.html,group,,,,price,730.14,730.14
+doc00123920180117122119.html,group,1,,FN
+doc00123920180117122119.html,group,,,,product,Intelligent Bronze Chair,
+doc00123920180117122119.html,group,,,,quantity,39.00,
+doc00123920180117122119.html,group,,,,price,349.09,
+doc00123920180117122119.html,group,0,,FN
+doc00123920180117122119.html,group,,,,product,Intelligent Wooden Computer,
+doc00123920180117122119.html,group,,,,quantity,15.00,
+doc00123920180117122119.html,group,,,,price,481.68,
+doc00123920180117122119.html,group,2,,FN
+doc00123920180117122119.html,group,,,,product,Enormous Wool Shirt,
+doc00123920180117122119.html,group,,,,quantity,59.00,
+doc00123920180117122119.html,group,,,,price,761.52,
+doc00125020180117122554.html,group,8,,"FP,FN"
+doc00125020180117122554.html,group,,,,product,Aerodynamic Steel Shoes,Aerodynamic Steel Shoes
+doc00125020180117122554.html,group,,,,quantity,22.00,22
+doc00125020180117122554.html,group,,,,price,343.57,343.57
+doc00125020180117122554.html,group,2,,FN
+doc00125020180117122554.html,group,,,,product,Awesome Bronze Keyboard,
+doc00125020180117122554.html,group,,,,quantity,1.00,
+doc00125020180117122554.html,group,,,,price,473.72,
+doc00125020180117122554.html,group,7,,FN
+doc00125020180117122554.html,group,,,,product,Synergistic Plastic Bag,
+doc00125020180117122554.html,group,,,,quantity,61.00,
+doc00125020180117122554.html,group,,,,price,170.11,
+doc00125020180117122554.html,group,5,,FN
+doc00125020180117122554.html,group,,,,product,Durable Silk Shoes,
+doc00125020180117122554.html,group,,,,quantity,21.00,
+doc00125020180117122554.html,group,,,,price,812.32,
+doc00125020180117122554.html,group,1,,FN
+doc00125020180117122554.html,group,,,,product,Fantastic Cotton Bench,
+doc00125020180117122554.html,group,,,,quantity,78.00,
+doc00125020180117122554.html,group,,,,price,610.87,
+doc00125020180117122554.html,group,4,,FN
+doc00125020180117122554.html,group,,,,product,Heavy Duty Marble Chair,
+doc00125020180117122554.html,group,,,,quantity,23.00,
+doc00125020180117122554.html,group,,,,price,534.70,
+doc00125020180117122554.html,group,0,,FN
+doc00125020180117122554.html,group,,,,product,Awesome Plastic Bench,
+doc00125020180117122554.html,group,,,,quantity,27.00,
+doc00125020180117122554.html,group,,,,price,940.38,
+doc00125020180117122554.html,group,3,,FN
+doc00125020180117122554.html,group,,,,product,Lightweight Wooden Bottle,
+doc00125020180117122554.html,group,,,,quantity,31.00,
+doc00125020180117122554.html,group,,,,price,659.83,
+doc00125020180117122554.html,group,6,,FN
+doc00125020180117122554.html,group,,,,product,Durable Bronze Wallet,
+doc00125020180117122554.html,group,,,,quantity,16.00,
+doc00125020180117122554.html,group,,,,price,541.48,
+doc00145620180117152142.html,group,3,,"FP,FN"
+doc00145620180117152142.html,group,,,,product,Customer Support,Customer Support
+doc00145620180117152142.html,group,,,,quantity,92.00,92
+doc00145620180117152142.html,group,,,,price,20.00,20.00
+doc00145620180117152142.html,group,1,,FN
+doc00145620180117152142.html,group,,,,product,Development,
+doc00145620180117152142.html,group,,,,quantity,15.00,
+doc00145620180117152142.html,group,,,,price,60.00,
+doc00145620180117152142.html,group,2,,FN
+doc00145620180117152142.html,group,,,,product,Pilot Development,
+doc00145620180117152142.html,group,,,,quantity,74.00,
+doc00145620180117152142.html,group,,,,price,150.00,
+doc00145620180117152142.html,group,0,,FN
+doc00145620180117152142.html,group,,,,product,Social MediaMarketing,
+doc00145620180117152142.html,group,,,,quantity,38.00,
+doc00145620180117152142.html,group,,,,price,1.00,
+doc00145720180117152206.html,group,1,,"FP,FN"
+doc00145720180117152206.html,group,,,,product,Development,Development
+doc00145720180117152206.html,group,,,,quantity,30.00,30
+doc00145720180117152206.html,group,,,,price,60.00,"1,871.00"
+doc00145720180117152206.html,group,0,,FN
+doc00145720180117152206.html,group,,,,product,Social MediaMarketing,
+doc00145720180117152206.html,group,,,,quantity,71.00,
+doc00145720180117152206.html,group,,,,price,1.00,
+doc00146020180117152339.html,group,4,,"FP,FN"
+doc00146020180117152339.html,group,,,,product,Video Marketing,Video Marketing
+doc00146020180117152339.html,group,,,,quantity,15.00,15
+doc00146020180117152339.html,group,,,,price,5.00,5.00
+doc00146020180117152339.html,group,2,,FN
+doc00146020180117152339.html,group,,,,product,Pilot Development,
+doc00146020180117152339.html,group,,,,quantity,16.00,
+doc00146020180117152339.html,group,,,,price,150.00,
+doc00146020180117152339.html,group,3,,FN
+doc00146020180117152339.html,group,,,,product,Customer Support,
+doc00146020180117152339.html,group,,,,quantity,1.00,
+doc00146020180117152339.html,group,,,,price,20.00,
+doc00146020180117152339.html,group,1,,FN
+doc00146020180117152339.html,group,,,,product,Development,
+doc00146020180117152339.html,group,,,,quantity,6.00,
+doc00146020180117152339.html,group,,,,price,60.00,
+doc00146020180117152339.html,group,0,,FN
+doc00146020180117152339.html,group,,,,product,Social MediaMarketing,
+doc00146020180117152339.html,group,,,,quantity,93.00,
+doc00146020180117152339.html,group,,,,price,1.00,
+doc00147520180117152859.html,group,2,,"FP,FN"
+doc00147520180117152859.html,group,,,,product,Pilot Development,Pilot Development
+doc00147520180117152859.html,group,,,,quantity,99.00,99
+doc00147520180117152859.html,group,,,,price,150.00,150.00
+doc00147520180117152859.html,group,1,,FN
+doc00147520180117152859.html,group,,,,product,Development,
+doc00147520180117152859.html,group,,,,quantity,20.00,
+doc00147520180117152859.html,group,,,,price,60.00,
+doc00147520180117152859.html,group,0,,FN
+doc00147520180117152859.html,group,,,,product,Social Medisf vC,
+doc00147520180117152859.html,group,,,,quantity,13.00,
+doc00147520180117152859.html,group,,,,price,1.00,
+invoice136.html,group,5,,"FP,FN"
+invoice136.html,group,,,,product,Intelligent Wooden Plate,Intelligent Wooden Plate
+invoice136.html,group,,,,quantity,44.00,44
+invoice136.html,group,,,,price,53.27,53.27
+invoice136.html,group,2,,FN
+invoice136.html,group,,,,product,Synergistic Cotton Shirt,
+invoice136.html,group,,,,quantity,6.00,
+invoice136.html,group,,,,price,182.44,
+invoice136.html,group,3,,FN
+invoice136.html,group,,,,product,Small Bronze Hat,
+invoice136.html,group,,,,quantity,32.00,
+invoice136.html,group,,,,price,215.36,
+invoice136.html,group,0,,FN
+invoice136.html,group,,,,product,Synergistic Rubber Shirt,
+invoice136.html,group,,,,quantity,19.00,
+invoice136.html,group,,,,price,463.13,
+invoice136.html,group,1,,FN
+invoice136.html,group,,,,product,Aerodynamic Linen Shirt,
+invoice136.html,group,,,,quantity,46.00,
+invoice136.html,group,,,,price,156.96,
+invoice136.html,group,4,,FN
+invoice136.html,group,,,,product,Fantastic Marble Bottle,
+invoice136.html,group,,,,quantity,16.00,
+invoice136.html,group,,,,price,418.55,
+invoice139.html,group,8,,"FP,FN"
+invoice139.html,group,,,,product,Mediocre Granite Hat,Mediocre Granite Hat
+invoice139.html,group,,,,quantity,12.00,12
+invoice139.html,group,,,,price,396.74,396.74
+invoice139.html,group,7,,FN
+invoice139.html,group,,,,product,Rustic Wooden Table,
+invoice139.html,group,,,,quantity,36.00,
+invoice139.html,group,,,,price,439.20,
+invoice139.html,group,1,,FN
+invoice139.html,group,,,,product,Durable Silk Gloves,
+invoice139.html,group,,,,quantity,39.00,
+invoice139.html,group,,,,price,455.45,
+invoice139.html,group,5,,FN
+invoice139.html,group,,,,product,Durable Paper Gloves,
+invoice139.html,group,,,,quantity,47.00,
+invoice139.html,group,,,,price,383.67,
+invoice139.html,group,2,,FN
+invoice139.html,group,,,,product,Intelligent Concrete Table,
+invoice139.html,group,,,,quantity,19.00,
+invoice139.html,group,,,,price,259.81,
+invoice139.html,group,4,,FN
+invoice139.html,group,,,,product,Aerodynamic Linen Knife,
+invoice139.html,group,,,,quantity,38.00,
+invoice139.html,group,,,,price,173.73,
+invoice139.html,group,0,,FN
+invoice139.html,group,,,,product,Enormous Wooden Bench,
+invoice139.html,group,,,,quantity,5.00,
+invoice139.html,group,,,,price,354.53,
+invoice139.html,group,6,,FN
+invoice139.html,group,,,,product,Lightweight Paper Chair,
+invoice139.html,group,,,,quantity,45.00,
+invoice139.html,group,,,,price,183.88,
+invoice139.html,group,3,,FN
+invoice139.html,group,,,,product,Heavy Duty Rubber Car,
+invoice139.html,group,,,,quantity,49.00,
+invoice139.html,group,,,,price,331.79,
+invoice164.html,group,1,,"FP,FN"
+invoice164.html,group,,,,product,Gorgeous Iron Bench,Gorgeous Iron Bench
+invoice164.html,group,,,,quantity,37.00,37
+invoice164.html,group,,,,price,411.70,411.70
+invoice164.html,group,0,,FN
+invoice164.html,group,,,,product,Practical Granite Bench,
+invoice164.html,group,,,,quantity,23.00,
+invoice164.html,group,,,,price,456.12,
+invoice17.html,group,5,,"FP,FN"
+invoice17.html,group,,,,product,Intelligent Granite Bag,Intelligent Granite Bag
+invoice17.html,group,,,,quantity,3.00,3
+invoice17.html,group,,,,price,257.23,257.23
+invoice17.html,group,2,,FN
+invoice17.html,group,,,,product,Intelligent Steel Pants,
+invoice17.html,group,,,,quantity,24.00,
+invoice17.html,group,,,,price,323.84,
+invoice17.html,group,1,,FN
+invoice17.html,group,,,,product,Lightweight Linen Lamp,
+invoice17.html,group,,,,quantity,16.00,
+invoice17.html,group,,,,price,151.69,
+invoice17.html,group,4,,FN
+invoice17.html,group,,,,product,Ergonomic Linen Shirt,
+invoice17.html,group,,,,quantity,20.00,
+invoice17.html,group,,,,price,192.48,
+invoice17.html,group,3,,FN
+invoice17.html,group,,,,product,Awesome Bronze Shirt,
+invoice17.html,group,,,,quantity,32.00,
+invoice17.html,group,,,,price,25.07,
+invoice17.html,group,0,,FN
+invoice17.html,group,,,,product,Lightweight Bronze Pants,
+invoice17.html,group,,,,quantity,11.00,
+invoice17.html,group,,,,price,113.87,
+invoice179.html,group,2,,"FP,FN"
+invoice179.html,group,,,,product,Ergonomic Granite Gloves,Ergonomic Granite Gloves
+invoice179.html,group,,,,quantity,3.00,3
+invoice179.html,group,,,,price,10.64,10.64
+invoice179.html,group,1,,FN
+invoice179.html,group,,,,product,Durable Leather Chair,
+invoice179.html,group,,,,quantity,27.00,
+invoice179.html,group,,,,price,271.56,
+invoice179.html,group,0,,FN
+invoice179.html,group,,,,product,Enormous Leather Car,
+invoice179.html,group,,,,quantity,43.00,
+invoice179.html,group,,,,price,40.18,
+invoice181.html,group,8,,"FP,FN"
+invoice181.html,group,,,,product,Heavy Duty Paper Coat,Heavy Duty Paper Coat
+invoice181.html,group,,,,quantity,19.00,19
+invoice181.html,group,,,,price,253.61,253.61
+invoice181.html,group,5,,FN
+invoice181.html,group,,,,product,Rustic Plastic Bench,
+invoice181.html,group,,,,quantity,45.00,
+invoice181.html,group,,,,price,51.92,
+invoice181.html,group,1,,FN
+invoice181.html,group,,,,product,Enormous Granite Keyboard,
+invoice181.html,group,,,,quantity,20.00,
+invoice181.html,group,,,,price,60.41,
+invoice181.html,group,0,,FN
+invoice181.html,group,,,,product,Rustic Rubber Pants,
+invoice181.html,group,,,,quantity,28.00,
+invoice181.html,group,,,,price,317.66,
+invoice181.html,group,2,,FN
+invoice181.html,group,,,,product,Incredible Cotton Coat,
+invoice181.html,group,,,,quantity,1.00,
+invoice181.html,group,,,,price,414.29,
+invoice181.html,group,4,,FN
+invoice181.html,group,,,,product,Aerodynamic Iron Coat,
+invoice181.html,group,,,,quantity,10.00,
+invoice181.html,group,,,,price,226.08,
+invoice181.html,group,7,,FN
+invoice181.html,group,,,,product,Synergistic Paper Car,
+invoice181.html,group,,,,quantity,27.00,
+invoice181.html,group,,,,price,152.07,
+invoice181.html,group,3,,FN
+invoice181.html,group,,,,product,Gorgeous Wooden Chair,
+invoice181.html,group,,,,quantity,51.00,
+invoice181.html,group,,,,price,103.10,
+invoice181.html,group,6,,FN
+invoice181.html,group,,,,product,Incredible Bronze Pants,
+invoice181.html,group,,,,quantity,13.00,
+invoice181.html,group,,,,price,460.42,
+invoice183.html,group,7,,"FP,FN"
+invoice183.html,group,,,,product,Aerodynamic Rubber Plate,Aerodynamic Rubber Plate
+invoice183.html,group,,,,quantity,16.00,16
+invoice183.html,group,,,,price,214.83,214.83
+invoice183.html,group,0,,FN
+invoice183.html,group,,,,product,Practical Paper Car,
+invoice183.html,group,,,,quantity,2.00,
+invoice183.html,group,,,,price,472.91,
+invoice183.html,group,6,,FN
+invoice183.html,group,,,,product,Awesome Rubber Car,
+invoice183.html,group,,,,quantity,53.00,
+invoice183.html,group,,,,price,342.20,
+invoice183.html,group,3,,FN
+invoice183.html,group,,,,product,Small Concrete Bag,
+invoice183.html,group,,,,quantity,24.00,
+invoice183.html,group,,,,price,247.31,
+invoice183.html,group,5,,FN
+invoice183.html,group,,,,product,Mediocre Bronze Coat,
+invoice183.html,group,,,,quantity,24.00,
+invoice183.html,group,,,,price,215.41,
+invoice183.html,group,2,,FN
+invoice183.html,group,,,,product,Awesome Wooden Watch,
+invoice183.html,group,,,,quantity,47.00,
+invoice183.html,group,,,,price,270.65,
+invoice183.html,group,1,,FN
+invoice183.html,group,,,,product,Rustic Bronze Watch,
+invoice183.html,group,,,,quantity,29.00,
+invoice183.html,group,,,,price,296.15,
+invoice183.html,group,4,,FN
+invoice183.html,group,,,,product,Ergonomic Linen Table,
+invoice183.html,group,,,,quantity,29.00,
+invoice183.html,group,,,,price,179.79,
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,group,,,"FP,FN"
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,group,,,,product,Provided Services Description (date range),SHIPPING & HANDLING
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,group,,,,quantity,1.00,i
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,group,,,,price,0.00,0.00
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,group,,,"FP,FN"
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,group,,,,product,StepsTo Life 32 of 52: Dynamic Praying - MP3 Download Download,StepsTo Life 32 of 52: Dynamic     Praying - MP3 Download     Download
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,group,,,,quantity,1.00,1
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,group,,,,price,2.49,£2.49
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,group,,,"FP,FN"
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,group,,,,product,"Very long product description that occupies more than 1 line - in fact, it occupies 2 lines",One line product description
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,group,,,,quantity,1.00,1
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,group,,,,price,199.99,420.00
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,group,,,"FP,FN"
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,group,,,,product,Installation,
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,group,,,,price,1250.00,1.250
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,group,,,"FP,FN"
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,group,,,,product,Accom-odslon Thnday 4th,
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,group,,,,quantity,1.00,1
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,group,,,,price,87.50,
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,group,,,"FP,FN"
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,group,,,,product,Bathroom sink installation,Bathroom sink installation
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,group,,,,quantity,2.00,2
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,group,,,,price,250.00,250.00
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,group,,,"FP,FN"
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,group,,,,product,Penjualan Jasa Service Periode Januari 2013,Penjualan Jasa Service Periode Januari 2013
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,group,,,,quantity,1.00,
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,group,,,,price,1000000.00,"1,000,000.00"
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,group,,,"FP,FN"
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,group,,,,product,Example product,Example product
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,group,,,,quantity,12.00,
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,group,,,,price,362.00,362
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,group,,,FN
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,group,,,,product,DEBEER SILKY SILVER,
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,group,,,,quantity,1.00,
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,group,,,,price,3913.04,
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,group,,,"FP,FN"
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,group,,,,product,APPLE IPAD CASING - WHITE,
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,group,,,,quantity,20000.05,2
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,group,,,,price,20.00,20.00
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,group,,,"FP,FN"
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,group,,,,product,Testing,Testing
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,group,,,,quantity,2.00,2
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,group,,,,price,75.00,
+train.74c88592-32f2-4b36-812e-423400fa362d.html,group,,,"FP,FN"
+train.74c88592-32f2-4b36-812e-423400fa362d.html,group,,,,product,Install 3 Air Fresheners,Install 3 Air Fresheners
+train.74c88592-32f2-4b36-812e-423400fa362d.html,group,,,,quantity,3.00,3
+train.74c88592-32f2-4b36-812e-423400fa362d.html,group,,,,price,5.00,5.00
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,group,,,FN
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,group,,,,product,TELECOM MAINTENANCE AGREEMENT,
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,group,,,,quantity,1.00,
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,group,,,,price,425.00,
+train.8a17ce28-e4c1-4423-b647-968628636241.html,group,,,"FP,FN"
+train.8a17ce28-e4c1-4423-b647-968628636241.html,group,,,,product,"_ , . includes card readcr, receipt phnter. iPad Complete Kit POS , .stand, & cash drawer","_ , . includes card readcr, receipt phnter. iPad     Complete Kit POS , .     stand, & cash drawer"
+train.8a17ce28-e4c1-4423-b647-968628636241.html,group,,,,quantity,1.00,1
+train.8a17ce28-e4c1-4423-b647-968628636241.html,group,,,,price,649.00,649.00
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,group,,,"FP,FN"
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,group,,,,product,Product narro,
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,group,,,,quantity,1.00,1
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,group,,,,price,0.00,
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,group,,,"FP,FN"
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,group,,,,product,HP LaserJet 5200,"PDC-E53O0 -     2.6GHz/ 1GB/320GB/ SM P- DVD/FDO/VB     LG 18.5"" WLCD     HP LaserJet 5200"
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,group,,,,quantity,1.00,1.00
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,group,,,,price,1100.00,1.100.00
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,group,,,"FP,FN"
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,group,,,,product,One line product description,One line product description
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,group,,,,quantity,2.00,2
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,group,,,,price,420.00,420 00

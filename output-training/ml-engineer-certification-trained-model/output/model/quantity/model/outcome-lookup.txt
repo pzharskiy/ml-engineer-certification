@@ -1,0 +1,5 @@
+1 O
+2 S-quantity
+3 B-quantity
+4 E-quantity
+5 I-quantity

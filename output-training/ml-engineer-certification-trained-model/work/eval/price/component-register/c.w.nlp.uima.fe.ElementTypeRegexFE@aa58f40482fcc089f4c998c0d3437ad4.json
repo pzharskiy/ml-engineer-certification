@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.ElementTypeRegexFE","featureName":"CllTpTm","pattern":{"pattern":"\\d+:\\d+\\s*(am|AM|pm|PM)\\s*(-|to)\\s*\\d+:\\d+\\s*(am|AM|pm|PM)","flags":0},"searchClass":"com.workfusion.vds.sdk.api.nlp.model.Cell"}

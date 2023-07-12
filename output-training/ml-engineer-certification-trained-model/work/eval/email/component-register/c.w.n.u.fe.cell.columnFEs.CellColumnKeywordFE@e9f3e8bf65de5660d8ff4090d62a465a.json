@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.cell.columnFEs.CellColumnKeywordFE","dictionary":{"@type":"java.util.ArrayList","@items":["email","email address","contact","contact email"]}}

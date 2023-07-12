@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.ElementTypeRegexFE","featureName":"CllTpStckK","pattern":{"pattern":"Stock\\s*#","flags":0},"searchClass":"com.workfusion.vds.sdk.api.nlp.model.Cell"}

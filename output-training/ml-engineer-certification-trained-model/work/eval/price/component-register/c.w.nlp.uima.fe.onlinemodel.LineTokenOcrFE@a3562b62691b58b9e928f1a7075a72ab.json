@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.onlinemodel.LineTokenOcrFE","baseFeatureName":"tokenOcr_LEFT","nGramRange":3,"direction":{"name":"LEFT"}}

@@ -1,0 +1,5 @@
+"product"
+"item"
+"description of services"
+"description"
+"particulars"

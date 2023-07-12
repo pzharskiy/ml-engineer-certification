@@ -1,0 +1,1 @@
+[{"name":"invoice_number","extracted":"invoice_number","gold":"O","extractedValue":"16","foldName":"fold4","scores":{"invoice_number":0.5211618739574976}},{"name":"invoice_number","extracted":"O","gold":"invoice_number","goldValue":"16 4 32836 3","foldName":"fold4","scores":{"O":-1.0}}]

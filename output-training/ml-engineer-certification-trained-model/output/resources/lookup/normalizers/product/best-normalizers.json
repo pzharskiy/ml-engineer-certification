@@ -1,0 +1,1 @@
+{"@type":"java.util.ArrayList","@items":[{"@type":"com.workfusion.vds.sdk.nlp.component.processing.normalization.text.WhitespaceNormalizer","pattern":{"pattern":"(\\p{Space}|\\h)+","flags":0},"target":" ","count":2147483647}]}

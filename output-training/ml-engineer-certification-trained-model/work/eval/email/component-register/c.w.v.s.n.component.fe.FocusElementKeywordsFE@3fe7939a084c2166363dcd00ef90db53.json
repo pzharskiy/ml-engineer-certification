@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.vds.sdk.nlp.component.fe.FocusElementKeywordsFE","keywords":{"@type":"java.util.HashSet","@items":["contact","email address","contact email","email"]},"searchClass":"com.workfusion.vds.sdk.api.nlp.model.Cell","isCaseSensitive":false}

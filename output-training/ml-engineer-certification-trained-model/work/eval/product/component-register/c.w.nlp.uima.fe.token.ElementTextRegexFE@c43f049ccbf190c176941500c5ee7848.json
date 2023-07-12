@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.token.ElementTextRegexFE","featureName":"IsCapitalCharNumberHyphenStar","coveredTextRegex":"[A-Z0-9—*\\-]+"}

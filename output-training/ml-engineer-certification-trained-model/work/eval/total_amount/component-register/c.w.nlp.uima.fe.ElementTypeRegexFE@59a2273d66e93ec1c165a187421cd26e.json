@@ -1,0 +1,1 @@
+{"@type":"com.workfusion.nlp.uima.fe.ElementTypeRegexFE","featureName":"CllTpVnNmbr","pattern":{"pattern":"[0-9A-Z]{17}","flags":0},"searchClass":"com.workfusion.vds.sdk.api.nlp.model.Cell"}

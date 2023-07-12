@@ -1,0 +1,1 @@
+[{"name":"price","extracted":"price","gold":"price","extractedValue":"1.70","goldValue":"1.70","foldName":"fold4","scores":{"price":0.5128660009100012}},{"name":"price","extracted":"O","gold":"price","goldValue":"41","foldName":"fold4","scores":{"O":-1.0}},{"name":"price","extracted":"O","gold":"price","goldValue":"130","foldName":"fold4","scores":{"O":-1.0}}]

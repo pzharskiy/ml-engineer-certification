@@ -1,0 +1,51 @@
+FEATURE_NAME,FEATURE_EXTRACTOR,CLASS,SCORE
+IsLastInFocus_Token_Cell,c.w.n.u.f.cell.tokenFEs.IsLastElementInFocusFE@720f32402b981c64e1c3f1f50b92076c,B-price,-0.5481
+IsLastInFocus_Token_Line,c.w.n.u.f.cell.tokenFEs.IsLastElementInFocusFE@d9fa09edfcd1b6bf5a8e7b8a6399c0f4,B-price,-0.4886
+CellRowEmptyCellCount,c.w.n.u.fe.cell.rowFEs.CellRowEmptyCellCountFE@8c21cd563c37bcd4dfd607a4b854212e,B-price,-0.4608
+F_PR_0_3_2_F_CI_NamedEntity_0_ElementProperty_mentionType=priceWithoutCurrency,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@784c19393e7b9a1f2627f5a643aa2054,B-price,-0.4039
+FirstTopNonNumberCell_unit_cost,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,B-price,0.3879
+F_FL_0_5_0_CI_NamedEntity_0_ElementProperty_mentionType=price,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@79733beb6dc6bf4fc345d262b6b91b9c,B-price,-0.3566
+price_match_table_column_header,c.w.a.f.t.MatchFullColumnOrRowWithSpecifiedHeaderFeatureExtractor@f51373ecfa0a95103aa58bca77b97e8a,B-price,0.3551
+ColHead_unit_price,c.w.nlp.uima.fe.onlinemodel.ColumnHeaderFE@472b3ee1a971628102e99e99e834fa4d,B-price,0.3526
+FirstTopNonNumberCell_unit_price,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,B-price,0.3244
+pos_in_cell=middle,c.w.v.n.u.f.sentence.position.PositionInCoveringFE@81ed0ed1544708a2f3037d0d224ad0d4,B-price,-0.3208
+cell_size=single,c.w.v.n.u.f.sentence.position.PositionInCoveringFE@81ed0ed1544708a2f3037d0d224ad0d4,B-price,-0.3204
+LeftmostCell_1,c.w.n.uima.fe.onlinemodel.FirstLeftCellFE@cfa4b4e9fb2ab911f16ac8089c15d01f,B-price,0.3101
+LineSize,c.w.nlp.uima.fe.cell.lineFEs.LineSizeFE@2c7dbafbeba4cbea924a1063953be557,B-price,-0.3064
+ColHead_unit_cost,c.w.nlp.uima.fe.onlinemodel.ColumnHeaderFE@472b3ee1a971628102e99e99e834fa4d,B-price,0.3060
+F_FL_0_5_3_CI_NamedEntity_0_ElementProperty_mentionType=currencyCode,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@79733beb6dc6bf4fc345d262b6b91b9c,B-price,0.2779
+PNnECh_4=ting,c.w.n.u.f.cell.charFEs.PreviousNnonEmptyCharsFE@267f399f3dbf3064d6e21ae4dad891ae,B-price,0.2537
+LeftmostCell_gorgeous_granite_bag,c.w.n.uima.fe.onlinemodel.FirstLeftCellFE@cfa4b4e9fb2ab911f16ac8089c15d01f,B-price,0.2531
+tokenOcr_LEFT_2=product,c.w.nlp.uima.fe.onlinemodel.LineTokenOcrFE@a3562b62691b58b9e928f1a7075a72ab,B-price,0.2521
+CFRSCCT_PRICE,c.w.n.u.f.c.r.CellFirstRowSameColumnCoveredTokenFE@2e208bcb3c848af9798234d5659767b9,B-price,0.2497
+tokenOcr_RIGHT_0=usd,c.w.nlp.uima.fe.onlinemodel.LineTokenOcrFE@77cafaa04e1418d241a1b3b21da37b1e,B-price,0.2478
+LNIFA_price_Row,c.w.v.s.n.c.fe.ner.IsLastNerInFocusElementFE@49cd6e5ca05620e8b8ff783e182f6fb0,B-price,-0.2457
+F_CI_Cell_0_CNFIC_2_0_2_KwrdInAnn_unit price_Cell,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.FocusElementKeywordsFE@afd428b7c47ea33dafdd2f2135853fb7,B-price,0.2442
+ClClmnKwrd_unit price,c.w.n.u.fe.cell.columnFEs.CellColumnKeywordFE@c94c80a11f6da481d3fdaa9bfe8cbaf6,B-price,0.2426
+FirstTopNonNumberCell__EMPTY_,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,B-price,-0.2408
+posIn_Token_Line_1,c.w.v.s.nlp.component.fe.PositionInCoveringFE@4344423c75b48ca29332d66e4e490e14,B-price,-0.2363
+pos_in_cell=end,c.w.v.n.u.f.sentence.position.PositionInCoveringFE@81ed0ed1544708a2f3037d0d224ad0d4,B-price,-0.2278
+TRIR_100,c.w.n.u.f.c.t.FocusElementRepeatedInSearchElementFE@cab42e99ea83d379cdcc45ee8623d3a3,B-price,0.2264
+F_CI_Cell_0_CNUNE_2_0_3_SmlKwrds_8_0_net price,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.SimilarityToKeywordsFE@b75a6b0aef8cc1f7577d5217102732f2,B-price,0.2219
+F_CI_Cell_0_F_C_NamedEntity_3_ElementProperty_mentionType=priceWithoutCurrency,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@e9bbf742b1786ec6956c8d4329357240,B-price,0.2198
+F_CI_Cell_0_F_C_NamedEntity_2_ElementProperty_mentionType=priceWithoutCurrency,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@e9bbf742b1786ec6956c8d4329357240,B-price,0.2163
+tokenOcr_LEFT_2,c.w.nlp.uima.fe.onlinemodel.LineTokenOcrFE@a3562b62691b58b9e928f1a7075a72ab,B-price,-0.2144
+F_CI_Line_0_FL_0_2_1_KwrdInAnn_subtotal_Line,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.FocusElementKeywordsFE@90b22015595da897cb68f0fcb91f50fd,B-price,0.2120
+ClClmnKwrd_$,c.w.n.u.fe.cell.columnFEs.CellColumnKeywordFE@c94c80a11f6da481d3fdaa9bfe8cbaf6,B-price,0.1962
+ClClmnKwrd_subtotal,c.w.n.u.fe.cell.columnFEs.CellColumnKeywordFE@c94c80a11f6da481d3fdaa9bfe8cbaf6,B-price,0.1912
+F_CI_Cell_0_CNDIR_2_1_0_F_C_NamedEntity_1_ElementProperty_mentionType=priceWithoutCurrency,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@73bf887c8e79ff62172428e3c9e67644,B-price,0.1842
+CAARIPG_00,c.w.n.u.f.c.tokenFEs.ElementValueRepeatedInPageFE@dfe7aebd98f48d04bbb6e11204748bed,B-price,-0.1828
+F_CI_Cell_0_CNFIC_2_0_3_KwrdInAnn_unit price_Cell,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.FocusElementKeywordsFE@afd428b7c47ea33dafdd2f2135853fb7,B-price,0.1809
+F_CI_Cell_0_CNFIC_2_1_1_F_C_NamedEntity_2_ElementProperty_mentionType=currencyCode,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@98fd766ea1193e57e8cf899f13a82c42,B-price,0.1794
+F_CI_Cell_0_CNDIR_2_1_1_KwrdInAnn_invoice_Cell,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.FocusElementKeywordsFE@3558c04412015b1c5bbef3601477c982,B-price,0.1723
+LeftmostCell_service_product,c.w.n.uima.fe.onlinemodel.FirstLeftCellFE@cfa4b4e9fb2ab911f16ac8089c15d01f,B-price,0.1700
+ColHead_unit_cost_s,c.w.nlp.uima.fe.onlinemodel.ColumnHeaderFE@472b3ee1a971628102e99e99e834fa4d,B-price,0.1684
+F_FL_0_5_3_CI_NamedEntity_0_ElementProperty_mentionType=price,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@79733beb6dc6bf4fc345d262b6b91b9c,B-price,-0.1671
+F_CI_Cell_0_CNUNE_2_0_3_F_C_NamedEntity_1_ElementProperty_mentionType=supplier_name,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@6155fe06d447151f0d6b7c784ed1212f,B-price,0.1650
+F_CI_Cell_0_CNUNE_2_0_2_SmlKwrds_8_0_unit price,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.SimilarityToKeywordsFE@b75a6b0aef8cc1f7577d5217102732f2,B-price,0.1632
+F_CI_Cell_0_CNFIC_2_0_3_F_C_NamedEntity_0_ElementProperty_mentionType=supplier_name,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@98fd766ea1193e57e8cf899f13a82c42,B-price,0.1612
+F_CI_Cell_0_CNUNE_2_4_3_F_C_NamedEntity_1_ElementProperty_mentionType=priceWithoutCurrency,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.nlp.uima.fe.token.ElementPropertyFE@6155fe06d447151f0d6b7c784ed1212f,B-price,0.1572
+F_CI_Cell_0_CNFIC_2_0_2_SmlKwrds_8_0_unit price,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.SimilarityToKeywordsFE@df8067f08dfe9910dced361d78719c1e,B-price,0.1556
+F_CI_Line_0_FL_0_2_1_KwrdInAnn_invoice_Line,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.n.component.fe.FocusElementKeywordsFE@90b22015595da897cb68f0fcb91f50fd,B-price,0.1527
+PNnECh_4=$,c.w.n.u.f.cell.charFEs.PreviousNnonEmptyCharsFE@267f399f3dbf3064d6e21ae4dad891ae,B-price,0.1523
+PNnECh_5=$,c.w.n.u.f.cell.charFEs.PreviousNnonEmptyCharsFE@6a42ed28bba9af899affb58472af8379,B-price,0.1520

@@ -1,0 +1,51 @@
+FEATURE_NAME,FEATURE_EXTRACTOR,TP,FP,SCORE
+F_CI_Cell_0_CNUNE_2_4_0_ALC_AutoMLCell=development,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,13,0,1.00
+F_CI_Line_0_LNL_2_0_ALC_AutoMLLine=s,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@564edfe7d3e09967de9e1f01a003f317,12,0,1.00
+FirstTopNonNumberCell_windshield_cleaner_co,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,11,0,1.00
+CellLastTokenNoCase=wallet,c.w.n.u.fe.cell.tokenFEs.CellLastTokenNoCaseFE@91aad3d174785d3d79640d66153e51d4,27,0,1.00
+F_CI_Cell_0_CNUNE_2_0_1_ALC_AutoMLCell=product,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,16,0,1.00
+FCITIC=la,c.w.n.u.f.cell.tokenFEs.CellFirstTokenNoCaseFE@9d485f0f74a67f90292ceb1600240afa,14,0,1.00
+Xx2N3_x8_1,c.w.n.uima.fe.cell.tokenFEs.CellTokenXx2N3FE@3bfb42620444ede9c2fbcdeee8ee6156,59,0,1.00
+F_CI_Cell_0_CNUNE_2_0_0_ALC_AutoMLCell=product,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,221,0,1.00
+FCITIC=october,c.w.n.u.f.cell.tokenFEs.CellFirstTokenNoCaseFE@9d485f0f74a67f90292ceb1600240afa,21,0,1.00
+FirstTopNonNumberCell_bt_speakers_bluetooth_speakers_for_lenova_laptop,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,20,0,1.00
+CellLastTokenNoCase=yellow,c.w.n.u.fe.cell.tokenFEs.CellLastTokenNoCaseFE@91aad3d174785d3d79640d66153e51d4,10,0,1.00
+F_CI_Line_0_FL_0_2_1_ALC_AutoMLLine=$11,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@3a344ba06bb337807d886b7843b5c1dc,12,0,1.00
+F_CI_Cell_0_CNUNE_2_2_2_ALC_AutoMLCell=mobile alarm gps locator,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,11,0,1.00
+F_CI_Cell_0_CNUNE_2_1_2_ALC_AutoMLCell=description,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,10,0,1.00
+Xx2N3__1x4,c.w.n.uima.fe.cell.tokenFEs.CellTokenXx2N3FE@3bfb42620444ede9c2fbcdeee8ee6156,13,0,1.00
+ColHead_la_made_luci_braid_detail_34sleeve_knit_top,c.w.nlp.uima.fe.onlinemodel.ColumnHeaderFE@472b3ee1a971628102e99e99e834fa4d,23,0,1.00
+F_CI_Cell_0_CNUNE_2_4_1_ALC_AutoMLCell=description,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,28,0,1.00
+FCITIC=durable,c.w.n.u.f.cell.tokenFEs.CellFirstTokenNoCaseFE@9d485f0f74a67f90292ceb1600240afa,45,0,1.00
+F_CI_Cell_0_CNFIC_2_0_1_ALC_AutoMLCell=itom,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,19,0,1.00
+Xx2N3_N3X,c.w.n.uima.fe.cell.tokenFEs.CellTokenXx2N3FE@3bfb42620444ede9c2fbcdeee8ee6156,37,0,1.00
+F_CI_Cell_0_CNUNE_2_4_1_ALC_AutoMLCell=too 110gb 110gb sata hard onve,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,11,0,1.00
+F_CI_Cell_0_CNUNE_2_2_0_ALC_AutoMLCell=service,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,12,0,1.00
+LastTokenInCell=Coat,c.w.n.uima.fe.cell.tokenFEs.CellLastTokenFE@a08f105f3f0ae58b681892c7780a967e,22,0,1.00
+F_CI_Cell_0_CNUNE_2_0_1_ALC_AutoMLCell=itom,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,12,0,1.00
+F_CI_Cell_0_CNFIC_2_1_0_ALC_AutoMLCell=template design     simple design based on logo and corporate colors given. one design with two  revision stages.,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,24,0,1.00
+"F_CI_Cell_0_CNFIC_2_1_0_ALC_AutoMLCell=gorgeous silkf ,nputer",c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,12,0,1.00
+Xx2N3_N1XN4XN3,c.w.n.uima.fe.cell.tokenFEs.CellTokenXx2N3FE@3bfb42620444ede9c2fbcdeee8ee6156,18,0,1.00
+F_CI_Cell_0_CNFIC_2_0_0_ALC_AutoMLCell=project breakdown,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,41,0,1.00
+F_CI_Cell_0_CNFIC_2_0_1_ALC_AutoMLCell=_ particulars _,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,10,0,1.00
+F_CI_Cell_0_CNFIC_2_0_0_ALC_AutoMLCell=product -l,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,15,0,1.00
+CellLastTokenNoCase=required.,c.w.n.u.fe.cell.tokenFEs.CellLastTokenNoCaseFE@91aad3d174785d3d79640d66153e51d4,33,0,1.00
+LastTokenInCell=Doer,c.w.n.uima.fe.cell.tokenFEs.CellLastTokenFE@a08f105f3f0ae58b681892c7780a967e,14,0,1.00
+FirstTopNonNumberCell_pcflsn_ifezyk_poisko_ozien_dooryl_c,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,19,0,1.00
+F_CI_Cell_0_CNFIC_2_1_0_ALC_AutoMLCell=awesome wooden _amp,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,25,0,1.00
+X1x2N3_N3X2,c.w.n.u.fe.cell.tokenFEs.CellTokenX1x2N3FE@a332314487d1c564cd72a56eb16a1dc0,24,0,1.00
+Xx2N3_XN3_1Xx6,c.w.n.uima.fe.cell.tokenFEs.CellTokenXx2N3FE@3bfb42620444ede9c2fbcdeee8ee6156,14,0,1.00
+F_CI_Cell_0_CNFIC_2_1_1_ALC_AutoMLCell=oil filter,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@a1f120fc1e5d8f8bea43b7dedd118a80,18,0,1.00
+FirstTopNonNumberCell_template_design_simple_design_based_on_logo_and_corporate_colors_given_one_design_with_two_revision_stages,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,15,0,1.00
+F_CI_Line_0_LNR_2_0_ALC_AutoMLLine=1.1,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@1fa3eff0939e2777b5729dfce9f3aca4,17,0,1.00
+FirstTopNonNumberCell_frendi_pwcasj_bonoor_saw,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,14,0,1.00
+CAARIDOC_gorgeous,c.w.n.u.f.c.t.ElementValueRepeatedInDocumentFE@581fc2532ca4afa0f32f01e7a325b88a,19,0,1.00
+FCITIC=wedding,c.w.n.u.f.cell.tokenFEs.CellFirstTokenNoCaseFE@9d485f0f74a67f90292ceb1600240afa,37,0,1.00
+F_CI_Cell_0_CNUNE_2_1_1_ALC_AutoMLCell=nmg plus - annual - proration,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,13,0,1.00
+F_CI_Cell_0_CNUNE_2_3_1_ALC_AutoMLCell=engish - hello,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,12,0,1.00
+FCITIC=hp,c.w.n.u.f.cell.tokenFEs.CellFirstTokenNoCaseFE@9d485f0f74a67f90292ceb1600240afa,62,0,1.00
+F_CI_Cell_0_CNUNE_2_0_0_ALC_AutoMLCell=project breakdown,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@d83e0a15ea7ed60dd4ca0e6009c6524c,32,0,1.00
+FirstTopNonNumberCell_product,c.w.n.u.f.onlinemodel.NearestTopNonNumberCellFE@b5ea5d89df581005bc685adf519ad27e,124,0,1.00
+CAARIDOC_durable,c.w.n.u.f.c.t.ElementValueRepeatedInDocumentFE@581fc2532ca4afa0f32f01e7a325b88a,15,0,1.00
+F_CI_Line_0_LNR_2_0_ALC_AutoMLLine=p1111,c.w.n.u.fe.context.ContextFeatureExtractor$c.w.v.s.nlp.component.fe.LowerCaseWordshapeFE@1fa3eff0939e2777b5729dfce9f3aca4,21,0,1.00
+CellLastTokenNoCase=pants,c.w.n.u.fe.cell.tokenFEs.CellLastTokenNoCaseFE@91aad3d174785d3d79640d66153e51d4,36,0,1.00

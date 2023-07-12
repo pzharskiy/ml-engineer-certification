@@ -1,0 +1,1 @@
+[{"dataValue":"QE24584","fieldType":"TEXT","name":"invoice_number","begin":446,"end":453,"score":0.46431514107181876},{"dataValue":"08/19/1970","fieldType":"DATE","name":"invoice_date","begin":494,"end":502,"score":0.691826591586495},{"dataValue":"1896.29","fieldType":"NUMBER","name":"total_amount","begin":1564,"end":1571,"score":0.6341217576496434}]

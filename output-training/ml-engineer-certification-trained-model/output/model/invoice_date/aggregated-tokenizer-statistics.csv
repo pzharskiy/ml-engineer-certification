@@ -1,0 +1,4 @@
+ID,CHAR_MISSED,TOKENS_COUNT,FIT
+c.w.v.s.n.c.a.tokenizer.SplitterTokenAnnotator@0477559c8683143b462cd2e8f1377c77,115,192,84
+c.w.v.s.n.c.a.tokenizer.SplitterTokenAnnotator@90a570ede04f0a50d78664d40cb92682,1072,35,0
+c.w.v.s.n.c.a.tokenizer.SplitterTokenAnnotator@bef6e9f8acce2061da05e66885c5410e,203,231,84

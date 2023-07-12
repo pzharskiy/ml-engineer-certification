@@ -1,0 +1,6 @@
+CHAIN,CORRECT,TOTAL,ACCURACY
+"",7,85,0.08235294117647059
+OcrErrorsDateNormalizer,7,85,0.08235294117647059
+DateFormatNormalizer,25,85,0.29411764705882354
+OcrErrorsDateNormalizer->DateFormatNormalizer,74,85,0.8705882352941177
+DateFormatNormalizer->OcrErrorsDateNormalizer,25,85,0.29411764705882354

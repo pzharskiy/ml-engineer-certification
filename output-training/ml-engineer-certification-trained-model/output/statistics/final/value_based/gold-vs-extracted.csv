@@ -1,0 +1,1496 @@
+FILE_NAME,FIELD_NAME,GOLD,EXTRACTED,RESULT,REASON,SCORE
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,product,QUAM ACCUSANTIUM MINUS,,FN,FAIL_MODEL,undefined
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,91936.00,901.00,"FP,FN",FAIL_RULES,0.5088
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,,-8.00,FP,FAIL_MODEL,0.4974
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,,210.00,FP,FAIL_MODEL,0.6289
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,,210.00,FP,FAIL_MODEL,0.6142
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,,1.00,FP,FAIL_MODEL,0.6055
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,quantity,,1243384.00,FP,FAIL_MODEL,0.4153
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,total_amount,678500.46,14943000.00,"FP,FN",FAIL_RULES,0.5708
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,price,,11910110011.00,FP,FAIL_MODEL,0.5477
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,supplier_name,JENKINS-HAMPTON,JENKINS-HAMPTON,TP,EXTRACT_MODEL,0.4790
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,invoice_number,67080072,67080072,TP,EXTRACT_MODEL,0.7856
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,email,credit@iqulfoil.com,credit@iqulfoil.com,TP,EXTRACT_MODEL,0.9115
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html,invoice_date,01/09/2003,01/09/2003,TP,EXTRACT_MODEL,0.8370
+389057_1526301926_0.html,product,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,TP,EXTRACT_MODEL,0.4263
+389057_1526301926_0.html,product,HP 81 E 8GB SP PCI-E FC HBA Manufacturer Part Number AJ762B Serial No: 5CF5430GDD Serial No: 5CF5430GXS,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,product,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,product,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Manufacturer Part Number 652583-B21 Serial No: 6C3539E6BM Serial No: 6C3539E659,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,product,HP DL380 GEN9 24SFF CUSTOM SRV Manufacturer Part Number EB172843 Serial No: MXQ5510015,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,quantity,2.00,23575.00,"FP,FN",FAIL_RULES,0.5755
+389057_1526301926_0.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.5046
+389057_1526301926_0.html,quantity,2.00,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+389057_1526301926_0.html,total_amount,436953.61,436953.61,TP,EXTRACT_RULES,0.6631
+389057_1526301926_0.html,price,287.99,287.99,TP,EXTRACT_MODEL,0.7561
+389057_1526301926_0.html,price,482.04,482.04,TP,EXTRACT_MODEL,0.7561
+389057_1526301926_0.html,price,224.54,224.54,TP,EXTRACT_MODEL,0.7597
+389057_1526301926_0.html,price,0.00,0.00,TP,EXTRACT_MODEL,0.7802
+389057_1526301926_0.html,price,12021.83,12021.83,TP,EXTRACT_RULES,0.6902
+389057_1526301926_0.html,supplier_name,Wilson-Lewis,Wilson-Lewis,TP,EXTRACT_MODEL,0.6950
+389057_1526301926_0.html,invoice_number,PPG5304,PPG5304,TP,EXTRACT_MODEL,0.6190
+389057_1526301926_0.html,email,sjkw@koew.com,sjkw@koew.com,TP,EXTRACT_MODEL,0.7388
+389057_1526301926_0.html,invoice_date,07/21/1989,07/21/1989,TP,EXTRACT_RULES,0.7767
+389842_advanced_1526302224_0.html,product,Vel nihil quidem aspernatur laborum. Vel nihil quidem aspernatur laborum. Quae ab sapiente sunt.,Vel nihil quidem aspernatur laborum. Vel nihil quidem aspernatur laborum. Quae ab sapiente sunt.,TP,EXTRACT_MODEL,0.7549
+389842_advanced_1526302224_0.html,product,Expedita dignissimos dignissimos modi. Expedita dignissimos dignissimos modi. Officiis earum quas repudiandae dolore modi accusamus.,Expedita dignissimos dignissimos modi. Expedita dignissimos dignissimos modi. Officiis earum quas repudiandae dolore modi accusamus.,TP,EXTRACT_MODEL,0.7905
+389842_advanced_1526302224_0.html,total_amount,3266.00,3266.00,TP,EXTRACT_RULES,0.7835
+389842_advanced_1526302224_0.html,price,169.21,169.21,TP,EXTRACT_MODEL,0.7225
+389842_advanced_1526302224_0.html,price,79.98,79.98,TP,EXTRACT_MODEL,0.6969
+389842_advanced_1526302224_0.html,supplier_name,Lucas-Wang LLC,Lucas-Wang LLC,TP,EXTRACT_RULES,0.6759
+389842_advanced_1526302224_0.html,invoice_number,YAO7789,YAO7789,TP,EXTRACT_MODEL,0.7089
+389842_advanced_1526302224_0.html,email,achremittance@cdw.com,achremittance@cdw.com,TP,EXTRACT_MODEL,0.7165
+389842_advanced_1526302224_0.html,invoice_date,05/03/2018,05/03/2018,TP,EXTRACT_RULES,0.6865
+doc00123720180117122026.html,product,Enormous Wool Shirt,Enormous Wool Shirt,TP,EXTRACT_MODEL,0.7965
+doc00123720180117122026.html,product,Intelligent Bronze Chair,Intelligent Bronze Chair,TP,EXTRACT_MODEL,0.7773
+doc00123720180117122026.html,product,Heavy Duty Wool Bottle,Heavy Duty Wool Bottle,TP,EXTRACT_MODEL,0.7307
+doc00123720180117122026.html,product,Intelligent Wooden Computer,Intelligent Wooden Computer,TP,EXTRACT_MODEL,0.7765
+doc00123720180117122026.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.8656
+doc00123720180117122026.html,quantity,59.00,59.00,TP,EXTRACT_RULES,0.8040
+doc00123720180117122026.html,quantity,39.00,39.00,TP,EXTRACT_RULES,0.8404
+doc00123720180117122026.html,quantity,39.00,39.00,TP,EXTRACT_RULES,0.8171
+doc00123720180117122026.html,total_amount,113093.82,113093.82,TP,EXTRACT_RULES,0.8228
+doc00123720180117122026.html,price,730.14,730.14,TP,EXTRACT_MODEL,0.9267
+doc00123720180117122026.html,price,761.52,761.52,TP,EXTRACT_MODEL,0.9215
+doc00123720180117122026.html,price,481.68,481.68,TP,EXTRACT_MODEL,0.9399
+doc00123720180117122026.html,price,349.09,349.09,TP,EXTRACT_MODEL,0.9215
+doc00123720180117122026.html,supplier_name,Blanda Inc,Blanda Inc,TP,EXTRACT_MODEL,0.6845
+doc00123720180117122026.html,invoice_number,7536317931,7536317931,TP,EXTRACT_MODEL,0.7896
+doc00124120180117122213.html,product,Synergistic Cotton Watch,Synergistic Cotton Watch,TP,EXTRACT_MODEL,0.8215
+doc00124120180117122213.html,product,Gorgeous Iron Keyboard,Gorgeous Iron Keyboard,TP,EXTRACT_MODEL,0.7448
+doc00124120180117122213.html,product,Enormous Marble Shirt,Enormous Marble Shirt,TP,EXTRACT_MODEL,0.7911
+doc00124120180117122213.html,product,Ergonomic Wool Plate,Ergonomic Wool Plate,TP,EXTRACT_MODEL,0.8148
+doc00124120180117122213.html,product,Heavy Duty Copper Shoes,Heavy Duty Copper Shoes,TP,EXTRACT_MODEL,0.7690
+doc00124120180117122213.html,product,Ergonomic Linen Wallet,Ergonomic Linen Wallet,TP,EXTRACT_MODEL,0.7905
+doc00124120180117122213.html,product,Durable Leather Plate,Durable Leather Plate,TP,EXTRACT_MODEL,0.7628
+doc00124120180117122213.html,product,Aerodynamic Paper Lamp,Aerodynamic Paper Lamp,TP,EXTRACT_MODEL,0.7813
+doc00124120180117122213.html,quantity,71.00,71.00,TP,EXTRACT_RULES,0.6944
+doc00124120180117122213.html,quantity,83.00,83.00,TP,EXTRACT_RULES,0.8279
+doc00124120180117122213.html,quantity,82.00,82.00,TP,EXTRACT_RULES,0.7757
+doc00124120180117122213.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.6769
+doc00124120180117122213.html,quantity,35.00,35.00,TP,EXTRACT_RULES,0.8169
+doc00124120180117122213.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.7507
+doc00124120180117122213.html,quantity,49.00,49.00,TP,EXTRACT_RULES,0.6769
+doc00124120180117122213.html,quantity,76.00,76.00,TP,EXTRACT_RULES,0.7743
+doc00124120180117122213.html,total_amount,227640.18,227.00,"FP,FN",FAIL_RULES,0.5552
+doc00124120180117122213.html,price,190.55,190.55,TP,EXTRACT_MODEL,0.8418
+doc00124120180117122213.html,price,257.78,257.78,TP,EXTRACT_MODEL,0.8423
+doc00124120180117122213.html,price,529.82,529.82,TP,EXTRACT_MODEL,0.8418
+doc00124120180117122213.html,price,621.36,621.36,TP,EXTRACT_MODEL,0.8787
+doc00124120180117122213.html,price,366.44,366.44,TP,EXTRACT_MODEL,0.9040
+doc00124120180117122213.html,price,930.36,930.36,TP,EXTRACT_MODEL,0.8787
+doc00124120180117122213.html,price,228.18,228.18,TP,EXTRACT_MODEL,0.8787
+doc00124120180117122213.html,price,433.46,433.46,TP,EXTRACT_MODEL,0.8418
+doc00124120180117122213.html,supplier_name,Osinski Inc,Osinski Inc,TP,EXTRACT_MODEL,0.7204
+doc00124120180117122213.html,invoice_number,2873872552,2873872552,TP,EXTRACT_MODEL,0.8951
+doc00124220180117122255.html,product,Gorgeous rubber Lame,Gorgeous rubber Lame,TP,EXTRACT_MODEL,0.7383
+doc00124220180117122255.html,product,Practical Paper Car,Practical Paper Car,TP,EXTRACT_MODEL,0.7522
+doc00124220180117122255.html,product,Gergeo-sAluminum lest,Gergeo-sAluminum lest,TP,EXTRACT_MODEL,0.6364
+doc00124220180117122255.html,product,Gorgeous Linen Pants,Gorgeous _ ~en Pants,"FP,FN",FAIL_MODEL,0.8176
+doc00124220180117122255.html,product,Gorgeous Plastic F ate,Gorgeous Plastic F ate,TP,EXTRACT_MODEL,0.7075
+doc00124220180117122255.html,product,Gorgeous Granite Bag,Gorgeous Granite Bag,TP,EXTRACT_MODEL,0.7376
+doc00124220180117122255.html,product,Lightweight Iron Wallet,"Lightweight /c"" Wallet","FP,FN",FAIL_MODEL,0.7097
+doc00124220180117122255.html,product,Aerodynamic Alumina Dlate,Aerodynamic Alumina Dlate,TP,EXTRACT_MODEL,0.7725
+doc00124220180117122255.html,product,Awesome Wooden Lamp,Awesome Wooden _amp,"FP,FN",FAIL_MODEL,0.6617
+doc00124220180117122255.html,quantity,57.00,59.00,"FP,FN",FAIL_RULES,0.5391
+doc00124220180117122255.html,quantity,59.00,59.00,TP,EXTRACT_RULES,0.5733
+doc00124220180117122255.html,quantity,17.00,17.00,TP,EXTRACT_RULES,0.5445
+doc00124220180117122255.html,quantity,75.00,75.00,TP,EXTRACT_RULES,0.5205
+doc00124220180117122255.html,quantity,93.00,93.00,TP,EXTRACT_RULES,0.5184
+doc00124220180117122255.html,quantity,16.00,16.00,TP,EXTRACT_RULES,0.4826
+doc00124220180117122255.html,quantity,54.00,54.00,TP,EXTRACT_RULES,0.4899
+doc00124220180117122255.html,quantity,89.00,,FN,FAIL_MODEL,undefined
+doc00124220180117122255.html,quantity,60.00,,FN,FAIL_MODEL,undefined
+doc00124220180117122255.html,total_amount,5151322.00,,FN,FAIL_MODEL,undefined
+doc00124220180117122255.html,price,364.69,364.69,TP,EXTRACT_MODEL,0.7783
+doc00124220180117122255.html,price,601.90,601.90,TP,EXTRACT_MODEL,0.8131
+doc00124220180117122255.html,price,415.38,415.38,TP,EXTRACT_MODEL,0.8156
+doc00124220180117122255.html,price,393.92,393.92,TP,EXTRACT_MODEL,0.8131
+doc00124220180117122255.html,price,657.23,657.23,TP,EXTRACT_MODEL,0.8063
+doc00124220180117122255.html,price,467.46,467.46,TP,EXTRACT_MODEL,0.8144
+doc00124220180117122255.html,price,491.42,59.00,"FP,FN",FAIL_RULES,0.5533
+doc00124220180117122255.html,price,189.54,5189.54,"FP,FN",FAIL_MODEL,0.4621
+doc00124220180117122255.html,price,216.69,16.00,"FP,FN",FAIL_RULES,0.6529
+doc00124220180117122255.html,price,,2.90,FP,FAIL_MODEL,0.6627
+doc00124220180117122255.html,supplier_name,Gibson Inc,Gibson Inc,TP,EXTRACT_MODEL,0.6822
+doc00124220180117122255.html,invoice_number,4716164810,4716164810,TP,EXTRACT_MODEL,0.7951
+doc00124520180117122409.html,product,Lightweight Steel Bench,Lightweight Steel Bench,TP,EXTRACT_MODEL,0.8628
+doc00124520180117122409.html,product,Aerodynamic Bronze Plate,Aerodynamic Bronze Plate,TP,EXTRACT_MODEL,0.8467
+doc00124520180117122409.html,product,Mediocre Iron Gloves,Mediocre Iron Gloves,TP,EXTRACT_MODEL,0.8159
+doc00124520180117122409.html,product,Fantastic Rubber Clock,Fantastic Rubber Clock,TP,EXTRACT_MODEL,0.8557
+doc00124520180117122409.html,product,Awesome Copper Pants,Awesome Copper Pants,TP,EXTRACT_MODEL,0.8642
+doc00124520180117122409.html,product,Ergonomic Granite Chair,Ergonomic Granite Chair,TP,EXTRACT_MODEL,0.8792
+doc00124520180117122409.html,product,Durable Cotton Keyboard,Durable Cotton Keyboard,TP,EXTRACT_MODEL,0.8025
+doc00124520180117122409.html,product,Heavy Duty Paper Coat,Heavy Duty Paper Coat,TP,EXTRACT_MODEL,0.8045
+doc00124520180117122409.html,product,Awesome Cotton Bottle,Awesome Cotton Bottle,TP,EXTRACT_MODEL,0.8321
+doc00124520180117122409.html,quantity,58.00,58.00,TP,EXTRACT_RULES,0.8647
+doc00124520180117122409.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.5922
+doc00124520180117122409.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.6663
+doc00124520180117122409.html,quantity,45.00,45.00,TP,EXTRACT_RULES,0.6014
+doc00124520180117122409.html,quantity,50.00,50.00,TP,EXTRACT_RULES,0.9001
+doc00124520180117122409.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.6911
+doc00124520180117122409.html,quantity,51.00,51.00,TP,EXTRACT_RULES,0.6985
+doc00124520180117122409.html,quantity,73.00,73.00,TP,EXTRACT_RULES,0.6101
+doc00124520180117122409.html,quantity,53.00,53.00,TP,EXTRACT_RULES,0.7626
+doc00124520180117122409.html,quantity,,/,FP,FAIL_MODEL,0.4861
+doc00124520180117122409.html,quantity,,/,FP,FAIL_MODEL,0.4748
+doc00124520180117122409.html,total_amount,200186.75,200186.75,TP,EXTRACT_RULES,0.7530
+doc00124520180117122409.html,price,147.71,147.71,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,price,507.03,507.03,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,price,595.52,595.52,TP,EXTRACT_MODEL,0.9074
+doc00124520180117122409.html,price,915.87,915.87,TP,EXTRACT_MODEL,0.9417
+doc00124520180117122409.html,price,36.78,36.78,TP,EXTRACT_MODEL,0.9131
+doc00124520180117122409.html,price,535.91,535.91,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,price,178.14,178.14,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,price,81.38,81.38,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,price,678.43,678.43,TP,EXTRACT_MODEL,0.9212
+doc00124520180117122409.html,supplier_name,"Hettinger, Hettinger and Hettinger","Hettinger, Hettinger and Hettinger",TP,EXTRACT_MODEL,0.7593
+doc00124520180117122409.html,invoice_number,7140088368,7140088368,TP,EXTRACT_MODEL,0.7985
+doc00126520180117123421.html,product,Fantastic Marble Gloves,Fantastic Marble Gloves,TP,EXTRACT_MODEL,0.7565
+doc00126520180117123421.html,product,Gorgeous Copper Table,Gorgeous Copper Tab’e,"FP,FN",FAIL_MODEL,0.7512
+doc00126520180117123421.html,product,Sleek Linen Keyboard,S eek Linen Kevbeard,"FP,FN",FAIL_MODEL,0.7635
+doc00126520180117123421.html,product,Gorgeous Iron Pants,Gorgeous Iron Pants,TP,EXTRACT_MODEL,0.8212
+doc00126520180117123421.html,product,Durable Marble Table,Durable Marble Table,TP,EXTRACT_MODEL,0.7714
+doc00126520180117123421.html,product,Synergistic Rubber Computer,Synergistic Rubber Computer,TP,EXTRACT_MODEL,0.8268
+doc00126520180117123421.html,product,Durable Linen Lamp,Durable Linen Lamp,TP,EXTRACT_MODEL,0.7131
+doc00126520180117123421.html,product,Small Paper Shoes,Small Paper Shoes,TP,EXTRACT_MODEL,0.7132
+doc00126520180117123421.html,quantity,86.00,86.00,TP,EXTRACT_RULES,0.8739
+doc00126520180117123421.html,quantity,44.00,44.00,TP,EXTRACT_RULES,0.9068
+doc00126520180117123421.html,quantity,91.00,91.00,TP,EXTRACT_RULES,0.9174
+doc00126520180117123421.html,quantity,16.00,16.00,TP,EXTRACT_RULES,0.9063
+doc00126520180117123421.html,quantity,90.00,90.00,TP,EXTRACT_RULES,0.9164
+doc00126520180117123421.html,quantity,76.00,76.00,TP,EXTRACT_RULES,0.8751
+doc00126520180117123421.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.9102
+doc00126520180117123421.html,quantity,11.00,11.00,TP,EXTRACT_RULES,0.8999
+doc00126520180117123421.html,total_amount,249945.60,66755.36,"FP,FN",FAIL_RULES,0.5189
+doc00126520180117123421.html,price,776.26,76.26,"FP,FN",FAIL_RULES,0.6755
+doc00126520180117123421.html,price,193.30,193.30,TP,EXTRACT_MODEL,0.9209
+doc00126520180117123421.html,price,524.74,524.74,TP,EXTRACT_MODEL,0.9209
+doc00126520180117123421.html,price,99.41,99.41,TP,EXTRACT_MODEL,0.8633
+doc00126520180117123421.html,price,21.34,21.34,TP,EXTRACT_MODEL,0.9340
+doc00126520180117123421.html,price,630.00,630.00,TP,EXTRACT_MODEL,0.8608
+doc00126520180117123421.html,price,862.61,862.61,TP,EXTRACT_MODEL,0.8870
+doc00126520180117123421.html,price,611291.00,611291.00,TP,EXTRACT_RULES,0.7781
+doc00126520180117123421.html,supplier_name,Jerde-Jerde,,FN,FAIL_MODEL,undefined
+doc00126520180117123421.html,invoice_number,3425417630,3425417630,TP,EXTRACT_RULES,0.6268
+doc00128620180117124239.html,product,Rustic Bronze Bench,Rustic Bronze Bench,TP,EXTRACT_MODEL,0.8025
+doc00128620180117124239.html,product,Awesome Cotton Shirt,Awesome Cotton Shirt,TP,EXTRACT_MODEL,0.7953
+doc00128620180117124239.html,product,Rustic Granite Wallet,Rustic Granite Wallet,TP,EXTRACT_MODEL,0.8038
+doc00128620180117124239.html,product,Ergonomic Concrete Bag,Ergonomic Concrete Bag,TP,EXTRACT_MODEL,0.8404
+doc00128620180117124239.html,quantity,80.00,80.00,TP,EXTRACT_RULES,0.8284
+doc00128620180117124239.html,quantity,38.00,38.00,TP,EXTRACT_RULES,0.7894
+doc00128620180117124239.html,quantity,31.00,31.00,TP,EXTRACT_RULES,0.7722
+doc00128620180117124239.html,quantity,39.00,39.00,TP,EXTRACT_RULES,0.7939
+doc00128620180117124239.html,total_amount,106124.71,106124.71,TP,EXTRACT_RULES,0.9113
+doc00128620180117124239.html,price,854.99,854.99,TP,EXTRACT_MODEL,0.9154
+doc00128620180117124239.html,price,423.83,423.83,TP,EXTRACT_MODEL,0.9278
+doc00128620180117124239.html,price,606.17,606.17,TP,EXTRACT_MODEL,0.9113
+doc00128620180117124239.html,price,277.33,277.33,TP,EXTRACT_MODEL,0.9154
+doc00128620180117124239.html,supplier_name,Stanton and Sons,Stanton and Sons,TP,EXTRACT_MODEL,0.5657
+doc00128620180117124239.html,invoice_number,8309703122,8309703122,TP,EXTRACT_MODEL,0.7078
+doc00130020180117124820.html,product,Gorgeous Silk Computer,"Gorgeous Silkf ,nputer","FP,FN",FAIL_MODEL,0.6293
+doc00130020180117124820.html,product,Small Marble Plate,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,product,Durable Copper Wallet,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,product,Fantastic Rubber Plate,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,product,Sleek Concrete Chair,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,quantity,74.00,74.00,TP,EXTRACT_RULES,0.5100
+doc00130020180117124820.html,quantity,72.00,72.00,TP,EXTRACT_RULES,0.5012
+doc00130020180117124820.html,quantity,99.00,99.00,TP,EXTRACT_RULES,0.5455
+doc00130020180117124820.html,quantity,86.00,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,quantity,77.00,,FN,FAIL_MODEL,undefined
+doc00130020180117124820.html,total_amount,264827.42,264827.42,TP,EXTRACT_RULES,0.8040
+doc00130020180117124820.html,price,814.26,814.26,TP,EXTRACT_MODEL,0.5307
+doc00130020180117124820.html,price,210.27,210.27,TP,EXTRACT_MODEL,0.5732
+doc00130020180117124820.html,price,816.10,816.10,TP,EXTRACT_MODEL,0.5732
+doc00130020180117124820.html,price,152.20,152.20,TP,EXTRACT_MODEL,0.5732
+doc00130020180117124820.html,price,692.83,692.83,TP,EXTRACT_MODEL,0.5732
+doc00130020180117124820.html,supplier_name,"Stanton, Stanton and Stanton","Stanton, Stanton and Stanton",TP,EXTRACT_MODEL,0.7540
+doc00130020180117124820.html,invoice_number,0637809108,0637809108,TP,EXTRACT_MODEL,0.8385
+doc00131320180117125408.html,product,Heavy Duty Leather Watch,Hea.n Dut. _eather Watch,"FP,FN",FAIL_MODEL,0.7855
+doc00131320180117125408.html,product,Intelligent Cotton Plate,Xntellige''t Cotton Plate,"FP,FN",FAIL_MODEL,0.8330
+doc00131320180117125408.html,product,Awesome Steel Shoes,Awesome Steel Shoes,TP,EXTRACT_MODEL,0.8712
+doc00131320180117125408.html,product,Awesome iron Coat,Awesome iron Coat,TP,EXTRACT_MODEL,0.8173
+doc00131320180117125408.html,product,Intelligent Leather Hat,Inte gent i_eather Hat,"FP,FN",FAIL_MODEL,0.7163
+doc00131320180117125408.html,product,Rustic Rubber Computer,„Rustic Pofcoer Computer,"FP,FN",FAIL_MODEL,0.8522
+doc00131320180117125408.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.8895
+doc00131320180117125408.html,quantity,40.00,40.00,TP,EXTRACT_RULES,0.8480
+doc00131320180117125408.html,quantity,60.00,60.00,TP,EXTRACT_RULES,0.8412
+doc00131320180117125408.html,quantity,182.00,182.00,TP,EXTRACT_RULES,0.9396
+doc00131320180117125408.html,quantity,6.00,6.00,TP,EXTRACT_RULES,0.8979
+doc00131320180117125408.html,quantity,74.00,,FN,FAIL_MODEL,undefined
+doc00131320180117125408.html,total_amount,148284.38,148284.38,TP,EXTRACT_RULES,0.6158
+doc00131320180117125408.html,price,644.11,644.11,TP,EXTRACT_MODEL,0.9285
+doc00131320180117125408.html,price,440.65,440.65,TP,EXTRACT_MODEL,0.8525
+doc00131320180117125408.html,price,264.23,264.23,TP,EXTRACT_MODEL,0.9439
+doc00131320180117125408.html,price,204.30,204.30,TP,EXTRACT_MODEL,0.8827
+doc00131320180117125408.html,price,316.53,316.53,TP,EXTRACT_MODEL,0.8937
+doc00131320180117125408.html,price,882.09,882.09,TP,EXTRACT_MODEL,0.8827
+doc00131320180117125408.html,price,,74.00,FP,FAIL_MODEL,0.5452
+doc00131320180117125408.html,supplier_name,Heidenreich-Heidenreich,Heidenreich-Heidenreich,TP,EXTRACT_MODEL,0.6409
+doc00131320180117125408.html,invoice_number,2091056108,2091056108,TP,EXTRACT_MODEL,0.7910
+doc00132820180117125933.html,product,Rustic Copper Car,Rustic Copper Car,TP,EXTRACT_MODEL,0.8457
+doc00132820180117125933.html,product,Synergistic Granite Coat,Synergistic Granite Coat,TP,EXTRACT_MODEL,0.7892
+doc00132820180117125933.html,product,Ergonomic Cotton Clock,Ergonomic Cotton Clock,TP,EXTRACT_MODEL,0.8283
+doc00132820180117125933.html,product,Intelligent Steel Bench,Intelligent Steel Bench,TP,EXTRACT_MODEL,0.6788
+doc00132820180117125933.html,product,Durable Silk Table,Durable Silk Table,TP,EXTRACT_MODEL,0.8534
+doc00132820180117125933.html,product,Fantastic Steel Car,Fantastic Steel Car,TP,EXTRACT_MODEL,0.7989
+doc00132820180117125933.html,product,Aerodynamic Aluminum Car,Aerodynamic Aluminum Car,TP,EXTRACT_MODEL,0.8067
+doc00132820180117125933.html,quantity,51.00,51.00,TP,EXTRACT_RULES,0.7545
+doc00132820180117125933.html,quantity,21.00,21.00,TP,EXTRACT_RULES,0.8099
+doc00132820180117125933.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.8782
+doc00132820180117125933.html,quantity,17.00,17.00,TP,EXTRACT_RULES,0.5877
+doc00132820180117125933.html,quantity,67.00,67.00,TP,EXTRACT_RULES,0.8755
+doc00132820180117125933.html,quantity,19.00,19.00,TP,EXTRACT_RULES,0.7899
+doc00132820180117125933.html,total_amount,177689.41,,FN,FAIL_MODEL,undefined
+doc00132820180117125933.html,price,757.23,757.23,TP,EXTRACT_MODEL,0.9112
+doc00132820180117125933.html,price,967.47,967.47,TP,EXTRACT_MODEL,0.9061
+doc00132820180117125933.html,price,0.56,56.00,"FP,FN",FAIL_RULES,0.9061
+doc00132820180117125933.html,price,577.04,577.04,TP,EXTRACT_MODEL,0.8856
+doc00132820180117125933.html,price,135.40,135.40,TP,EXTRACT_MODEL,0.8318
+doc00132820180117125933.html,price,211.65,211.65,TP,EXTRACT_MODEL,0.9173
+doc00132820180117125933.html,price,457.08,457.08,TP,EXTRACT_MODEL,0.9061
+doc00132820180117125933.html,supplier_name,Jones-Jones,Jones-Jones,TP,EXTRACT_MODEL,0.6545
+doc00132820180117125933.html,invoice_number,,1909614974,FP,FAIL_MODEL,0.8182
+doc00145820180117152240.html,product,Pilot Development,Pilot Development,TP,EXTRACT_MODEL,0.8236
+doc00145820180117152240.html,product,Social MediaMarketing,Social MediaMarketing,TP,EXTRACT_RULES,0.6131
+doc00145820180117152240.html,product,Development,Development,TP,EXTRACT_MODEL,0.6923
+doc00145820180117152240.html,product,Customer Support,Customer Support,TP,EXTRACT_MODEL,0.6465
+doc00145820180117152240.html,quantity,93.00,93.00,TP,EXTRACT_RULES,0.8862
+doc00145820180117152240.html,quantity,93.00,93.00,TP,EXTRACT_RULES,0.8851
+doc00145820180117152240.html,quantity,14.00,14.00,TP,EXTRACT_RULES,0.8907
+doc00145820180117152240.html,quantity,17.00,17.00,TP,EXTRACT_RULES,0.9340
+doc00145820180117152240.html,total_amount,23860.80,23860.80,TP,EXTRACT_RULES,0.8172
+doc00145820180117152240.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.8673
+doc00145820180117152240.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.8597
+doc00145820180117152240.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.8084
+doc00145820180117152240.html,price,150.00,150.00,TP,EXTRACT_MODEL,0.8200
+doc00145820180117152240.html,supplier_name,Workfusion,Workfusion,TP,EXTRACT_RULES,0.7053
+doc00145820180117152240.html,invoice_number,1154404848,1154404848,TP,EXTRACT_MODEL,0.6460
+doc00145820180117152240.html,email,jack.harrow@example.com,,FN,FAIL_MODEL,undefined
+doc00145820180117152240.html,invoice_date,01/16/2018,01/16/2018,TP,EXTRACT_RULES,0.7773
+doc00146420180117152505.html,product,Social MediaMarketing,Social MediaMarketing,TP,EXTRACT_RULES,0.5779
+doc00146420180117152505.html,product,Pilot Development,Pilot Development,TP,EXTRACT_MODEL,0.7581
+doc00146420180117152505.html,product,Customer Support,Customer Support,TP,EXTRACT_MODEL,0.5472
+doc00146420180117152505.html,product,Proof of Concept,,FN,FAIL_MODEL,undefined
+doc00146420180117152505.html,product,Video Marketing,,FN,FAIL_MODEL,undefined
+doc00146420180117152505.html,product,Development,,FN,FAIL_MODEL,undefined
+doc00146420180117152505.html,quantity,90.00,90.00,TP,EXTRACT_RULES,0.8687
+doc00146420180117152505.html,quantity,59.00,59.00,TP,EXTRACT_RULES,0.8015
+doc00146420180117152505.html,quantity,32.00,32.00,TP,EXTRACT_RULES,0.8430
+doc00146420180117152505.html,quantity,83.00,83.00,TP,EXTRACT_RULES,0.8063
+doc00146420180117152505.html,quantity,71.00,71.00,TP,EXTRACT_RULES,0.8274
+doc00146420180117152505.html,quantity,50.00,50.00,TP,EXTRACT_RULES,0.8561
+doc00146420180117152505.html,total_amount,21498.00,21498.00,TP,EXTRACT_RULES,0.8206
+doc00146420180117152505.html,price,5.00,5.00,TP,EXTRACT_MODEL,0.7788
+doc00146420180117152505.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.6624
+doc00146420180117152505.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.6937
+doc00146420180117152505.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.6836
+doc00146420180117152505.html,price,150.00,150.00,TP,EXTRACT_MODEL,0.7037
+doc00146420180117152505.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.6833
+doc00146420180117152505.html,supplier_name,Workft,Workfu,"FP,FN",FAIL_RULES,0.8374
+doc00146420180117152505.html,email,iohn.doe@examDle.com,,FN,FAIL_MODEL,undefined
+doc00146420180117152505.html,invoice_date,01/16/2018,01/16/2018,TP,EXTRACT_RULES,0.6206
+doc00148920180117153347.html,product,Marketing,Detailed Architectural Design,"FP,FN",FAIL_MODEL,0.5165
+doc00148920180117153347.html,product,Development,Developing a Content Management System- based Website,"FP,FN",FAIL_RULES,0.5346
+doc00148920180117153347.html,product,Pilot Development,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,quantity,38.00,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,quantity,94.00,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,quantity,9.00,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,total_amount,7324080.00,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,supplier_name,Workfu,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,invoice_number,16432836,16,"FP,FN",FAIL_MODEL,0.5212
+doc00148920180117153347.html,email,iohn.doe@example.com,,FN,FAIL_MODEL,undefined
+doc00148920180117153347.html,invoice_date,01/16/2018,01/16/2018,TP,EXTRACT_RULES,0.7726
+doc00149120180117153429.html,product,Development,Development,TP,EXTRACT_MODEL,0.6610
+doc00149120180117153429.html,product,Customer Support,Customer Support,TP,EXTRACT_MODEL,0.6734
+doc00149120180117153429.html,product,Pilot D^y ^'vrrjopt,Pilot D^y ^'vrrjopt,TP,EXTRACT_MODEL,0.5662
+doc00149120180117153429.html,product,Social MediaMarketing,Social MediaMarketing,TP,EXTRACT_RULES,0.6783
+doc00149120180117153429.html,quantity,84.00,84.00,TP,EXTRACT_RULES,0.9529
+doc00149120180117153429.html,quantity,39.00,39.00,TP,EXTRACT_RULES,0.9314
+doc00149120180117153429.html,quantity,57.00,57.00,TP,EXTRACT_RULES,0.9181
+doc00149120180117153429.html,quantity,45.00,45.00,TP,EXTRACT_RULES,0.9402
+doc00149120180117153429.html,total_amount,14248.80,14248.80,TP,EXTRACT_RULES,0.8835
+doc00149120180117153429.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.7785
+doc00149120180117153429.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.7536
+doc00149120180117153429.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.7338
+doc00149120180117153429.html,price,150.00,150.00,TP,EXTRACT_MODEL,0.7436
+doc00149120180117153429.html,supplier_name,Workfusion,Workfusion,TP,EXTRACT_MODEL,0.7484
+doc00149120180117153429.html,invoice_number,174560688,174560688,TP,EXTRACT_MODEL,0.7820
+doc00149120180117153429.html,email,iack.harrowi@examole nr-m,,FN,FAIL_MODEL,undefined
+doc00149120180117153429.html,invoice_date,01/16/2018,01/16/2018,TP,EXTRACT_RULES,0.7602
+d_442019_1526302473_1.html,total_amount,6665.81,6665.81,TP,EXTRACT_MODEL,0.6904
+d_442019_1526302473_1.html,supplier_name,REED PLC,REED PLC,TP,EXTRACT_MODEL,0.7337
+d_442019_1526302473_1.html,invoice_number,QET1063,,FN,FAIL_MODEL,undefined
+d_442019_1526302473_1.html,email,fwood@hotmail.com,fwood@hotmail.com,TP,EXTRACT_MODEL,0.6916
+d_442019_1526302473_1.html,invoice_date,01/30/2016,01/30/2006,"FP,FN",FAIL_RULES,0.6402
+invoice0.html,product,Enormous Cotton Computer,Enormous Cotton Computer,TP,EXTRACT_MODEL,0.8391
+invoice0.html,product,Lightweight Linen Lamp,Lightweight Linen Lamp,TP,EXTRACT_MODEL,0.7883
+invoice0.html,product,Sleek Leather Chair,Sleek Leather Chair,TP,EXTRACT_MODEL,0.8068
+invoice0.html,product,Awesome Cotton Plate,Awesome Cotton Plate,TP,EXTRACT_MODEL,0.8196
+invoice0.html,product,Sleek Copper Computer,Sleek Copper Computer,TP,EXTRACT_MODEL,0.8247
+invoice0.html,quantity,4.00,4.00,TP,EXTRACT_RULES,0.8282
+invoice0.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.8339
+invoice0.html,quantity,52.00,52.00,TP,EXTRACT_RULES,0.7671
+invoice0.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.8227
+invoice0.html,quantity,8.00,8.00,TP,EXTRACT_RULES,0.8953
+invoice0.html,total_amount,,19296.35,FP,FAIL_MODEL,0.9030
+invoice0.html,price,457.55,457.55,TP,EXTRACT_MODEL,0.9238
+invoice0.html,price,373.49,373.49,TP,EXTRACT_MODEL,0.9238
+invoice0.html,price,27.91,27.91,TP,EXTRACT_MODEL,0.9226
+invoice0.html,price,400.41,400.41,TP,EXTRACT_MODEL,0.9238
+invoice0.html,price,323.89,323.89,TP,EXTRACT_MODEL,0.9312
+invoice0.html,supplier_name,"Kuvalis, Kuvalis and Kuvalis","Kuvalis, Kuvalis and Kuvalis",TP,EXTRACT_MODEL,0.7112
+invoice0.html,invoice_number,7650961828,7650961828,TP,EXTRACT_MODEL,0.8419
+invoice0.html,email,charlotte.gutmann@yahoo.com,charlotte.gutmann@yahoo.com,TP,EXTRACT_MODEL,0.9413
+invoice0.html,invoice_date,12/27/1970,12/27/1970,TP,EXTRACT_RULES,0.7366
+invoice106.html,product,Rustic Silk Computer,Rustic Silk Computer,TP,EXTRACT_MODEL,0.8395
+invoice106.html,product,Enormous Concrete Watch,Enormous Concrete Watch,TP,EXTRACT_MODEL,0.8256
+invoice106.html,product,Mediocre Rubber Hat,Mediocre Rubber Hat,TP,EXTRACT_MODEL,0.7860
+invoice106.html,product,Ergonomic Granite Gloves,Ergonomic Granite Gloves,TP,EXTRACT_MODEL,0.8292
+invoice106.html,product,Incredible Copper Pants,Incredible Copper Pants,TP,EXTRACT_MODEL,0.8297
+invoice106.html,product,Incredible Marble Bag,Incredible Marble Bag,TP,EXTRACT_MODEL,0.7709
+invoice106.html,product,Fantastic Leather Shirt,Fantastic Leather Shirt,TP,EXTRACT_MODEL,0.8000
+invoice106.html,product,Ergonomic Iron Keyboard,Ergonomic Iron Keyboard,TP,EXTRACT_MODEL,0.7852
+invoice106.html,quantity,24.00,24.00,TP,EXTRACT_RULES,0.7323
+invoice106.html,quantity,51.00,51.00,TP,EXTRACT_RULES,0.8280
+invoice106.html,quantity,53.00,53.00,TP,EXTRACT_RULES,0.7629
+invoice106.html,quantity,37.00,37.00,TP,EXTRACT_RULES,0.8715
+invoice106.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.9101
+invoice106.html,quantity,54.00,54.00,TP,EXTRACT_RULES,0.7661
+invoice106.html,quantity,44.00,44.00,TP,EXTRACT_RULES,0.7773
+invoice106.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.7887
+invoice106.html,total_amount,109415.50,109415.50,TP,EXTRACT_RULES,0.7290
+invoice106.html,price,112.29,112.29,TP,EXTRACT_MODEL,0.9212
+invoice106.html,price,153.65,153.65,TP,EXTRACT_MODEL,0.9131
+invoice106.html,price,25.08,25.08,TP,EXTRACT_MODEL,0.9178
+invoice106.html,price,480.17,480.17,TP,EXTRACT_MODEL,0.9212
+invoice106.html,price,435.70,435.70,TP,EXTRACT_MODEL,0.9212
+invoice106.html,price,269.70,269.70,TP,EXTRACT_MODEL,0.9338
+invoice106.html,price,381.59,381.59,TP,EXTRACT_MODEL,0.9212
+invoice106.html,price,348.03,348.03,TP,EXTRACT_MODEL,0.9212
+invoice106.html,supplier_name,Weber and Sons,Weber and Sons,TP,EXTRACT_MODEL,0.7658
+invoice106.html,invoice_number,3908661436,3908661436,TP,EXTRACT_MODEL,0.8670
+invoice106.html,email,kylie.reynolds@gmail.com,kylie.reynolds@gmail.com,TP,EXTRACT_MODEL,0.8929
+invoice106.html,invoice_date,04/13/2005,04/13/2005,TP,EXTRACT_RULES,0.7279
+invoice108.html,product,Awesome Marble Hat,Awesome Marble Hat,TP,EXTRACT_MODEL,0.8090
+invoice108.html,product,Practical Leather Bench,Practical Leather Bench,TP,EXTRACT_MODEL,0.7905
+invoice108.html,product,Gorgeous Copper Bottle,Gorgeous Copper Bottle,TP,EXTRACT_MODEL,0.8264
+invoice108.html,product,Synergistic Silk Bottle,Synergistic Silk Bottle,TP,EXTRACT_MODEL,0.8210
+invoice108.html,product,Lightweight Granite Keyboard,Lightweight Granite Keyboard,TP,EXTRACT_MODEL,0.7786
+invoice108.html,product,Gorgeous Plastic Shoes,Gorgeous Plastic Shoes,TP,EXTRACT_MODEL,0.7715
+invoice108.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.8630
+invoice108.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.8502
+invoice108.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.8151
+invoice108.html,quantity,3.00,3.00,TP,EXTRACT_RULES,0.9121
+invoice108.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.8990
+invoice108.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.8599
+invoice108.html,total_amount,21833.92,21833.92,TP,EXTRACT_RULES,0.8918
+invoice108.html,price,60.13,60.13,TP,EXTRACT_MODEL,0.9011
+invoice108.html,price,179.47,179.47,TP,EXTRACT_MODEL,0.9209
+invoice108.html,price,412.94,412.94,TP,EXTRACT_MODEL,0.9011
+invoice108.html,price,365.14,365.14,TP,EXTRACT_MODEL,0.9209
+invoice108.html,price,280.02,280.02,TP,EXTRACT_MODEL,0.9337
+invoice108.html,price,174.39,174.39,TP,EXTRACT_MODEL,0.9029
+invoice108.html,supplier_name,Murray Inc,Murray Inc,TP,EXTRACT_MODEL,0.7974
+invoice108.html,invoice_number,6065016110,6065016110,TP,EXTRACT_MODEL,0.8605
+invoice108.html,email,donald.anderson@gmail.com,donald.anderson@gmail.com,TP,EXTRACT_MODEL,0.9501
+invoice108.html,invoice_date,02/17/2001,02/17/2001,TP,EXTRACT_RULES,0.7552
+invoice113.html,product,Awesome Paper Shirt,Awesome Paper Shirt,TP,EXTRACT_MODEL,0.7691
+invoice113.html,product,Heavy Duty Copper Table,Heavy Duty Copper Table,TP,EXTRACT_MODEL,0.7709
+invoice113.html,product,Small Rubber Knife,Small Rubber Knife,TP,EXTRACT_MODEL,0.7831
+invoice113.html,product,Mediocre Concrete Coat,Mediocre Concrete Coat,TP,EXTRACT_MODEL,0.8256
+invoice113.html,product,Enormous Rubber Car,Enormous Rubber Car,TP,EXTRACT_MODEL,0.7867
+invoice113.html,quantity,41.00,41.00,TP,EXTRACT_RULES,0.8804
+invoice113.html,quantity,33.00,33.00,TP,EXTRACT_RULES,0.8442
+invoice113.html,quantity,27.00,27.00,TP,EXTRACT_RULES,0.8043
+invoice113.html,quantity,11.00,11.00,TP,EXTRACT_RULES,0.8067
+invoice113.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.8964
+invoice113.html,total_amount,28274.11,28274.11,TP,EXTRACT_RULES,0.9030
+invoice113.html,price,214.17,214.17,TP,EXTRACT_MODEL,0.9278
+invoice113.html,price,150.81,150.81,TP,EXTRACT_MODEL,0.9274
+invoice113.html,price,186.74,186.74,TP,EXTRACT_MODEL,0.9154
+invoice113.html,price,89.47,89.47,TP,EXTRACT_MODEL,0.9154
+invoice113.html,price,164.36,164.36,TP,EXTRACT_MODEL,0.8968
+invoice113.html,supplier_name,Rempel Group,Rempel Group,TP,EXTRACT_MODEL,0.7637
+invoice113.html,invoice_number,0156315916,0156315916,TP,EXTRACT_MODEL,0.7186
+invoice113.html,email,cory.beahan@yahoo.com,cory.beahan@yahoo.com,TP,EXTRACT_MODEL,0.9438
+invoice113.html,invoice_date,01/06/1986,01/06/1986,TP,EXTRACT_RULES,0.7433
+invoice116.html,product,Intelligent Marble Car,Intelligent Marble Car,TP,EXTRACT_MODEL,0.7355
+invoice116.html,product,Aerodynamic Leather Computer,Aerodynamic Leather Computer,TP,EXTRACT_MODEL,0.8241
+invoice116.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.8404
+invoice116.html,quantity,23.00,23.00,TP,EXTRACT_RULES,0.8682
+invoice116.html,total_amount,13023.97,13023.97,TP,EXTRACT_RULES,0.8792
+invoice116.html,price,185.99,185.99,TP,EXTRACT_MODEL,0.8468
+invoice116.html,price,269.72,269.72,TP,EXTRACT_MODEL,0.8779
+invoice116.html,supplier_name,Rau Group,Rau Group,TP,EXTRACT_MODEL,0.7606
+invoice116.html,invoice_number,0530052618,0530052618,TP,EXTRACT_MODEL,0.8386
+invoice116.html,email,caitlyn.hansen@yahoo.com,caitlyn.hansen@yahoo.com,TP,EXTRACT_MODEL,0.9429
+invoice116.html,invoice_date,09/26/2014,09/26/2014,TP,EXTRACT_RULES,0.7429
+invoice118.html,product,Awesome Aluminum Clock,Awesome Aluminum Clock,TP,EXTRACT_MODEL,0.8032
+invoice118.html,product,Mediocre Copper Wallet,Mediocre Copper Wallet,TP,EXTRACT_MODEL,0.8172
+invoice118.html,product,Ergonomic Wool Wallet,Ergonomic Wool Wallet,TP,EXTRACT_MODEL,0.8593
+invoice118.html,product,Awesome Silk Pants,Awesome Silk Pants,TP,EXTRACT_MODEL,0.8348
+invoice118.html,product,Mediocre Silk Knife,Mediocre Silk Knife,TP,EXTRACT_MODEL,0.8226
+invoice118.html,product,Synergistic Leather Table,Synergistic Leather Table,TP,EXTRACT_MODEL,0.8323
+invoice118.html,product,Practical Steel Table,Practical Steel Table,TP,EXTRACT_MODEL,0.8300
+invoice118.html,product,Aerodynamic Marble Lamp,Aerodynamic Marble Lamp,TP,EXTRACT_MODEL,0.7999
+invoice118.html,quantity,26.00,26.00,TP,EXTRACT_RULES,0.8367
+invoice118.html,quantity,52.00,52.00,TP,EXTRACT_RULES,0.8977
+invoice118.html,quantity,34.00,34.00,TP,EXTRACT_RULES,0.8395
+invoice118.html,quantity,24.00,24.00,TP,EXTRACT_RULES,0.8363
+invoice118.html,quantity,38.00,38.00,TP,EXTRACT_RULES,0.8344
+invoice118.html,quantity,46.00,46.00,TP,EXTRACT_RULES,0.7635
+invoice118.html,quantity,29.00,29.00,TP,EXTRACT_RULES,0.8363
+invoice118.html,quantity,13.00,13.00,TP,EXTRACT_RULES,0.8278
+invoice118.html,total_amount,91194.11,91194.11,TP,EXTRACT_RULES,0.7306
+invoice118.html,price,278.27,278.27,TP,EXTRACT_MODEL,0.9176
+invoice118.html,price,494.91,494.91,TP,EXTRACT_MODEL,0.9163
+invoice118.html,price,162.85,162.85,TP,EXTRACT_MODEL,0.9238
+invoice118.html,price,249.18,249.18,TP,EXTRACT_MODEL,0.9194
+invoice118.html,price,496.33,496.33,TP,EXTRACT_MODEL,0.9312
+invoice118.html,price,91.65,91.65,TP,EXTRACT_MODEL,0.9238
+invoice118.html,price,285.41,285.41,TP,EXTRACT_MODEL,0.9238
+invoice118.html,price,194.86,194.86,TP,EXTRACT_MODEL,0.9238
+invoice118.html,supplier_name,Krajcik and Sons,Krajcik and Sons,TP,EXTRACT_MODEL,0.7525
+invoice118.html,invoice_number,7328351196,7328351196,TP,EXTRACT_MODEL,0.8529
+invoice118.html,email,kenna.gleichner@yahoo.com,kenna.gleichner@yahoo.com,TP,EXTRACT_MODEL,0.9413
+invoice118.html,invoice_date,07/13/1985,07/13/1985,TP,EXTRACT_RULES,0.7403
+invoice122.html,product,Small Cotton Computer,Small Cotton Computer,TP,EXTRACT_MODEL,0.8546
+invoice122.html,product,Intelligent Steel Keyboard,Intelligent Steel Keyboard,TP,EXTRACT_MODEL,0.7649
+invoice122.html,product,Mediocre Concrete Hat,Mediocre Concrete Hat,TP,EXTRACT_MODEL,0.8291
+invoice122.html,quantity,3.00,3.00,TP,EXTRACT_RULES,0.9123
+invoice122.html,quantity,19.00,19.00,TP,EXTRACT_RULES,0.8993
+invoice122.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8986
+invoice122.html,total_amount,12343.01,12343.01,TP,EXTRACT_RULES,0.7290
+invoice122.html,price,422.76,422.76,TP,EXTRACT_MODEL,0.9160
+invoice122.html,price,340.92,340.92,TP,EXTRACT_MODEL,0.9269
+invoice122.html,price,465.28,465.28,TP,EXTRACT_MODEL,0.9131
+invoice122.html,supplier_name,Hamill-Hamill,Hamill-Hamill,TP,EXTRACT_MODEL,0.7593
+invoice122.html,invoice_number,4276804949,4276804949,TP,EXTRACT_MODEL,0.8463
+invoice122.html,email,tobin.wisoky@yahoo.com,tobin.wisoky@yahoo.com,TP,EXTRACT_MODEL,0.8929
+invoice122.html,invoice_date,08/08/1981,08/08/1981,TP,EXTRACT_RULES,0.7393
+invoice124.html,product,Intelligent Wooden Plate,Intelligent Wooden Plate,TP,EXTRACT_MODEL,0.7806
+invoice124.html,product,Heavy Duty Linen Car,Heavy Duty Linen Car,TP,EXTRACT_MODEL,0.7706
+invoice124.html,product,Rustic Paper Gloves,Rustic Paper Gloves,TP,EXTRACT_MODEL,0.8163
+invoice124.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.8695
+invoice124.html,quantity,29.00,29.00,TP,EXTRACT_RULES,0.9116
+invoice124.html,quantity,51.00,51.00,TP,EXTRACT_RULES,0.8877
+invoice124.html,total_amount,29816.12,29816.12,TP,EXTRACT_RULES,0.8918
+invoice124.html,price,203.50,203.50,TP,EXTRACT_MODEL,0.9340
+invoice124.html,price,19.87,19.87,TP,EXTRACT_MODEL,0.9011
+invoice124.html,price,426.95,426.95,TP,EXTRACT_MODEL,0.9209
+invoice124.html,supplier_name,Kerluke-Kerluke,Kerluke-Kerluke,TP,EXTRACT_MODEL,0.7698
+invoice124.html,invoice_number,9082247308,9082247308,TP,EXTRACT_MODEL,0.9221
+invoice124.html,email,dorthy.gerhold@gmail.com,dorthy.gerhold@gmail.com,TP,EXTRACT_MODEL,0.9501
+invoice124.html,invoice_date,08/28/2009,08/28/2009,TP,EXTRACT_RULES,0.7428
+invoice126.html,product,Aerodynamic Leather Shirt,Aerodynamic Leather Shirt,TP,EXTRACT_MODEL,0.7925
+invoice126.html,product,Heavy Duty Plastic Car,Heavy Duty Plastic Car,TP,EXTRACT_MODEL,0.7784
+invoice126.html,product,Ergonomic Bronze Shoes,Ergonomic Bronze Shoes,TP,EXTRACT_MODEL,0.8450
+invoice126.html,product,Intelligent Rubber Chair,Intelligent Rubber Chair,TP,EXTRACT_MODEL,0.7862
+invoice126.html,product,Mediocre Wool Clock,Mediocre Wool Clock,TP,EXTRACT_MODEL,0.8134
+invoice126.html,quantity,32.00,32.00,TP,EXTRACT_RULES,0.7326
+invoice126.html,quantity,22.00,22.00,TP,EXTRACT_RULES,0.7477
+invoice126.html,quantity,40.00,40.00,TP,EXTRACT_RULES,0.8072
+invoice126.html,quantity,27.00,27.00,TP,EXTRACT_RULES,0.7305
+invoice126.html,quantity,21.00,21.00,TP,EXTRACT_RULES,0.7617
+invoice126.html,total_amount,33647.53,33647.53,TP,EXTRACT_RULES,0.7385
+invoice126.html,price,190.46,190.46,TP,EXTRACT_MODEL,0.9154
+invoice126.html,price,285.69,285.69,TP,EXTRACT_MODEL,0.9154
+invoice126.html,price,18.76,18.76,TP,EXTRACT_MODEL,0.8968
+invoice126.html,price,267.42,267.42,TP,EXTRACT_MODEL,0.9274
+invoice126.html,price,133.95,133.95,TP,EXTRACT_MODEL,0.9154
+invoice126.html,supplier_name,Smith and Sons,Smith and Sons,TP,EXTRACT_MODEL,0.7838
+invoice126.html,invoice_number,6277876898,6277876898,TP,EXTRACT_MODEL,0.7511
+invoice126.html,email,nona.von@yahoo.com,nona.von@yahoo.com,TP,EXTRACT_MODEL,0.9407
+invoice126.html,invoice_date,12/01/1970,12/01/1970,TP,EXTRACT_RULES,0.7458
+invoice128.html,product,Ergonomic Rubber Lamp,Ergonomic Rubber Lamp,TP,EXTRACT_MODEL,0.8048
+invoice128.html,product,Incredible Marble Hat,Incredible Marble Hat,TP,EXTRACT_MODEL,0.7527
+invoice128.html,product,Synergistic Bronze Gloves,Synergistic Bronze Gloves,TP,EXTRACT_MODEL,0.8114
+invoice128.html,product,Lightweight Marble Gloves,Lightweight Marble Gloves,TP,EXTRACT_MODEL,0.8224
+invoice128.html,product,Heavy Duty Aluminum Plate,Heavy Duty Aluminum Plate,TP,EXTRACT_MODEL,0.7898
+invoice128.html,product,Gorgeous Rubber Keyboard,Gorgeous Rubber Keyboard,TP,EXTRACT_MODEL,0.7491
+invoice128.html,product,Intelligent Linen Pants,Intelligent Linen Pants,TP,EXTRACT_MODEL,0.7904
+invoice128.html,product,Ergonomic Bronze Knife,Ergonomic Bronze Knife,TP,EXTRACT_MODEL,0.8259
+invoice128.html,quantity,32.00,32.00,TP,EXTRACT_RULES,0.7278
+invoice128.html,quantity,29.00,29.00,TP,EXTRACT_RULES,0.7469
+invoice128.html,quantity,49.00,49.00,TP,EXTRACT_RULES,0.8025
+invoice128.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.7332
+invoice128.html,quantity,24.00,24.00,TP,EXTRACT_RULES,0.7654
+invoice128.html,quantity,8.00,8.00,TP,EXTRACT_RULES,0.8331
+invoice128.html,quantity,48.00,48.00,TP,EXTRACT_RULES,0.7485
+invoice128.html,quantity,11.00,11.00,TP,EXTRACT_RULES,0.7816
+invoice128.html,total_amount,38816.89,38816.89,TP,EXTRACT_RULES,0.7304
+invoice128.html,price,257.42,257.42,TP,EXTRACT_MODEL,0.8232
+invoice128.html,price,50.93,50.93,TP,EXTRACT_MODEL,0.8024
+invoice128.html,price,224.65,224.65,TP,EXTRACT_MODEL,0.8468
+invoice128.html,price,138.06,138.06,TP,EXTRACT_MODEL,0.8468
+invoice128.html,price,97.71,97.71,TP,EXTRACT_MODEL,0.8468
+invoice128.html,price,300.97,300.97,TP,EXTRACT_MODEL,0.8468
+invoice128.html,price,220.51,220.51,TP,EXTRACT_MODEL,0.8468
+invoice128.html,price,139.74,139.74,TP,EXTRACT_MODEL,0.8468
+invoice128.html,supplier_name,Collins Group,Collins Group,TP,EXTRACT_MODEL,0.7965
+invoice128.html,invoice_number,8225345211,8225345211,TP,EXTRACT_MODEL,0.7333
+invoice128.html,email,davin.turcotte@hotmail.com,davin.turcotte@hotmail.com,TP,EXTRACT_MODEL,0.9487
+invoice128.html,invoice_date,11/10/1974,11/10/1974,TP,EXTRACT_RULES,0.7428
+invoice129.html,product,Aerodynamic Concrete Keyboard,Aerodynamic Concrete Keyboard,TP,EXTRACT_MODEL,0.8528
+invoice129.html,product,Incredible Paper Keyboard,Incredible Paper Keyboard,TP,EXTRACT_MODEL,0.7980
+invoice129.html,product,Synergistic Silk Bench,Synergistic Silk Bench,TP,EXTRACT_MODEL,0.8179
+invoice129.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.9477
+invoice129.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.8914
+invoice129.html,quantity,48.00,48.00,TP,EXTRACT_RULES,0.9087
+invoice129.html,total_amount,36405.77,36405.77,TP,EXTRACT_RULES,0.7306
+invoice129.html,price,201.16,201.16,TP,EXTRACT_MODEL,0.9181
+invoice129.html,price,369.44,369.44,TP,EXTRACT_MODEL,0.9312
+invoice129.html,price,126.02,126.02,TP,EXTRACT_MODEL,0.9176
+invoice129.html,supplier_name,Gaylord-Gaylord,Gaylord-Gaylord,TP,EXTRACT_MODEL,0.7234
+invoice129.html,invoice_number,8351143895,8351143895,TP,EXTRACT_MODEL,0.9234
+invoice129.html,email,herminio.moen@gmail.com,herminio.moen@gmail.com,TP,EXTRACT_MODEL,0.9413
+invoice129.html,invoice_date,07/19/2007,07/19/2007,TP,EXTRACT_RULES,0.7410
+invoice135.html,product,Durable Steel Bag,Durable Steel Bag,TP,EXTRACT_MODEL,0.7643
+invoice135.html,product,Small Silk Shoes,Small Silk Shoes,TP,EXTRACT_MODEL,0.8298
+invoice135.html,product,Mediocre Plastic Coat,Mediocre Plastic Coat,TP,EXTRACT_MODEL,0.7978
+invoice135.html,product,Awesome Granite Keyboard,Awesome Granite Keyboard,TP,EXTRACT_MODEL,0.8150
+invoice135.html,product,Synergistic Bronze Computer,Synergistic Bronze Computer,TP,EXTRACT_MODEL,0.8222
+invoice135.html,product,Lightweight Plastic Wallet,Lightweight Plastic Wallet,TP,EXTRACT_MODEL,0.8080
+invoice135.html,product,Heavy Duty Wooden Shoes,Heavy Duty Wooden Shoes,TP,EXTRACT_MODEL,0.8159
+invoice135.html,product,Aerodynamic Granite Bottle,Aerodynamic Granite Bottle,TP,EXTRACT_MODEL,0.7877
+invoice135.html,quantity,14.00,14.00,TP,EXTRACT_RULES,0.8063
+invoice135.html,quantity,4.00,4.00,TP,EXTRACT_RULES,0.7729
+invoice135.html,quantity,38.00,38.00,TP,EXTRACT_RULES,0.7575
+invoice135.html,quantity,13.00,13.00,TP,EXTRACT_RULES,0.8713
+invoice135.html,quantity,8.00,8.00,TP,EXTRACT_RULES,0.8334
+invoice135.html,quantity,33.00,33.00,TP,EXTRACT_RULES,0.8024
+invoice135.html,quantity,8.00,8.00,TP,EXTRACT_RULES,0.7346
+invoice135.html,quantity,29.00,29.00,TP,EXTRACT_RULES,0.8120
+invoice135.html,total_amount,41753.40,41753.40,TP,EXTRACT_RULES,0.7290
+invoice135.html,price,165.75,165.75,TP,EXTRACT_MODEL,0.9212
+invoice135.html,price,426.72,426.72,TP,EXTRACT_MODEL,0.9308
+invoice135.html,price,20.08,20.08,TP,EXTRACT_MODEL,0.9131
+invoice135.html,price,61.39,61.39,TP,EXTRACT_MODEL,0.9131
+invoice135.html,price,31.78,31.78,TP,EXTRACT_MODEL,0.9212
+invoice135.html,price,174.82,174.82,TP,EXTRACT_MODEL,0.9212
+invoice135.html,price,494.67,494.67,TP,EXTRACT_MODEL,0.9178
+invoice135.html,price,474.06,474.06,TP,EXTRACT_MODEL,0.9212
+invoice135.html,supplier_name,Daniel-Daniel,Daniel-Daniel,TP,EXTRACT_MODEL,0.7168
+invoice135.html,invoice_number,0462457393,0462457393,TP,EXTRACT_MODEL,0.8563
+invoice135.html,email,adriel.pouros@yahoo.com,adriel.pouros@yahoo.com,TP,EXTRACT_MODEL,0.8929
+invoice135.html,invoice_date,11/05/1987,11/05/1987,TP,EXTRACT_RULES,0.7349
+invoice138.html,product,Durable Copper Chair,Durable Copper Chair,TP,EXTRACT_MODEL,0.8101
+invoice138.html,product,Sleek Wooden Lamp,Sleek Wooden Lamp,TP,EXTRACT_MODEL,0.7876
+invoice138.html,product,Heavy Duty Wool Hat,Heavy Duty Wool Hat,TP,EXTRACT_MODEL,0.7634
+invoice138.html,product,Intelligent Rubber Coat,Intelligent Rubber Coat,TP,EXTRACT_MODEL,0.7326
+invoice138.html,product,Lightweight Leather Pants,Lightweight Leather Pants,TP,EXTRACT_MODEL,0.7859
+invoice138.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.8473
+invoice138.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.8355
+invoice138.html,quantity,32.00,32.00,TP,EXTRACT_RULES,0.8501
+invoice138.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.8892
+invoice138.html,quantity,39.00,39.00,TP,EXTRACT_RULES,0.8996
+invoice138.html,total_amount,51546.34,51546.34,TP,EXTRACT_RULES,0.8918
+invoice138.html,price,489.14,489.14,TP,EXTRACT_MODEL,0.9011
+invoice138.html,price,386.72,386.72,TP,EXTRACT_MODEL,0.9209
+invoice138.html,price,118.14,118.14,TP,EXTRACT_MODEL,0.9340
+invoice138.html,price,246.09,246.09,TP,EXTRACT_MODEL,0.9209
+invoice138.html,price,333.82,333.82,TP,EXTRACT_MODEL,0.9357
+invoice138.html,supplier_name,Upton-Upton,Upton-Upton,TP,EXTRACT_MODEL,0.7622
+invoice138.html,invoice_number,0745199249,0745199249,TP,EXTRACT_MODEL,0.9260
+invoice138.html,email,edwina.sauer@hotmail.com,edwina.sauer@hotmail.com,TP,EXTRACT_MODEL,0.9501
+invoice138.html,invoice_date,09/27/2011,09/27/2011,TP,EXTRACT_RULES,0.7401
+invoice14.html,product,Small Copper Gloves,Small Copper Gloves,TP,EXTRACT_MODEL,0.7882
+invoice14.html,product,Synergistic Plastic Gloves,Synergistic Plastic Gloves,TP,EXTRACT_MODEL,0.8062
+invoice14.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.8788
+invoice14.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8652
+invoice14.html,total_amount,1127.23,1127.23,TP,EXTRACT_RULES,0.9065
+invoice14.html,price,313.86,313.86,TP,EXTRACT_MODEL,0.9036
+invoice14.html,price,41.70,41.70,TP,EXTRACT_MODEL,0.9305
+invoice14.html,supplier_name,Bergnaum-Bergnaum,Bergnaum-Bergnaum,TP,EXTRACT_MODEL,0.7276
+invoice14.html,invoice_number,6809466842,6809466842,TP,EXTRACT_MODEL,0.8280
+invoice14.html,email,austen.kling@yahoo.com,austen.kling@yahoo.com,TP,EXTRACT_MODEL,0.9407
+invoice14.html,invoice_date,01/04/1991,01/04/1991,TP,EXTRACT_RULES,0.7306
+invoice141.html,product,Durable Rubber Bottle,Durable Rubber Bottle,TP,EXTRACT_MODEL,0.7793
+invoice141.html,product,Small Iron Wallet,Small Iron Wallet,TP,EXTRACT_MODEL,0.8153
+invoice141.html,quantity,20.00,20.00,TP,EXTRACT_RULES,0.8446
+invoice141.html,quantity,31.00,31.00,TP,EXTRACT_RULES,0.8553
+invoice141.html,total_amount,7795.67,7795.67,TP,EXTRACT_RULES,0.7304
+invoice141.html,price,45.89,45.89,TP,EXTRACT_MODEL,0.8637
+invoice141.html,price,253.69,253.69,TP,EXTRACT_MODEL,0.8468
+invoice141.html,supplier_name,Wilderman-Wilderman,Wilderman-Wilderman,TP,EXTRACT_MODEL,0.7548
+invoice141.html,invoice_number,1772306775,1772306775,TP,EXTRACT_MODEL,0.8227
+invoice141.html,email,monica.romaguera@yahoo.com,monica.romaguera@yahoo.com,TP,EXTRACT_MODEL,0.9429
+invoice141.html,invoice_date,10/05/2017,10/05/2017,TP,EXTRACT_RULES,0.7257
+invoice144.html,product,Mediocre Steel Shirt,Mediocre Steel Shirt,TP,EXTRACT_MODEL,0.8419
+invoice144.html,product,Aerodynamic Linen Table,Aerodynamic Linen Table,TP,EXTRACT_MODEL,0.7691
+invoice144.html,product,Practical Leather Hat,Practical Leather Hat,TP,EXTRACT_MODEL,0.7992
+invoice144.html,product,Durable Concrete Keyboard,Durable Concrete Keyboard,TP,EXTRACT_MODEL,0.8168
+invoice144.html,quantity,32.00,32.00,TP,EXTRACT_RULES,0.9018
+invoice144.html,quantity,44.00,44.00,TP,EXTRACT_RULES,0.8982
+invoice144.html,quantity,26.00,26.00,TP,EXTRACT_RULES,0.8848
+invoice144.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.9357
+invoice144.html,total_amount,28789.54,28789.54,TP,EXTRACT_RULES,0.7306
+invoice144.html,price,460.33,460.33,TP,EXTRACT_MODEL,0.9181
+invoice144.html,price,194.75,194.75,TP,EXTRACT_MODEL,0.9225
+invoice144.html,price,110.81,110.81,TP,EXTRACT_MODEL,0.9194
+invoice144.html,price,73.30,73.30,TP,EXTRACT_MODEL,0.9238
+invoice144.html,supplier_name,"Davis, Davis and Davis","Davis, Davis and Davis",TP,EXTRACT_MODEL,0.7164
+invoice144.html,invoice_number,4949499204,4949499204,TP,EXTRACT_MODEL,0.8333
+invoice144.html,email,ephraim.leuschke@yahoo.com,ephraim.leuschke@yahoo.com,TP,EXTRACT_MODEL,0.9413
+invoice144.html,invoice_date,02/18/1992,02/18/1992,TP,EXTRACT_RULES,0.7412
+invoice149.html,product,Small Marble Coat,Small Marble Coat,TP,EXTRACT_MODEL,0.7966
+invoice149.html,product,Mediocre Marble Clock,Mediocre Marble Clock,TP,EXTRACT_MODEL,0.8223
+invoice149.html,product,Fantastic Linen Computer,Fantastic Linen Computer,TP,EXTRACT_MODEL,0.8347
+invoice149.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.9116
+invoice149.html,quantity,53.00,53.00,TP,EXTRACT_RULES,0.9479
+invoice149.html,quantity,44.00,44.00,TP,EXTRACT_RULES,0.8824
+invoice149.html,total_amount,7242.88,7242.88,TP,EXTRACT_RULES,0.7290
+invoice149.html,price,12.86,12.86,TP,EXTRACT_MODEL,0.9178
+invoice149.html,price,33.67,33.67,TP,EXTRACT_MODEL,0.9160
+invoice149.html,price,78.65,78.65,TP,EXTRACT_MODEL,0.9308
+invoice149.html,supplier_name,"Sauer, Sauer and Sauer","Sauer, Sauer and Sauer",TP,EXTRACT_MODEL,0.7747
+invoice149.html,invoice_number,6340372376,6340372376,TP,EXTRACT_MODEL,0.7720
+invoice149.html,email,elenora.schultz@gmail.com,elenora.schultz@gmail.com,TP,EXTRACT_MODEL,0.8929
+invoice149.html,invoice_date,08/10/1983,08/10/1983,TP,EXTRACT_RULES,0.7467
+invoice151.html,product,Sleek Plastic Computer,Sleek Plastic Computer,TP,EXTRACT_MODEL,0.7883
+invoice151.html,product,Aerodynamic Rubber Clock,Aerodynamic Rubber Clock,TP,EXTRACT_MODEL,0.8184
+invoice151.html,product,Lightweight Paper Keyboard,Lightweight Paper Keyboard,TP,EXTRACT_MODEL,0.8061
+invoice151.html,product,Practical Bronze Bench,Practical Bronze Bench,TP,EXTRACT_MODEL,0.7722
+invoice151.html,product,Small Aluminum Pants,Small Aluminum Pants,TP,EXTRACT_MODEL,0.8331
+invoice151.html,product,Gorgeous Concrete Shirt,Gorgeous Concrete Shirt,TP,EXTRACT_MODEL,0.8429
+invoice151.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.8805
+invoice151.html,quantity,41.00,41.00,TP,EXTRACT_RULES,0.8137
+invoice151.html,quantity,35.00,35.00,TP,EXTRACT_RULES,0.8508
+invoice151.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.7921
+invoice151.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.7763
+invoice151.html,quantity,11.00,11.00,TP,EXTRACT_RULES,0.7790
+invoice151.html,total_amount,50521.94,50521.94,TP,EXTRACT_RULES,0.8918
+invoice151.html,price,457.98,457.98,TP,EXTRACT_MODEL,0.9209
+invoice151.html,price,10.35,10.35,TP,EXTRACT_MODEL,0.9209
+invoice151.html,price,27.59,27.59,TP,EXTRACT_MODEL,0.9209
+invoice151.html,price,452.69,452.69,TP,EXTRACT_MODEL,0.9337
+invoice151.html,price,145.91,145.91,TP,EXTRACT_MODEL,0.9209
+invoice151.html,price,395.83,395.83,TP,EXTRACT_MODEL,0.9029
+invoice151.html,supplier_name,Fadel Group,Fadel Group,TP,EXTRACT_MODEL,0.8043
+invoice151.html,invoice_number,9765058358,9765058358,TP,EXTRACT_MODEL,0.8586
+invoice151.html,email,aylin.hahn@hotmail.com,aylin.hahn@hotmail.com,TP,EXTRACT_MODEL,0.9501
+invoice151.html,invoice_date,05/29/2004,05/29/2004,TP,EXTRACT_RULES,0.7505
+invoice155.html,product,Practical Wooden Plate,Practical Wooden Plate,TP,EXTRACT_MODEL,0.8153
+invoice155.html,product,Durable Iron Clock,Durable Iron Clock,TP,EXTRACT_MODEL,0.7704
+invoice155.html,product,Lightweight Aluminum Keyboard,Lightweight Aluminum Keyboard,TP,EXTRACT_MODEL,0.7893
+invoice155.html,product,Synergistic Copper Computer,Synergistic Copper Computer,TP,EXTRACT_MODEL,0.7982
+invoice155.html,product,Synergistic Paper Knife,Synergistic Paper Knife,TP,EXTRACT_MODEL,0.8045
+invoice155.html,product,Gorgeous Iron Hat,Gorgeous Iron Hat,TP,EXTRACT_MODEL,0.7895
+invoice155.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.7564
+invoice155.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.7871
+invoice155.html,quantity,43.00,43.00,TP,EXTRACT_RULES,0.7816
+invoice155.html,quantity,22.00,22.00,TP,EXTRACT_RULES,0.7929
+invoice155.html,quantity,20.00,20.00,TP,EXTRACT_RULES,0.7726
+invoice155.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.7228
+invoice155.html,total_amount,64790.45,64790.45,TP,EXTRACT_RULES,0.7385
+invoice155.html,price,408.62,408.62,TP,EXTRACT_MODEL,0.9274
+invoice155.html,price,69.23,69.23,TP,EXTRACT_MODEL,0.9154
+invoice155.html,price,118.62,118.62,TP,EXTRACT_MODEL,0.9154
+invoice155.html,price,497.12,497.12,TP,EXTRACT_MODEL,0.9036
+invoice155.html,price,468.52,468.52,TP,EXTRACT_MODEL,0.9154
+invoice155.html,price,308.03,308.03,TP,EXTRACT_MODEL,0.9154
+invoice155.html,supplier_name,Roob Group,Roob Group,TP,EXTRACT_MODEL,0.7707
+invoice155.html,invoice_number,2827263107,2827263107,TP,EXTRACT_MODEL,0.7353
+invoice155.html,email,donato.schuppe@hotmail.com,donato.schuppe@hotmail.com,TP,EXTRACT_MODEL,0.9407
+invoice155.html,invoice_date,10/04/1991,10/04/1991,TP,EXTRACT_RULES,0.7491
+invoice159.html,product,Durable Marble Lamp,Durable Marble Lamp,TP,EXTRACT_MODEL,0.7911
+invoice159.html,product,Sleek Silk Computer,Sleek Silk Computer,TP,EXTRACT_MODEL,0.8296
+invoice159.html,product,Ergonomic Leather Bag,Ergonomic Leather Bag,TP,EXTRACT_MODEL,0.7956
+invoice159.html,product,Ergonomic Wool Chair,Ergonomic Wool Chair,TP,EXTRACT_MODEL,0.8313
+invoice159.html,product,Synergistic Rubber Knife,Synergistic Rubber Knife,TP,EXTRACT_MODEL,0.8023
+invoice159.html,product,Mediocre Aluminum Gloves,Mediocre Aluminum Gloves,TP,EXTRACT_MODEL,0.7996
+invoice159.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.8094
+invoice159.html,quantity,34.00,34.00,TP,EXTRACT_RULES,0.7732
+invoice159.html,quantity,27.00,27.00,TP,EXTRACT_RULES,0.7647
+invoice159.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.8312
+invoice159.html,quantity,11.00,11.00,TP,EXTRACT_RULES,0.7532
+invoice159.html,quantity,34.00,34.00,TP,EXTRACT_RULES,0.7448
+invoice159.html,total_amount,50023.69,50023.69,TP,EXTRACT_RULES,0.7304
+invoice159.html,price,474.48,474.48,TP,EXTRACT_MODEL,0.8468
+invoice159.html,price,333.24,333.24,TP,EXTRACT_MODEL,0.8468
+invoice159.html,price,107.44,107.44,TP,EXTRACT_MODEL,0.8290
+invoice159.html,price,181.23,181.23,TP,EXTRACT_MODEL,0.8468
+invoice159.html,price,12.05,12.05,TP,EXTRACT_MODEL,0.8468
+invoice159.html,price,288.22,288.22,TP,EXTRACT_MODEL,0.8779
+invoice159.html,supplier_name,Bergstrom Inc,Bergstrom Inc,TP,EXTRACT_MODEL,0.7774
+invoice159.html,invoice_number,9577058119,9577058119,TP,EXTRACT_MODEL,0.8406
+invoice159.html,email,carmen.vonrueden@yahoo.com,carmen.vonrueden@yahoo.com,TP,EXTRACT_MODEL,0.9429
+invoice159.html,invoice_date,03/16/1978,03/16/1978,TP,EXTRACT_RULES,0.7434
+invoice16.html,product,Rustic Wool Gloves,Rustic Wool Gloves,TP,EXTRACT_MODEL,0.8171
+invoice16.html,product,Incredible Concrete Shoes,Incredible Concrete Shoes,TP,EXTRACT_MODEL,0.8252
+invoice16.html,product,Mediocre Cotton Lamp,Mediocre Cotton Lamp,TP,EXTRACT_MODEL,0.7946
+invoice16.html,product,Gorgeous Rubber Chair,Gorgeous Rubber Chair,TP,EXTRACT_MODEL,0.8083
+invoice16.html,product,Gorgeous Paper Chair,Gorgeous Paper Chair,TP,EXTRACT_MODEL,0.8284
+invoice16.html,quantity,42.00,42.00,TP,EXTRACT_RULES,0.8403
+invoice16.html,quantity,53.00,53.00,TP,EXTRACT_RULES,0.8808
+invoice16.html,quantity,33.00,33.00,TP,EXTRACT_RULES,0.7820
+invoice16.html,quantity,45.00,45.00,TP,EXTRACT_RULES,0.8979
+invoice16.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.8502
+invoice16.html,total_amount,44597.77,44597.77,TP,EXTRACT_RULES,0.7306
+invoice16.html,price,19.96,19.96,TP,EXTRACT_MODEL,0.9193
+invoice16.html,price,57.55,57.55,TP,EXTRACT_MODEL,0.9238
+invoice16.html,price,411.85,411.85,TP,EXTRACT_MODEL,0.9238
+invoice16.html,price,451.77,451.77,TP,EXTRACT_MODEL,0.9238
+invoice16.html,price,243.89,243.89,TP,EXTRACT_MODEL,0.9238
+invoice16.html,supplier_name,Gleason-Gleason,Gleason-Gleason,TP,EXTRACT_MODEL,0.7428
+invoice16.html,invoice_number,6594907342,6594907342,TP,EXTRACT_MODEL,0.9232
+invoice16.html,email,deborah.romaguera@yahoo.com,deborah.romaguera@yahoo.com,TP,EXTRACT_MODEL,0.9413
+invoice16.html,invoice_date,07/16/1973,07/16/1973,TP,EXTRACT_RULES,0.7447
+invoice160.html,product,Awesome Bronze Wallet,Awesome Bronze Wallet,TP,EXTRACT_MODEL,0.8091
+invoice160.html,quantity,28.00,28.00,TP,EXTRACT_RULES,0.9196
+invoice160.html,total_amount,10345.10,10345.10,TP,EXTRACT_RULES,0.7290
+invoice160.html,price,307.89,307.89,TP,EXTRACT_MODEL,0.9235
+invoice160.html,supplier_name,Ferry LLC,Ferry LLC,TP,EXTRACT_MODEL,0.8495
+invoice160.html,invoice_number,5103866173,5103866173,TP,EXTRACT_MODEL,0.8771
+invoice160.html,email,presley.rice@hotmail.com,presley.rice@hotmail.com,TP,EXTRACT_MODEL,0.8929
+invoice160.html,invoice_date,02/16/1997,02/16/1997,TP,EXTRACT_RULES,0.7324
+invoice173.html,product,Durable Leather Shirt,Durable Leather Shirt,TP,EXTRACT_MODEL,0.8020
+invoice173.html,product,Practical Iron Table,Practical Iron Table,TP,EXTRACT_MODEL,0.7662
+invoice173.html,product,Awesome Linen Bag,Awesome Linen Bag,TP,EXTRACT_MODEL,0.8103
+invoice173.html,product,Gorgeous Rubber Shoes,Gorgeous Rubber Shoes,TP,EXTRACT_MODEL,0.8061
+invoice173.html,product,Durable Copper Watch,Durable Copper Watch,TP,EXTRACT_MODEL,0.8398
+invoice173.html,quantity,29.00,29.00,TP,EXTRACT_RULES,0.8107
+invoice173.html,quantity,52.00,52.00,TP,EXTRACT_RULES,0.8625
+invoice173.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.8011
+invoice173.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.8333
+invoice173.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.7798
+invoice173.html,total_amount,30996.82,30996.82,TP,EXTRACT_RULES,0.8918
+invoice173.html,price,50.42,50.42,TP,EXTRACT_MODEL,0.9168
+invoice173.html,price,129.38,129.38,TP,EXTRACT_MODEL,0.9209
+invoice173.html,price,331.79,331.79,TP,EXTRACT_MODEL,0.9209
+invoice173.html,price,145.96,145.96,TP,EXTRACT_MODEL,0.9209
+invoice173.html,price,246.40,246.40,TP,EXTRACT_MODEL,0.9209
+invoice173.html,supplier_name,"Hartmann, Hartmann and Hartmann","Hartmann, Hartmann and Hartmann",TP,EXTRACT_MODEL,0.7601
+invoice173.html,invoice_number,5734501383,5734501383,TP,EXTRACT_MODEL,0.8638
+invoice173.html,email,stanton.keebler@gmail.com,stanton.keebler@gmail.com,TP,EXTRACT_MODEL,0.9501
+invoice173.html,invoice_date,01/28/2017,01/28/2017,TP,EXTRACT_RULES,0.7432
+invoice174.html,product,Gorgeous Copper Lamp,Gorgeous Copper Lamp,TP,EXTRACT_MODEL,0.7675
+invoice174.html,product,Rustic Steel Lamp,Rustic Steel Lamp,TP,EXTRACT_MODEL,0.8148
+invoice174.html,product,Intelligent Leather Pants,Intelligent Leather Pants,TP,EXTRACT_MODEL,0.7503
+invoice174.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.8193
+invoice174.html,quantity,23.00,23.00,TP,EXTRACT_RULES,0.8737
+invoice174.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.8403
+invoice174.html,total_amount,17953.06,17953.06,TP,EXTRACT_RULES,0.7385
+invoice174.html,price,46.46,46.46,TP,EXTRACT_MODEL,0.9433
+invoice174.html,price,28.64,28.64,TP,EXTRACT_MODEL,0.9154
+invoice174.html,price,453.53,453.53,TP,EXTRACT_MODEL,0.9154
+invoice174.html,supplier_name,"Boehm, Boehm and Boehm","Boehm, Boehm and Boehm",TP,EXTRACT_MODEL,0.7147
+invoice174.html,invoice_number,0238885240,0238885240,TP,EXTRACT_MODEL,0.8191
+invoice174.html,email,madeline.kovacek@yahoo.com,madeline.kovacek@yahoo.com,TP,EXTRACT_MODEL,0.9407
+invoice174.html,invoice_date,07/22/1989,07/22/1989,TP,EXTRACT_RULES,0.7458
+invoice176.html,product,Lightweight Cotton Hat,Lightweight Cotton Hat,TP,EXTRACT_MODEL,0.7881
+invoice176.html,product,Rustic Leather Watch,Rustic Leather Watch,TP,EXTRACT_MODEL,0.8091
+invoice176.html,product,Practical Silk Hat,Practical Silk Hat,TP,EXTRACT_MODEL,0.7540
+invoice176.html,product,Sleek Aluminum Shirt,Sleek Aluminum Shirt,TP,EXTRACT_MODEL,0.7913
+invoice176.html,product,Incredible Bronze Pants,Incredible Bronze Pants,TP,EXTRACT_MODEL,0.7674
+invoice176.html,product,Rustic Leather Car,Rustic Leather Car,TP,EXTRACT_MODEL,0.7484
+invoice176.html,product,Small Wool Clock,Small Wool Clock,TP,EXTRACT_MODEL,0.8133
+invoice176.html,product,Incredible Copper Watch,Incredible Copper Watch,TP,EXTRACT_MODEL,0.7711
+invoice176.html,product,Intelligent Steel Hat,Intelligent Steel Hat,TP,EXTRACT_MODEL,0.7852
+invoice176.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.8227
+invoice176.html,quantity,31.00,31.00,TP,EXTRACT_RULES,0.8347
+invoice176.html,quantity,30.00,30.00,TP,EXTRACT_RULES,0.8369
+invoice176.html,quantity,27.00,27.00,TP,EXTRACT_RULES,0.8185
+invoice176.html,quantity,13.00,13.00,TP,EXTRACT_RULES,0.8232
+invoice176.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.8802
+invoice176.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.8537
+invoice176.html,quantity,6.00,6.00,TP,EXTRACT_RULES,0.8897
+invoice176.html,quantity,20.00,20.00,TP,EXTRACT_RULES,0.8310
+invoice176.html,total_amount,47844.35,47844.35,TP,EXTRACT_RULES,0.7304
+invoice176.html,price,476.84,476.84,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,208.14,208.14,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,349.14,349.14,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,410.70,410.70,TP,EXTRACT_MODEL,0.8290
+invoice176.html,price,316.87,316.87,TP,EXTRACT_MODEL,0.8631
+invoice176.html,price,13.63,13.63,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,285.16,285.16,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,414.24,414.24,TP,EXTRACT_MODEL,0.8468
+invoice176.html,price,82.15,82.15,TP,EXTRACT_MODEL,0.8468
+invoice176.html,supplier_name,Kuvalis Group,Kuvalis Group,TP,EXTRACT_MODEL,0.7618
+invoice176.html,invoice_number,7188263014,7188263014,TP,EXTRACT_MODEL,0.8381
+invoice176.html,email,gunner.farrell@hotmail.com,gunner.farrell@hotmail.com,TP,EXTRACT_MODEL,0.9429
+invoice176.html,invoice_date,11/14/1996,11/14/1996,TP,EXTRACT_RULES,0.7431
+invoice185.html,product,Rustic Rubber Bag,Rustic Rubber Bag,TP,EXTRACT_MODEL,0.7949
+invoice185.html,product,Ergonomic Silk Shoes,Ergonomic Silk Shoes,TP,EXTRACT_MODEL,0.8657
+invoice185.html,product,Gorgeous Granite Car,Gorgeous Granite Car,TP,EXTRACT_MODEL,0.8366
+invoice185.html,product,Synergistic Aluminum Shirt,Synergistic Aluminum Shirt,TP,EXTRACT_MODEL,0.8635
+invoice185.html,product,Gorgeous Wool Bottle,Gorgeous Wool Bottle,TP,EXTRACT_MODEL,0.7370
+invoice185.html,quantity,16.00,16.00,TP,EXTRACT_RULES,0.8584
+invoice185.html,quantity,46.00,46.00,TP,EXTRACT_RULES,0.9063
+invoice185.html,quantity,4.00,4.00,TP,EXTRACT_RULES,0.8444
+invoice185.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.8339
+invoice185.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.7817
+invoice185.html,total_amount,26928.19,26928.19,TP,EXTRACT_RULES,0.7306
+invoice185.html,price,191.18,191.18,TP,EXTRACT_MODEL,0.9238
+invoice185.html,price,191.39,191.39,TP,EXTRACT_MODEL,0.9176
+invoice185.html,price,304.42,304.42,TP,EXTRACT_MODEL,0.9226
+invoice185.html,price,448.86,448.86,TP,EXTRACT_MODEL,0.9238
+invoice185.html,price,251.03,251.03,TP,EXTRACT_MODEL,0.9194
+invoice185.html,supplier_name,O'Conner LLC,O'Conner LLC,TP,EXTRACT_MODEL,0.7442
+invoice185.html,invoice_number,2520763010,2520763010,TP,EXTRACT_MODEL,0.8525
+invoice185.html,email,hillary.ledner@gmail.com,hillary.ledner@gmail.com,TP,EXTRACT_MODEL,0.9413
+invoice185.html,invoice_date,10/18/1974,10/18/1974,TP,EXTRACT_RULES,0.7468
+invoice192.html,product,Synergistic Granite Plate,Synergistic Granite Plate,TP,EXTRACT_MODEL,0.8470
+invoice192.html,product,Lightweight Silk Bench,Lightweight Silk Bench,TP,EXTRACT_MODEL,0.8234
+invoice192.html,product,Intelligent Paper Shoes,Intelligent Paper Shoes,TP,EXTRACT_MODEL,0.7496
+invoice192.html,product,Rustic Silk Bottle,Rustic Silk Bottle,TP,EXTRACT_MODEL,0.8129
+invoice192.html,product,Fantastic Copper Computer,Fantastic Copper Computer,TP,EXTRACT_MODEL,0.8156
+invoice192.html,product,Mediocre Rubber Lamp,Mediocre Rubber Lamp,TP,EXTRACT_MODEL,0.7556
+invoice192.html,product,Durable Wool Computer,Durable Wool Computer,TP,EXTRACT_MODEL,0.8237
+invoice192.html,product,Aerodynamic Marble Watch,Aerodynamic Marble Watch,TP,EXTRACT_MODEL,0.8247
+invoice192.html,product,Small Wooden Hat,Small Wooden Hat,TP,EXTRACT_MODEL,0.7849
+invoice192.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.9245
+invoice192.html,quantity,47.00,47.00,TP,EXTRACT_RULES,0.8728
+invoice192.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.9362
+invoice192.html,quantity,27.00,27.00,TP,EXTRACT_RULES,0.8870
+invoice192.html,quantity,16.00,16.00,TP,EXTRACT_RULES,0.8736
+invoice192.html,quantity,33.00,33.00,TP,EXTRACT_RULES,0.8814
+invoice192.html,quantity,12.00,12.00,TP,EXTRACT_RULES,0.9011
+invoice192.html,quantity,9.00,9.00,TP,EXTRACT_RULES,0.9143
+invoice192.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.9128
+invoice192.html,total_amount,59688.67,59688.67,TP,EXTRACT_RULES,0.7290
+invoice192.html,price,313.31,313.31,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,33.20,33.20,TP,EXTRACT_MODEL,0.9308
+invoice192.html,price,164.13,164.13,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,435.76,435.76,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,138.49,138.49,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,181.86,181.86,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,352.64,352.64,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,492.90,492.90,TP,EXTRACT_MODEL,0.9212
+invoice192.html,price,315.29,315.29,TP,EXTRACT_MODEL,0.9212
+invoice192.html,supplier_name,Daugherty-Daugherty,Daugherty-Daugherty,TP,EXTRACT_MODEL,0.7340
+invoice192.html,invoice_number,4985860019,4985860019,TP,EXTRACT_MODEL,0.9143
+invoice192.html,email,janelle.emard@gmail.com,janelle.emard@gmail.com,TP,EXTRACT_MODEL,0.8929
+invoice192.html,invoice_date,04/16/2004,04/16/2004,TP,EXTRACT_RULES,0.7439
+invoice20.html,product,Practical Plastic Hat,Practical Plastic Hat,TP,EXTRACT_MODEL,0.7818
+invoice20.html,product,Rustic Bronze Knife,Rustic Bronze Knife,TP,EXTRACT_MODEL,0.8045
+invoice20.html,quantity,52.00,52.00,TP,EXTRACT_RULES,0.8906
+invoice20.html,quantity,49.00,49.00,TP,EXTRACT_RULES,0.8704
+invoice20.html,total_amount,40203.16,40203.16,TP,EXTRACT_RULES,0.8918
+invoice20.html,price,294.77,294.77,TP,EXTRACT_MODEL,0.9340
+invoice20.html,price,370.91,370.91,TP,EXTRACT_MODEL,0.9209
+invoice20.html,supplier_name,Dibbert-Dibbert,Dibbert-Dibbert,TP,EXTRACT_MODEL,0.7169
+invoice20.html,invoice_number,0055279390,0055279390,TP,EXTRACT_MODEL,0.9326
+invoice20.html,email,cali.abshire@gmail.com,cali.abshire@gmail.com,TP,EXTRACT_MODEL,0.9501
+invoice20.html,invoice_date,09/29/1990,09/29/1990,TP,EXTRACT_RULES,0.7369
+invoice201.html,product,Lightweight Linen Watch,Lightweight Linen Watch,TP,EXTRACT_MODEL,0.8235
+invoice201.html,product,Aerodynamic Marble Bag,Aerodynamic Marble Bag,TP,EXTRACT_MODEL,0.7865
+invoice201.html,product,Fantastic Concrete Watch,Fantastic Concrete Watch,TP,EXTRACT_MODEL,0.8636
+invoice201.html,product,Small Rubber Shirt,Small Rubber Shirt,TP,EXTRACT_MODEL,0.7533
+invoice201.html,product,Ergonomic Aluminum Bench,Ergonomic Aluminum Bench,TP,EXTRACT_MODEL,0.8422
+invoice201.html,quantity,13.00,13.00,TP,EXTRACT_RULES,0.7203
+invoice201.html,quantity,18.00,18.00,TP,EXTRACT_RULES,0.7882
+invoice201.html,quantity,37.00,37.00,TP,EXTRACT_RULES,0.7400
+invoice201.html,quantity,4.00,4.00,TP,EXTRACT_RULES,0.7558
+invoice201.html,quantity,16.00,16.00,TP,EXTRACT_RULES,0.8251
+invoice201.html,total_amount,21742.62,21742.62,TP,EXTRACT_RULES,0.7385
+invoice201.html,price,287.38,287.38,TP,EXTRACT_MODEL,0.9154
+invoice201.html,price,269.61,269.61,TP,EXTRACT_MODEL,0.9176
+invoice201.html,price,49.31,49.31,TP,EXTRACT_MODEL,0.9154
+invoice201.html,price,179.65,179.65,TP,EXTRACT_MODEL,0.9154
+invoice201.html,price,199.02,199.02,TP,EXTRACT_MODEL,0.9113
+invoice201.html,supplier_name,Huels Group,Huels Group,TP,EXTRACT_MODEL,0.8178
+invoice201.html,invoice_number,1549306900,1549306900,TP,EXTRACT_MODEL,0.8077
+invoice201.html,email,immanuel.gerhold@hotmail.com,immanuel.gerhold@hotmail.com,TP,EXTRACT_MODEL,0.9407
+invoice201.html,invoice_date,02/27/2001,02/27/2001,TP,EXTRACT_RULES,0.7505
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,product,500 Invitations,500 Invitations,TP,EXTRACT_MODEL,0.5720
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8619
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,total_amount,421.05,421.05,TP,EXTRACT_MODEL,0.5480
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,price,167.50,167.50,TP,EXTRACT_MODEL,0.8429
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,price,,75.00,FP,FAIL_MODEL,0.4682
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,price,,75.00,FP,FAIL_MODEL,0.5233
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,supplier_name,Dogs Fly Design,Dogs Fly Design,TP,EXTRACT_MODEL,0.6400
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,invoice_number,1217,1217,TP,EXTRACT_MODEL,0.8049
+train.0239d2b5-d329-4da5-b65a-ecbfdb4aa492.html,invoice_date,08/28/2014,08/28/2014,TP,EXTRACT_RULES,0.7189
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,product,Tuition for John Doe,,FN,FAIL_MODEL,undefined
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,product,Speech,,FN,FAIL_MODEL,undefined
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,quantity,9.00,,FN,FAIL_MODEL,undefined
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,quantity,15.00,,FN,FAIL_MODEL,undefined
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,total_amount,8250.00,8250.00,TP,EXTRACT_RULES,0.7088
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.9289
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,price,500.00,500.00,TP,EXTRACT_MODEL,0.9098
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,supplier_name,Happy Day Department,Happy Day Department,TP,EXTRACT_MODEL,0.7479
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,invoice_number,21000,21000,TP,EXTRACT_MODEL,0.6940
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,email,someone@example.com,,FN,FAIL_MODEL,undefined
+train.0426e5bf-5697-4aa1-b119-814d354a8089.html,invoice_date,12/31/2011,12/31/2011,TP,EXTRACT_MODEL,0.6066
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,product,Woo Album #3,Woo Album #3,TP,EXTRACT_MODEL,0.8296
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,product,S_hip_You.r_Ide.a,S_hip_You.r_Ide.a,TP,EXTRACT_MODEL,0.3374
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,product,Ship Your Idea,Ship Your Idea colon Blue,"FP,FN",FAIL_RULES,0.7272
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,product,colon Blue,Payment Methods,"FP,FN",FAIL_MODEL,0.5795
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7181
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.7009
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8980
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9382
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,quantity,,50.10,FP,FAIL_MODEL,0.4175
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,total_amount,83.79,,FN,FAIL_MODEL,undefined
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,price,15.00,15.00,TP,EXTRACT_MODEL,0.7349
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,price,9.00,9.00,TP,EXTRACT_MODEL,0.6712
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.8090
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,price,28.50,,FN,FAIL_MODEL,undefined
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,supplier_name,COMMERCE,,FN,FAIL_MODEL,undefined
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,invoice_number,INV-000050-2016,INV-000050-2016,TP,EXTRACT_MODEL,0.6717
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,email,,tonv@mairmator.com,FP,FAIL_MODEL,0.6050
+train.0da4c403-f30b-4e85-9125-82659e306df8.html,invoice_date,,02/16/2016,FP,FAIL_MODEL,0.6912
+train.0e0db08f-da64-44fe-821c-e1f5566f54c5.html,supplier_name,Paymeout Painters,Paymeout Painters,TP,EXTRACT_MODEL,0.6265
+train.0e0db08f-da64-44fe-821c-e1f5566f54c5.html,invoice_number,123456,123456,TP,EXTRACT_MODEL,0.8082
+train.0e0db08f-da64-44fe-821c-e1f5566f54c5.html,invoice_date,05/10/1998,05/10/1998,TP,EXTRACT_RULES,0.7834
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 11, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 5, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 11, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 10, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 10, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 4, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,product,"October 3, 2012",,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,500.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,800.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,650.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,200.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,975.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,525.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,quantity,100.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,total_amount,794.55,794.55,TP,EXTRACT_MODEL,0.8257
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,12.51,12.51,TP,EXTRACT_RULES,0.5100
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,80.00,80.00,TP,EXTRACT_RULES,0.5627
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,20.00,20.00,TP,EXTRACT_RULES,0.5525
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,12.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,12.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,12.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,price,80.00,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,supplier_name,Houeze Inc,Houeze Inc,TP,EXTRACT_MODEL,0.7898
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,email,john@smith.com,,FN,FAIL_MODEL,undefined
+train.10dea319-413e-410f-a67b-a231afcb2e98.html,invoice_date,11/03/2012,11/03/2012,TP,EXTRACT_RULES,0.7560
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,Nunc auctor nisi vel totem aliquot poUontc*ǀue.,Nunc auctor nisi vel totem aliquot poUontc*ǀue.,TP,EXTRACT_MODEL,0.7616
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,Aenean eget enim eget augue dictum fringdto et vrtae.,Aenean eget enim eget augue dictum fringdto et vrtae.,TP,EXTRACT_MODEL,0.5909
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,Donee .K er at vel neque molestic coov.illtt.,Donee .K er at vel neque molestic coov.illtt.,TP,EXTRACT_MODEL,0.7038
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,In hac habitasse platea dictumst. mauris at.,In hac habitasse platea dictumst. mauris at.,TP,EXTRACT_MODEL,0.5957
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,Sod oget rbusac lac us tempert lolhcrtiKhn inat magru.,Sod oget rbusac lac us tempert lolhcrtiKhn inat magru.,TP,EXTRACT_MODEL,0.6331
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,product,PeHcntesque habitant morbi.,,FN,FAIL_MODEL,undefined
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8688
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.9397
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.8111
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,3.00,3.00,TP,EXTRACT_RULES,0.7780
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.7984
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7842
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,total_amount,9040.00,9040.00,TP,EXTRACT_RULES,0.9631
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,2800.00,2.00,"FP,FN",FAIL_RULES,0.5697
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,800.00,800.00,TP,EXTRACT_RULES,0.9128
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,300.00,300.00,TP,EXTRACT_RULES,0.9046
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,20.00,20.00,TP,EXTRACT_RULES,0.8976
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,600.00,600.00,TP,EXTRACT_RULES,0.9081
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,price,100.00,100.00,TP,EXTRACT_RULES,0.9442
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,invoice_number,0001,0001,TP,EXTRACT_MODEL,0.6570
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,email,mail@Pyoutbfand.com,,FN,FAIL_MODEL,undefined
+train.17ae690f-1768-49b7-8f42-44a8a84f64c8.html,invoice_date,09/01/2012,09/01/2012,TP,EXTRACT_RULES,0.5046
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,product,"Wedding piclures, June 16. 2016 Use this space lo provide an extro description ot your services, it required.","Wedding piclures, June 16. 2016 Use this space lo provide an extro description ot your services, it required.",TP,EXTRACT_RULES,0.5702
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,product,Job 2 Use this spoce to provide an extra description ot your services. it required.,Job 2 Use this spoce to provide an extra description ot your services. it required.,TP,EXTRACT_RULES,0.6085
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.9070
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.8884
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,total_amount,735.00,735.00,TP,EXTRACT_RULES,0.7351
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,price,20.00,20.00,TP,EXTRACT_RULES,0.8858
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,price,20.00,20.00,TP,EXTRACT_RULES,0.8795
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,invoice_number,100,100,TP,EXTRACT_RULES,0.8257
+train.17d5cc95-b95f-4f66-90bf-fb3861e12ae2.html,invoice_date,09/07/2016,09/07/2016,TP,EXTRACT_RULES,0.6785
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,product,VACATION PACKAGE TO ACAPUI.CO. MEXICO,,FN,FAIL_MODEL,undefined
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.5836
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,total_amount,2142.20,,FN,FAIL_MODEL,undefined
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,price,1891.95,1891.95,TP,EXTRACT_RULES,0.6297
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,supplier_name,ABCDEFG TRAVEL,ABCDEFG TRAVEL,TP,EXTRACT_MODEL,0.7576
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,invoice_number,A123,A123,TP,EXTRACT_MODEL,0.5215
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,email,bookings@abcdefgtravel.ca,bookings@abcdefgtravel.ca,TP,EXTRACT_MODEL,0.7466
+train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html,invoice_date,01/12/2011,01/12/2011,TP,EXTRACT_RULES,0.7343
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,product,Design services,Design services,TP,EXTRACT_MODEL,0.5894
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,quantity,1.00,1.00,TP,EXTRACT_MODEL,0.7466
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,quantity,,10.00,FP,FAIL_MODEL,0.5273
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,total_amount,250.00,250.00,TP,EXTRACT_MODEL,0.6003
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,price,227.27,227.27,TP,EXTRACT_MODEL,0.7971
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,supplier_name,Foxglove Studios,Foxglove Studios,TP,EXTRACT_MODEL,0.5851
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,invoice_number,INV-0007,INV-0007,TP,EXTRACT_MODEL,0.6959
+train.1e3c0c47-62bb-45b3-93e4-e24daab0ba56.html,invoice_date,03/31/2014,03/31/2014,TP,EXTRACT_RULES,0.6393
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,product,Chapter Dues,Chapter Dues,TP,EXTRACT_MODEL,0.8575
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,product,Click to update donation,Click to update donation,TP,EXTRACT_MODEL,0.8754
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,product,Active Member Dues National Dues,,FN,FAIL_MODEL,undefined
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7935
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7873
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8533
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,total_amount,1250.00,1250.00,TP,EXTRACT_RULES,0.9042
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,price,650.00,650.00,TP,EXTRACT_MODEL,0.7023
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,price,350.00,350.00,TP,EXTRACT_MODEL,0.7578
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.7890
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,supplier_name,XYZQ Integration,,FN,FAIL_MODEL,undefined
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,invoice_number,0001549,0001549,TP,EXTRACT_MODEL,0.7359
+train.1e8152d1-90d5-4c2d-87ed-72a50077b7d9.html,invoice_date,10/25/2012,10/25/2012,TP,EXTRACT_RULES,0.6835
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,product,"Wedding piclures, June 16. 2016 01 Use this space to provide an extro description ot your serviced it roquired.","Wedding piclures, June 16. 2016 01 Use this space to provide an extro description ot your serviced it roquired.",TP,EXTRACT_RULES,0.6294
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,product,Job 2 02 Use this space to prwide an extra description ot,Job 2 02 Use this space to prwide an extra description ot,TP,EXTRACT_RULES,0.6368
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.9199
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,quantity,25.00,25.00,TP,EXTRACT_RULES,0.8824
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,total_amount,735.00,,FN,FAIL_MODEL,undefined
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,price,20.00,20.00,TP,EXTRACT_RULES,0.8484
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,price,20.00,20.00,TP,EXTRACT_RULES,0.8279
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,supplier_name,Packaging Corp. of East West America,,FN,FAIL_MODEL,undefined
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,invoice_number,100191,100191,TP,EXTRACT_MODEL,0.5394
+train.21406ab6-f7f7-4382-a939-5aa9edf9743a.html,invoice_date,09/07/2016,09/07/2016,TP,EXTRACT_RULES,0.5646
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,product,Consultation,Consultation,TP,EXTRACT_MODEL,0.5266
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,product,Design,,FN,FAIL_MODEL,undefined
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,product,Discount,,FN,FAIL_MODEL,undefined
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.6189
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,quantity,7.00,7.00,TP,EXTRACT_RULES,0.5348
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,total_amount,658.94,658.94,TP,EXTRACT_MODEL,0.8628
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,price,80.00,80.00,TP,EXTRACT_MODEL,0.7647
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,price,50.00,50.00,TP,EXTRACT_MODEL,0.6798
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,price,-30.00,30.00,"FP,FN",FAIL_MODEL,0.7325
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,supplier_name,Nolke Resort Group,Nolke Resort Group,TP,EXTRACT_MODEL,0.7067
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,invoice_number,103001,,FN,FAIL_MODEL,undefined
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,email,sski@slowi.com,sski@slowi.com,TP,EXTRACT_MODEL,0.6860
+train.259abc7e-dd46-450c-8bc9-1a73b489ba5d.html,invoice_date,02/15/2016,02/15/2016,TP,EXTRACT_RULES,0.6424
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Frendi pwcasj - BonOor / SaW,Frendi pwcasj - BonOor / SaW,TP,EXTRACT_MODEL,0.5385
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Pcflsn Ifezyk poiskO - Ozien dooryl / C?*«!,Pcflsn Ifezyk poiskO - Ozien dooryl / C?*«!,TP,EXTRACT_MODEL,0.5759
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Greek (cMnvw0) - Teio ooc,Greek (cMnvw0) - Teio ooc,TP,EXTRACT_MODEL,0.6477
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Engish - Hello,Engish - Hello,TP,EXTRACT_MODEL,0.6010
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Rj»an (pycCKXi») - 3aP»BCTey*rel,Rj»an (pycCKXi») - 3aP»BCTey*rel,TP,EXTRACT_MODEL,0.6243
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,CMnese (*>S:.H«;A.ai3) - WW,CMnese (*>S:.H«;A.ai3) - WW,TP,EXTRACT_MODEL,0.5936
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Japarwe(QalB)-CA.lC5U/Ir:»A,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,rtjnganan (maoyar} - Sz«o (0 napof,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,product,Kiyean ǀ»i) - /oiyeǀ4jqot,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,total_amount,93.60,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.5784
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7159
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.6335
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7904
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,supplier_name,Hieje,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,invoice_number,552,,FN,FAIL_MODEL,undefined
+train.25d4ab85-d15f-4fec-9c3a-f90afd9f138f.html,invoice_date,11/14/2011,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,product,LA MADE Luci Braid Detail 3/4Sleeve Knit Top,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,product,Kensie Diane Belted Colorblock Tank Dress,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,product,LA MADE Alexa Cross-Front Striped Shirt,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,product,THMHydee Embroidered Cinch Waist TopL,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,product,Sanctuary rizzo skinny ponte pants,,FN,FAIL_MODEL,undefined
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,total_amount,245.00,245.00,TP,EXTRACT_MODEL,0.8019
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,price,48.00,48.00,TP,EXTRACT_MODEL,0.6025
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,price,58.00,58.00,TP,EXTRACT_MODEL,0.6430
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,price,58.00,58.00,TP,EXTRACT_MODEL,0.6037
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,price,88.00,88.00,TP,EXTRACT_MODEL,0.6182
+train.26a649d7-b4e1-40d2-a0ef-9ff1a3f8e5b1.html,price,68.00,68.00,TP,EXTRACT_MODEL,0.5856
+train.27b846b5-10d1-4518-9de5-2a83bf6140e7.html,invoice_date,08/08/2012,08/08/2012,TP,EXTRACT_MODEL,0.8278
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,Washing,Washing,TP,EXTRACT_MODEL,0.3486
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,brake cleaning,brake cleaning,TP,EXTRACT_MODEL,0.7970
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,VAS Scaning,VAS Scaning,TP,EXTRACT_MODEL,0.7736
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,CASTROL ENGINE OIL 4LT,CASTROL ENGINE OIL 4LT,TP,EXTRACT_MODEL,0.6946
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,SERVICING CHARGES,SERVICING CHARGES,TP,EXTRACT_MODEL,0.8087
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,AIR FILTER,AIR FILTER,TP,EXTRACT_MODEL,0.7719
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,CASTROL ENGINE OIL1LT,CASTROL ENGINE OIL1LT,TP,EXTRACT_MODEL,0.7126
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,DUST AND POLLEN FILTER,DUST AND POLLEN FILTER,TP,EXTRACT_MODEL,0.6941
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,Oil Filter,Oil Filter,TP,EXTRACT_MODEL,0.8080
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,PLUG WITH,PLUG WITH,TP,EXTRACT_MODEL,0.7669
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,WINDSHIELD CLEANER CO,WINDSHIELD CLEANER CO,TP,EXTRACT_MODEL,0.7594
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,product,CONSUMABLE,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,129.00,129.00,TP,EXTRACT_RULES,0.5763
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7058
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7046
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,150.00,150.00,TP,EXTRACT_RULES,0.7231
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,100.00,100.00,TP,EXTRACT_RULES,0.6900
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.6585
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.6714
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,114.00,114.00,TP,EXTRACT_RULES,0.6432
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7004
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7012
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,186.00,186.00,TP,EXTRACT_RULES,0.6470
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7019
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,total_amount,9075.00,9075.00,TP,EXTRACT_RULES,0.5901
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,67.36,67.36,TP,EXTRACT_MODEL,0.5016
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3.50,3.50,TP,EXTRACT_MODEL,0.5520
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3.50,3.50,TP,EXTRACT_MODEL,0.5926
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,275.56,275.56,TP,EXTRACT_MODEL,0.4456
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,635.47,635.47,TP,EXTRACT_MODEL,0.4219
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,327.11,327.11,TP,EXTRACT_MODEL,0.3567
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,862.23,862.23,TP,EXTRACT_MODEL,0.4227
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,226.98,226.98,TP,EXTRACT_MODEL,0.4239
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3.50,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3.50,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3.50,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,price,3342.23,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,supplier_name,Authorized VW Dealer TMP Orls Motors Pvt Ltd,Authorized VW Dealer TMP Orls Motors Pvt Ltd,TP,EXTRACT_RULES,0.5758
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,invoice_number,SIP/JUL/0457,,FN,FAIL_MODEL,undefined
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,email,service@vw-tmp.co.in,service@vw-tmp.co.in,TP,EXTRACT_MODEL,0.9548
+train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html,invoice_date,07/20/2011,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,product,Remove Create Links - Proration Credit,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,product,Run Your Own Ads - Proration Credit,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,product,Nmg Plus - Annual - Proration,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,total_amount,23.84,23.84,TP,EXTRACT_RULES,0.7989
+train.337b594a-1198-4486-a307-171220a41f32.html,price,14.80,14.80,TP,EXTRACT_MODEL,0.5829
+train.337b594a-1198-4486-a307-171220a41f32.html,price,-19.32,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,price,-19.32,,FN,FAIL_MODEL,undefined
+train.337b594a-1198-4486-a307-171220a41f32.html,supplier_name,Ning. lnc.,Ning. lnc.,TP,EXTRACT_RULES,0.6682
+train.337b594a-1198-4486-a307-171220a41f32.html,email,networkcrealor@example.com,networkcrealor@example.com,TP,EXTRACT_MODEL,0.8606
+train.337b594a-1198-4486-a307-171220a41f32.html,invoice_date,07/15/2010,07/15/2010,TP,EXTRACT_MODEL,0.6215
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,product,Voucher Book,Voucher Book,TP,EXTRACT_MODEL,0.6556
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,product,Answer Booklet ( A4.2 Page Both Side),,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,product,Envelops,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,quantity,2000.00,2000.00,TP,EXTRACT_RULES,0.7513
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,quantity,50.00,50.00,TP,EXTRACT_RULES,0.8612
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,quantity,2632.00,2632.00,TP,EXTRACT_RULES,0.7685
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,total_amount,9315.00,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,price,1.70,1.70,TP,EXTRACT_MODEL,0.5129
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,price,41.00,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,price,1.30,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,supplier_name,M/s Indian Convent School,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,invoice_number,0038,,FN,FAIL_MODEL,undefined
+train.34745b56-eb5a-4729-b49c-5abfa9631675.html,invoice_date,12/01/2016,01/12/2016,"FP,FN",FAIL_RULES,0.7545
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,product,Prepare design documents,Prepare design documents,TP,EXTRACT_MODEL,0.5500
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,product,"Review design documents with client on May 30, 2009","Review design documents with client on May 30, 2009",TP,EXTRACT_MODEL,0.5935
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,product,"Design meeting with client on May 12, 2009",,FN,FAIL_MODEL,undefined
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,quantity,3.25,,FN,FAIL_MODEL,undefined
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,quantity,42.50,,FN,FAIL_MODEL,undefined
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,quantity,2.25,,FN,FAIL_MODEL,undefined
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,total_amount,14858.83,14858.83,TP,EXTRACT_RULES,0.6101
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.8256
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.7347
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.5695
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,price,,3.25,FP,FAIL_MODEL,0.6540
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,supplier_name,Ghwjex Consulting,,FN,FAIL_MODEL,undefined
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,invoice_number,0007429004,0007429004,TP,EXTRACT_MODEL,0.6602
+train.37c42c0f-a058-460c-a78d-98f7662df650.html,invoice_date,05/30/2009,05/30/2009,TP,EXTRACT_RULES,0.7506
+train.387b1716-613f-4e28-8d4a-12502961d674.html,total_amount,1350.00,,FN,FAIL_MODEL,undefined
+train.387b1716-613f-4e28-8d4a-12502961d674.html,supplier_name,Public Library of Science,Public Library of Science,TP,EXTRACT_RULES,0.6111
+train.387b1716-613f-4e28-8d4a-12502961d674.html,invoice_number,PAB36717,PAB36717,TP,EXTRACT_RULES,0.7867
+train.387b1716-613f-4e28-8d4a-12502961d674.html,email,aurcr@biingoposag,,FN,FAIL_MODEL,undefined
+train.387b1716-613f-4e28-8d4a-12502961d674.html,invoice_date,12/30/2011,,FN,FAIL_MODEL,undefined
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,product,Sample invoice for two hours of service,Sample invoice for two hours of service Sample product Item A case of Doer,"FP,FN",FAIL_RULES,0.5889
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,product,Sample product Item,,FN,FAIL_MODEL,undefined
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,product,A case of Doer,,FN,FAIL_MODEL,undefined
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.6730
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.5155
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,quantity,24.00,24.00,TP,EXTRACT_RULES,0.6756
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,quantity,,0.00,FP,FAIL_MODEL,0.6348
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,quantity,,100.00,FP,FAIL_MODEL,0.6597
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,total_amount,323.90,323.90,TP,EXTRACT_MODEL,0.5385
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,price,9.99,323.90,"FP,FN",FAIL_MODEL,0.5421
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,price,100.00,100.00,TP,EXTRACT_RULES,0.6999
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,price,1.00,,FN,FAIL_MODEL,undefined
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,supplier_name,Just Creative,,FN,FAIL_MODEL,undefined
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,invoice_number,0000001,000001,"FP,FN",FAIL_RULES,0.6030
+train.38c9ff1f-a06c-48bf-a8a5-b59ea26c6917.html,invoice_date,08/23/2008,08/23/2008,TP,EXTRACT_RULES,0.7712
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,product,"PS150-Centric SJ5_8, Lorentz Pump/Controller","PS150-Centric SJ5_8, Lorentz Pump/Controller AXC200 syringes JIN 21 reagent Overnight shipping & icepack packaging","FP,FN",FAIL_RULES,0.6642
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,product,AXC200 syringes,,FN,FAIL_MODEL,undefined
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,product,JIN 21 reagent,,FN,FAIL_MODEL,undefined
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,product,Overnight shipping & icepack packaging,,FN,FAIL_MODEL,undefined
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9027
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,quantity,3.00,3.00,TP,EXTRACT_RULES,0.5971
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9070
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,quantity,1000.00,1000.00,TP,EXTRACT_RULES,0.7262
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,total_amount,4096.99,4096.99,TP,EXTRACT_MODEL,0.7013
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,price,2.99,2.99,TP,EXTRACT_MODEL,0.7591
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,price,5268.00,268.00,"FP,FN",FAIL_RULES,0.6299
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,price,238.00,238.00,TP,EXTRACT_MODEL,0.5629
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,price,598.00,98.00,"FP,FN",FAIL_RULES,0.4292
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,supplier_name,SADEX,,FN,FAIL_MODEL,undefined
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,invoice_number,Inv#06888,,FN,FAIL_MODEL,undefined
+train.3b7ddb75-8659-46ab-9461-a428c45b4731.html,invoice_date,12/19/2011,12/19/2011,TP,EXTRACT_RULES,0.7272
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,product,Annual Dues per team 2009 summer swim season,Annual Dues per team 2009 summer swim season,TP,EXTRACT_MODEL,0.7654
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,total_amount,100.00,100.00,TP,EXTRACT_MODEL,0.9639
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,price,100.00,,FN,FAIL_MODEL,undefined
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,supplier_name,c/o Great River Miner,c/o Great River Miner,TP,EXTRACT_MODEL,0.6228
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,invoice_number,100,100,TP,EXTRACT_MODEL,0.6587
+train.3c682f27-6069-4197-b695-ae3b582034f6.html,invoice_date,05/02/2009,05/02/2009,TP,EXTRACT_RULES,0.6479
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,BT Speakers Bluetooth Speakers for lenova Laptop,BT Speakers Bluetooth Speakers for lenova Laptop,TP,EXTRACT_RULES,0.6212
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,DRAM 1G8 DRAM,DRAM 1G8 DRAM,TP,EXTRACT_MODEL,0.5466
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,.G Montor ICO 21* wide screen,.G Montor ICO 21* wide screen,TP,EXTRACT_MODEL,0.6317
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,tOO 320GB 320GB SATA Hard Onve,tOO 320GB 320GB SATA Hard Onve,TP,EXTRACT_MODEL,0.6474
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,BT Headset Bfuetooth Headset for Windows «able Devices,BT Headset Bfuetooth Headset for Windows «able Devices,TP,EXTRACT_RULES,0.6678
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,product,Logitech Sc amor Document Scanner,,FN,FAIL_MODEL,undefined
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,1001.00,FP,FAIL_MODEL,0.5717
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,1.00,FP,FAIL_MODEL,0.5934
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,1.00,FP,FAIL_MODEL,0.6169
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,8736.00,FP,FAIL_MODEL,0.5827
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,2.00,FP,FAIL_MODEL,0.5887
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,3.00,FP,FAIL_MODEL,0.6383
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,quantity,,1.00,FP,FAIL_MODEL,0.6053
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,total_amount,1083.54,1083.54,TP,EXTRACT_RULES,0.6068
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,12.00,12.00,TP,EXTRACT_MODEL,0.9400
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,5150.00,0.00,"FP,FN",FAIL_RULES,0.8375
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,26.00,26.00,TP,EXTRACT_MODEL,0.9491
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,55.00,50.00,"FP,FN",FAIL_RULES,0.5260
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,79.00,79.00,TP,EXTRACT_MODEL,0.8987
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.9682
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,invoice_number,INV125,INV125,TP,EXTRACT_MODEL,0.5056
+train.3c8d5d54-e52e-4b7d-bc18-99eaac074b03.html,invoice_date,,03/15/2008,FP,FAIL_MODEL,0.5112
+train.3d6cd1e6-a998-4e15-8233-22ed8948a6bf.html,total_amount,2400.00,,FN,FAIL_MODEL,undefined
+train.3d6cd1e6-a998-4e15-8233-22ed8948a6bf.html,supplier_name,Cooler Maker Consulting Co,,FN,FAIL_MODEL,undefined
+train.3d6cd1e6-a998-4e15-8233-22ed8948a6bf.html,invoice_number,INV-0042,,FN,FAIL_MODEL,undefined
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,product,Client overpayment / Refund,Client overpayment / Refund,TP,EXTRACT_MODEL,0.5123
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,product,Professional Services,Professional Services,TP,EXTRACT_MODEL,0.5513
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,product,Edit Session Description,,FN,FAIL_MODEL,undefined
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,total_amount,100.00,100.00,TP,EXTRACT_RULES,0.5925
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,price,100.00,100.00,TP,EXTRACT_RULES,0.6457
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,price,100.00,100.00,TP,EXTRACT_RULES,0.6273
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,price,-100.00,,FN,FAIL_MODEL,undefined
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,supplier_name,Hjdie Therapist,,FN,FAIL_MODEL,undefined
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,email,support@simplepractice.com,support@simplepractice.com,TP,EXTRACT_MODEL,0.8107
+train.431358d6-41f4-44e4-adc0-8dfaf8df0804.html,invoice_date,12/09/2015,12/09/2015,TP,EXTRACT_MODEL,0.7237
+train.46192655-d5d6-49d6-8bef-c29d689b5744.html,supplier_name,Bjsiw Works,Bjsiw Works,TP,EXTRACT_MODEL,0.5492
+train.46192655-d5d6-49d6-8bef-c29d689b5744.html,invoice_number,19012389,,FN,FAIL_MODEL,undefined
+train.46192655-d5d6-49d6-8bef-c29d689b5744.html,email,nippcrt@aproaAinctWvye.com,,FN,FAIL_MODEL,undefined
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,product,This is a sample product,This is a sample product,TP,EXTRACT_MODEL,0.6141
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,product,This is product number 2.,This is product number 2.,TP,EXTRACT_MODEL,0.6219
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,product,this is a test product,,FN,FAIL_MODEL,undefined
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.7492
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8363
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8672
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8386
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,total_amount,153.00,153.00,TP,EXTRACT_MODEL,0.8786
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,price,100.00,100.00,TP,EXTRACT_MODEL,0.6597
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.5440
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.6421
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.6462
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,supplier_name,Vhuejo S.A.,Vhuejo S.A.,TP,EXTRACT_MODEL,0.7537
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,invoice_number,000031,000001,"FP,FN",FAIL_RULES,0.8240
+train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html,invoice_date,06/15/2011,06/15/2011,TP,EXTRACT_RULES,0.8153
+train.6a1f5f62-4619-46d3-823f-4fd38a1cd524.html,total_amount,198.00,,FN,FAIL_MODEL,undefined
+train.6a1f5f62-4619-46d3-823f-4fd38a1cd524.html,supplier_name,NOER Notru COMPONENTS LTD,,FN,FAIL_MODEL,undefined
+train.6a1f5f62-4619-46d3-823f-4fd38a1cd524.html,invoice_number,1157C,,FN,FAIL_MODEL,undefined
+train.6a1f5f62-4619-46d3-823f-4fd38a1cd524.html,invoice_date,01/20/1967,,FN,FAIL_MODEL,undefined
+train.711a9524-10a1-4882-88a6-f5716011df67.html,product,Sonnco 1,Sonnco 1,TP,EXTRACT_MODEL,0.8103
+train.711a9524-10a1-4882-88a6-f5716011df67.html,product,Product 1,Product 1,TP,EXTRACT_MODEL,0.7307
+train.711a9524-10a1-4882-88a6-f5716011df67.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9526
+train.711a9524-10a1-4882-88a6-f5716011df67.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.9726
+train.711a9524-10a1-4882-88a6-f5716011df67.html,total_amount,230.00,,FN,FAIL_MODEL,undefined
+train.711a9524-10a1-4882-88a6-f5716011df67.html,price,10.00,1000.00,"FP,FN",FAIL_RULES,0.4360
+train.711a9524-10a1-4882-88a6-f5716011df67.html,price,100.00,100.00,TP,EXTRACT_RULES,0.3926
+train.711a9524-10a1-4882-88a6-f5716011df67.html,supplier_name,ABC Goods LW,ABC Goods LW,TP,EXTRACT_MODEL,0.5205
+train.711a9524-10a1-4882-88a6-f5716011df67.html,invoice_number,000001,000001,TP,EXTRACT_MODEL,0.6580
+train.711a9524-10a1-4882-88a6-f5716011df67.html,invoice_date,05/31/2016,,FN,FAIL_MODEL,undefined
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,product,Boys Shirt Small Size Orange Color,Boys Shirt Small Size Orange Color,TP,EXTRACT_MODEL,0.8408
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,product,Boys Shirt Medium Size Red Color,Boys Shirt Medium Size Red Color,TP,EXTRACT_MODEL,0.8089
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,product,Boys Shirt Small Size Orange Color,Boys Shirt Small Size Orange Color,TP,EXTRACT_MODEL,0.7226
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,product,Men Shirt Medium Size Yellow Color,Men Shirt Medium Size Yellow Color,TP,EXTRACT_MODEL,0.7914
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.9442
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.8970
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.9539
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.8803
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,price,16.00,16.00,TP,EXTRACT_MODEL,0.7672
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,price,18.00,18.00,TP,EXTRACT_MODEL,0.7761
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,price,16.00,16.00,TP,EXTRACT_MODEL,0.7570
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,price,9.00,9.00,TP,EXTRACT_MODEL,0.7810
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,supplier_name,INDZARA,,FN,FAIL_MODEL,undefined
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,invoice_number,1234,,FN,FAIL_MODEL,undefined
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,email,bengal@uaqru.com,bengal@uaqru.com,TP,EXTRACT_MODEL,0.8895
+train.77a39a56-6e64-432b-8efa-3b118698b08a.html,invoice_date,07/22/2016,07/22/2016,TP,EXTRACT_RULES,0.6323
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,product,Public access for support tickets,Public access for support tickets,TP,EXTRACT_MODEL,0.5733
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,product,Finance plugin,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,product,Invoices plugin,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,product,Helpdesk plugin license,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,product,CRM plugin,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.5878
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,quantity,6.50,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,total_amount,581.40,581.40,TP,EXTRACT_MODEL,0.7136
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,156.00,156.00,TP,EXTRACT_MODEL,0.7922
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.7285
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,105.00,105.00,TP,EXTRACT_MODEL,0.8051
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,99.00,99.00,TP,EXTRACT_MODEL,0.7741
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,156.00,156.00,TP,EXTRACT_MODEL,0.8164
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,price,,6.50,FP,FAIL_MODEL,0.4760
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,supplier_name,Nkoe Communications Corp.,Nkoe Communications Corp.,TP,EXTRACT_MODEL,0.6531
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,invoice_number,INV/20131125-01,,FN,FAIL_MODEL,undefined
+train.7d3277ce-4274-46e3-9770-6b62c6fca9a6.html,invoice_date,11/25/2013,11/25/2013,TP,EXTRACT_RULES,0.7012
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,product,Pencils,,FN,FAIL_MODEL,undefined
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,quantity,1500.00,,FN,FAIL_MODEL,undefined
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,total_amount,4680.00,,FN,FAIL_MODEL,undefined
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,price,3.00,,FN,FAIL_MODEL,undefined
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,supplier_name,ABC Company,ABC Company,TP,EXTRACT_MODEL,0.8045
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,invoice_number,28926,,FN,FAIL_MODEL,undefined
+train.7f5cd49b-808e-4d14-a012-d49718d012fb.html,invoice_date,10/07/2012,10/07/2012,TP,EXTRACT_RULES,0.6643
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,quantity,,9.50,FP,FAIL_MODEL,0.5824
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,total_amount,0.00,,FN,FAIL_MODEL,undefined
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,supplier_name,Jeremy Pavia,,FN,FAIL_MODEL,undefined
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,invoice_number,007,007,TP,EXTRACT_MODEL,0.9193
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,email,info@jeremypavia.com,info@jeremypavia.com,TP,EXTRACT_MODEL,0.6236
+train.80aa8554-9984-4d73-b15a-74edb41a9924.html,invoice_date,07/11/2012,07/11/2012,TP,EXTRACT_RULES,0.7906
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,product,wall pant,,FN,FAIL_MODEL,undefined
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,product,ceiingpare,,FN,FAIL_MODEL,undefined
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.7027
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,quantity,6.00,6.00,TP,EXTRACT_RULES,0.7497
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,total_amount,3493.60,,FN,FAIL_MODEL,undefined
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,price,578.03,57803.00,"FP,FN",FAIL_RULES,0.8689
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,price,566.03,566.00,"FP,FN",FAIL_RULES,0.6883
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,price,,3.00,FP,FAIL_MODEL,0.4893
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,invoice_number,10001,,FN,FAIL_MODEL,undefined
+train.831fcf7a-bbff-4db9-b276-71e16680159f.html,invoice_date,08/21/2013,,FN,FAIL_MODEL,undefined
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,product,"Printed Chiffon Dress - Size : S, Color : Yellow","Printed Chiffon Dress - Size : S, Color : Yellow",TP,EXTRACT_RULES,0.4193
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9450
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,total_amount,23.40,23.40,TP,EXTRACT_MODEL,0.8570
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,price,16.40,16.40,TP,EXTRACT_MODEL,0.4819
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,invoice_number,IN000001,IN000001,TP,EXTRACT_MODEL,0.5234
+train.86fbcb18-3662-4bd8-b825-be98789489d6.html,invoice_date,04/25/2016,04/25/2016,TP,EXTRACT_MODEL,0.7696
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,product,300-word post with 2 links to Sophie’s Candles,,FN,FAIL_MODEL,undefined
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7092
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,total_amount,60.00,60.00,TP,EXTRACT_MODEL,0.4916
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,price,6000160.00,,FN,FAIL_MODEL,undefined
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,supplier_name,Becky Bedbug,Becky Bedbug,TP,EXTRACT_MODEL,0.5844
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,invoice_number,SOP-23062015,SOP-23062015,TP,EXTRACT_MODEL,0.8167
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,email,beckvbedbuq@gmail.com,,FN,FAIL_MODEL,undefined
+train.87f5f765-c468-4976-b6f8-67cdf82943db.html,invoice_date,06/23/2015,06/23/2015,TP,EXTRACT_RULES,0.7715
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,product,Labor - Example labor item. Quantity is number of hours spert. price is hourly rate. Quantity accepts decimal values.,Labor - Example labor item. Quantity is number of hours spert. price is hourly rate. Quantity accepts decimal values.,TP,EXTRACT_RULES,0.7791
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,product,Test Import Name - Description Goes Here,Test Import Name - Description Goes Here,TP,EXTRACT_MODEL,0.7557
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,quantity,1.50,1.50,TP,EXTRACT_RULES,0.7376
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9093
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,total_amount,170.78,170.78,TP,EXTRACT_MODEL,0.6433
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.7197
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,price,100.00,100.00,TP,EXTRACT_MODEL,0.7757
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,supplier_name,"Jidie, Inc","Jidie, Inc",TP,EXTRACT_RULES,0.8965
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,invoice_number,11033,11033,TP,EXTRACT_MODEL,0.6237
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,email,jiude@hotmail.com,jiude@hotmail.com,TP,EXTRACT_MODEL,0.7957
+train.89ced693-f220-4d7c-84b3-29b29a7a32c8.html,invoice_date,03/14/2003,,FN,FAIL_MODEL,undefined
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,product,Mobile Alarm GPS Locator,Mobile Alarm GPS Locator,TP,EXTRACT_MODEL,0.7971
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,product,750 locates per month subscription UP,750 locates per month subscription UP,TP,EXTRACT_MODEL,0.6772
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,product,Service activation for the PT8200,Service activation for the PT8200,TP,EXTRACT_MODEL,0.7079
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8094
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.3898
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.7916
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,quantity,,1.00,FP,FAIL_MODEL,0.6722
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,total_amount,649.35,649.35,TP,EXTRACT_MODEL,0.8461
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,price,69.95,69.95,TP,EXTRACT_MODEL,0.8759
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,price,49.95,49.95,TP,EXTRACT_MODEL,0.8227
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,price,499.95,499.95,TP,EXTRACT_MODEL,0.8083
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,supplier_name,Sleies Security,Sleies Security,TP,EXTRACT_MODEL,0.7915
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,invoice_number,49346,,FN,FAIL_MODEL,undefined
+train.8ab89c92-13ee-4481-88c4-0020984a3985.html,invoice_date,07/18/2008,07/18/2008,TP,EXTRACT_RULES,0.7210
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,product,Motorola E815,Motorola E815,TP,EXTRACT_MODEL,0.7408
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,product,Itisa service,Itisa service,TP,EXTRACT_MODEL,0.5564
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,product,Motorola V3 Razr Black,Motorola V3 Razr Black,TP,EXTRACT_MODEL,0.6675
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,product,Nokia 3220,Nokia 3220,TP,EXTRACT_MODEL,0.5947
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,product,Non-taxable item,Non-taxable item,TP,EXTRACT_MODEL,0.5790
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,quantity,5.00,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,quantity,10.00,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,quantity,12.00,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,quantity,10.00,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,quantity,3.20,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,total_amount,14622.04,,FN,FAIL_MODEL,undefined
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,200.00,200.00,TP,EXTRACT_RULES,0.7936
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,199.99,199.99,TP,EXTRACT_MODEL,0.9602
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,500.00,500.00,TP,EXTRACT_RULES,0.6829
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,420.00,420.00,TP,EXTRACT_RULES,0.7443
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,255.52,255.52,TP,EXTRACT_MODEL,0.8809
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,,0.00,FP,FAIL_MODEL,0.6403
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,,0.00,FP,FAIL_MODEL,0.6098
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,price,,0.00,FP,FAIL_MODEL,0.5994
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,invoice_number,INVI000,INVI000,TP,EXTRACT_MODEL,0.5715
+train.8c387c86-d956-4ba6-b46a-53f9da109826.html,invoice_date,11/17/2006,11/17/2006,TP,EXTRACT_RULES,0.7001
+train.8e4de907-f5f9-47e8-83b1-9b9119aa5fd1.html,supplier_name,Sloese Retail Operations,Sloese Retail Operations,TP,EXTRACT_MODEL,0.5264
+train.8e4de907-f5f9-47e8-83b1-9b9119aa5fd1.html,invoice_number,N964300CA,,FN,FAIL_MODEL,undefined
+train.8e4de907-f5f9-47e8-83b1-9b9119aa5fd1.html,invoice_date,04/30/2009,,FN,FAIL_MODEL,undefined
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,quantity,529.00,,FN,FAIL_MODEL,undefined
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,total_amount,259.00,525900.00,"FP,FN",FAIL_RULES,0.6509
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,price,9.00,,FN,FAIL_MODEL,undefined
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,supplier_name,Acme Shoe Co.,Acme Shoe Co.,TP,EXTRACT_MODEL,0.7567
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,invoice_number,1658,«165B,"FP,FN",FAIL_MODEL,0.5331
+train.911dfa46-805b-4bde-8299-813a71fc4077.html,invoice_date,08/05/2015,08/05/2015,TP,EXTRACT_RULES,0.6625
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,product,2” Nails,,FN,FAIL_MODEL,undefined
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,quantity,560.00,,FN,FAIL_MODEL,undefined
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,total_amount,168.00,168.00,TP,EXTRACT_MODEL,0.6751
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,price,0.25,,FN,FAIL_MODEL,undefined
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,supplier_name,BJSW Construction,BJSW Construction,TP,EXTRACT_MODEL,0.8119
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,invoice_number,00235,00235,TP,EXTRACT_MODEL,0.7893
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,email,,andrewj@timetrex.com,FP,FAIL_MODEL,0.6293
+train.971b5ecd-5185-464a-b5a4-f8848915063c.html,invoice_date,11/07/2012,11/07/2012,TP,EXTRACT_RULES,0.7745
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,product,Template Development,,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,product,"Basic XHTML, CSS, and PHP static website. Includes single auto responding contact form.",,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,product,Testing Basic cross browser testing and php testing performed.,,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,product,Template Design Simple design based on logo and corporate colors given. One design with two revision stages.,,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.6179
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.6353
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,quantity,15.00,15.00,TP,EXTRACT_RULES,0.7015
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,total_amount,2400.00,,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,price,75.00,75.00,TP,EXTRACT_RULES,0.4554
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,price,75.00,75.00,TP,EXTRACT_RULES,0.4427
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,price,75.00,,FN,FAIL_MODEL,undefined
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,supplier_name,I'm Graeme Duckett Freelance Design And Development,I'm Graeme Duckett Freelance Design And Development,TP,EXTRACT_RULES,0.6399
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,invoice_number,101,101,TP,EXTRACT_MODEL,0.8950
+train.9b88cee1-cd1c-45c0-a7d8-acde26365423.html,invoice_date,01/01/2009,01/01/2009,TP,EXTRACT_RULES,0.6647
+train.9d8afa3f-f34d-4002-8d1a-8d4fba5672cf.html,total_amount,104.00,104.00,TP,EXTRACT_MODEL,0.7842
+train.9d8afa3f-f34d-4002-8d1a-8d4fba5672cf.html,supplier_name,XXLPHX GmbH,XXLPHX GmbH,TP,EXTRACT_RULES,0.5713
+train.9d8afa3f-f34d-4002-8d1a-8d4fba5672cf.html,invoice_number,3040,,FN,FAIL_MODEL,undefined
+train.9d8afa3f-f34d-4002-8d1a-8d4fba5672cf.html,invoice_date,11/10/2011,11/10/2011,TP,EXTRACT_RULES,0.4037
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,product,Item One - Commercial Cleaning Service,Item One - Commercial Cleaning Service,TP,EXTRACT_MODEL,0.7774
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,product,Item Two - Window cleaning,Item Two - Window cleaning,TP,EXTRACT_MODEL,0.7004
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9830
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.9442
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,total_amount,641.79,641.79,TP,EXTRACT_MODEL,0.8846
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,price,468.50,468.50,TP,EXTRACT_MODEL,0.7412
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,price,125.75,125.75,TP,EXTRACT_MODEL,0.7716
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,supplier_name,"ABC Cleaning, LLC",,FN,FAIL_MODEL,undefined
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,invoice_number,7858,7858,TP,EXTRACT_RULES,0.5357
+train.a3ca3ecb-8181-4c16-bcfc-303c8aa3af2e.html,invoice_date,10/01/2012,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,product,Print,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,total_amount,416.67,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,price,347.22,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,supplier_name,Juidesys,,FN,FAIL_MODEL,undefined
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,invoice_number,INV0C09,INV0C09,TP,EXTRACT_MODEL,0.5561
+train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html,invoice_date,04/09/2013,04/09/2013,TP,EXTRACT_RULES,0.5841
+train.a9226562-1e6d-4193-8294-ea096ff1daca.html,total_amount,300.92,,FN,FAIL_MODEL,undefined
+train.a9226562-1e6d-4193-8294-ea096ff1daca.html,supplier_name,Capetune Limited,Capetune Limited,TP,EXTRACT_MODEL,0.3723
+train.a9226562-1e6d-4193-8294-ea096ff1daca.html,invoice_number,8604,8604,TP,EXTRACT_MODEL,0.8677
+train.a9226562-1e6d-4193-8294-ea096ff1daca.html,email,frankywright@hotmail.com,frankywright@hotmail.com,TP,EXTRACT_MODEL,0.5478
+train.a9226562-1e6d-4193-8294-ea096ff1daca.html,invoice_date,,05/31/2013,FP,FAIL_MODEL,0.5791
+train.b4e832c6-d31a-4c49-9044-997ad0d58994.html,total_amount,1543.00,1543.00,TP,EXTRACT_RULES,0.7989
+train.b4e832c6-d31a-4c49-9044-997ad0d58994.html,invoice_number,2345,2345,TP,EXTRACT_MODEL,0.7575
+train.b4e832c6-d31a-4c49-9044-997ad0d58994.html,invoice_date,06/15/2015,,FN,FAIL_MODEL,undefined
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,product,web hosting for the 4th quarter of 2007 - $10 per month,web hosting for the 4th quarter of 2007 - $10 per month,TP,EXTRACT_MODEL,0.6705
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,total_amount,30.00,30.00,TP,EXTRACT_MODEL,0.8018
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,price,30.00,30.00,TP,EXTRACT_MODEL,0.4747
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,supplier_name,Alsoesl,,FN,FAIL_MODEL,undefined
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,invoice_number,2049,,FN,FAIL_MODEL,undefined
+train.bbc317f2-04ab-4464-aa81-9ec73b4e4be3.html,invoice_date,10/15/2007,10/15/2007,TP,EXTRACT_MODEL,0.5449
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,product,WordPress Installation,WordPress Installation,TP,EXTRACT_MODEL,0.5473
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,product,Web Hosting,,FN,FAIL_MODEL,undefined
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8307
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8265
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,total_amount,440.00,440.00,TP,EXTRACT_MODEL,0.5558
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,price,80.00,80.00,TP,EXTRACT_MODEL,0.8652
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,price,30.00,,FN,FAIL_MODEL,undefined
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,supplier_name,Juilie Group S.p.A.,Juilie Group S.p.A.,TP,EXTRACT_MODEL,0.7639
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,invoice_number,DEV-2852,,FN,FAIL_MODEL,undefined
+train.be2a1074-908b-44f1-b66c-8ffcc28bfc03.html,invoice_date,07/24/2010,07/24/2010,TP,EXTRACT_RULES,0.5964
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,product,500 GB Dedicated Disk Space,500 GB Dedicated Disk Space,TP,EXTRACT_MODEL,0.6892
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,product,Control Panel module,Control Panel module,TP,EXTRACT_MODEL,0.7046
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,product,2GB Dedicated RAM,2GB Dedicated RAM,TP,EXTRACT_MODEL,0.7864
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,product,Shared Hosting,Shared Hosting,TP,EXTRACT_MODEL,0.7841
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,product,Cloud Slider - Order Page,Cloud Slider - Order Page,TP,EXTRACT_MODEL,0.7297
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,quantity,4.00,4.00,TP,EXTRACT_RULES,0.8074
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,quantity,5.00,5.00,TP,EXTRACT_RULES,0.7301
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8494
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.8737
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,quantity,2.00,2.00,TP,EXTRACT_RULES,0.7960
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,total_amount,2872.75,2872.75,TP,EXTRACT_RULES,0.8845
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,price,499.00,399.80,"FP,FN",FAIL_MODEL,0.4743
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,price,54.00,108.00,"FP,FN",FAIL_MODEL,0.4317
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,price,75.00,300.00,"FP,FN",FAIL_MODEL,0.4358
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,price,199.90,,FN,FAIL_MODEL,undefined
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,price,19.95,,FN,FAIL_MODEL,undefined
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,invoice_number,938346,938346,TP,EXTRACT_MODEL,0.6567
+train.c1e44c88-6b2d-420c-9728-f73955467774.html,invoice_date,08/28/2013,08/28/2013,TP,EXTRACT_RULES,0.8077
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,product,Verbling Language Lessons,Verbling Language Lessons,TP,EXTRACT_MODEL,0.5367
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,total_amount,6.00,6.00,TP,EXTRACT_RULES,0.7808
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,price,6.00,6.00,TP,EXTRACT_RULES,0.7306
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,supplier_name,"VerNerking, lnc.","VerNerking, lnc.",TP,EXTRACT_MODEL,0.6105
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,invoice_number,5748cbeaa3ael75f50f492dl,5748cbeaa3ael75f50f492dl,TP,EXTRACT_MODEL,0.7929
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,email,example.email@email.com,example.email@email.com,TP,EXTRACT_MODEL,0.8725
+train.c60f7299-38d0-477a-8948-56bcf0f2f38d.html,invoice_date,05/27/2016,05/27/2016,TP,EXTRACT_RULES,0.7690
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,product,Service 1,Service 1,TP,EXTRACT_MODEL,0.6692
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,product,Product 1,Product 1,TP,EXTRACT_MODEL,0.7062
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,quantity,1.00,1.00,TP,EXTRACT_RULES,0.8595
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,quantity,10.00,10.00,TP,EXTRACT_RULES,0.9431
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,total_amount,2000.00,,FN,FAIL_MODEL,undefined
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,price,100.00,100.00,TP,EXTRACT_RULES,0.4610
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,price,1000.00,,FN,FAIL_MODEL,undefined
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,invoice_number,980201,980201,TP,EXTRACT_MODEL,0.8213
+train.c92d9942-d9bf-4a9b-8dd6-d65107398ace.html,invoice_date,05/31/2016,,FN,FAIL_MODEL,undefined

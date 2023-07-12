@@ -1,0 +1,1 @@
+[{"dataValue":"L009-987","fieldType":"TEXT","name":"invoice_number","begin":123,"end":131,"score":0.806685573665413},{"dataValue":"abc(@)wordexceltemplates.com","fieldType":"EMAIL","name":"email","begin":147,"end":175,"score":0.6181792981802914},{"dataValue":"100.00","fieldType":"NUMBER","name":"total_amount","begin":696,"end":702,"score":0.7767369681683207}]

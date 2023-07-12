@@ -1,0 +1,13 @@
+command: ${env.parameters} ${java} -Xmx${heap}M -XX:+ExitOnOutOfMemoryError -Dfile.encoding=UTF8 -Dspring.profiles.active=execution-worker,execute -DZOOKEEPER_CONNECT_STRING=${zookeeper.connect.string} -Dautoml.execution.targetModelDir=${working.dir} -Dexecution.task.queue.input=${tasks.queue} -Dlogging.path=${log.dir} -Dlogging.file=${log.file} -Djava.io.tmpdir=${temp.dir} ${jvm.parameters} -jar ${worker.jar} ${config.server.parameters} ${worker.custom.parameters}
+cpu: 1.0
+memory:
+  heap: 4096
+health-checks:
+  - protocol: MESOS_HTTP
+    path: /actuator/health
+    grace-period-sec: 300
+    interval-sec: 10
+    timeout-sec: 10
+    max-failures: 3
+env:
+  WF_PYTHON_VERSION: py37

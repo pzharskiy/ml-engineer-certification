@@ -1,0 +1,7 @@
+"invoice dates"
+"invoice date"
+"issue date"
+"issued"
+"date of invoice"
+"date"
+"rochnungsdatum"

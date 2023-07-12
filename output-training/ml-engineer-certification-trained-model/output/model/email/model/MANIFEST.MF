@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+classifierBuilderClass: com.workfusion.nlp.uima.liblinear.LibLinearStr
+ ingOutcomeClassifierBuilder
+

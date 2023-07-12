@@ -1,0 +1,1 @@
+[{"dataValue":"SGU8213","fieldType":"TEXT","name":"invoice_number","begin":245,"end":252,"score":0.6889584468272832},{"dataValue":"05/19/1973","fieldType":"DATE","name":"invoice_date","begin":439,"end":447,"score":0.7320061369454157},{"dataValue":"eric51@yahoo.com","fieldType":"EMAIL","name":"email","begin":2117,"end":2133,"score":0.7333374740024593}]

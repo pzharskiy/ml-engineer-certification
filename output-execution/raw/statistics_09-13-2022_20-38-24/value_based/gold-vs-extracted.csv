@@ -1,0 +1,615 @@
+FILE_NAME,FIELD_NAME,GOLD,EXTRACTED,RESULT,REASON,SCORE
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,product,VOLUPTATE INVENTORE A,VOLUPTATE INVENTORE A,TP,EXTRACT_MODEL,0.5481
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,quantity,391771.00,"391,771","FP,FN",FAIL_MODEL,0.5480
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,total_amount,959783.60,"959,783.6","FP,FN",FAIL_MODEL,0.7130
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,supplier_name,FOWLER-COLLIER,,FN,FAIL_MODEL,undefined
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,invoice_number,36848788,36848788,TP,EXTRACT_MODEL,0.7642
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,email,crewedit@iqulfsdoil.edu,crewedit@iqulfsdoil.edu,TP,EXTRACT_MODEL,0.8542
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_2.html,invoice_date,01/22/2016,"January 22, 2016","FP,FN",FAIL_MODEL,0.6374
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,product,PERSPICIATIS OPTIO ULLAM QUIBUSDAM QUI,,FN,FAIL_MODEL,undefined
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,quantity,70445.00,"70,445","FP,FN",FAIL_MODEL,0.6664
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,total_amount,622043.46,"622,043.46","FP,FN",FAIL_MODEL,0.6894
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,supplier_name,"CARTER, THOMPSON AND CRUZ","CARTER, THOMPSON AND CRUZ",TP,EXTRACT_MODEL,0.5705
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,invoice_number,54391757,54391757,TP,EXTRACT_MODEL,0.8264
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,email,credit@iqulfoil.com,credit@iqulfoil.com,TP,EXTRACT_MODEL,0.8573
+0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_3.html,invoice_date,07/26/2005,07/26/2005,TP,EXTRACT_MODEL,0.8475
+389057_1526301926_1.html,product,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,TP,EXTRACT_MODEL,0.6959
+389057_1526301926_1.html,product,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,TP,EXTRACT_MODEL,0.7264
+389057_1526301926_1.html,product,HP DL380 GEN9 24SFF CUSTOM SRV Manufacturer Part Number EB172843 Serial No: MXQ5510015,HP DL380 GEN9 24SFF CUSTOM SRV Manufacturer Part Number EB172843 Serial No: MXQ5510015,TP,EXTRACT_MODEL,0.7071
+389057_1526301926_1.html,product,HP 81 E 8GB SP PCI-E FC HBA Manufacturer Part Number AJ762B Serial No: 5CF5430GDD Serial No: 5CF5430GXS,HP 81 E 8GB SP PCI-E FC HBA Manufacturer Part Number AJ762B Serial No: 5CF5430GDD Serial No: 5CF5430GXS,TP,EXTRACT_MODEL,0.7356
+389057_1526301926_1.html,product,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Manufacturer Part Number 652583-B21 Serial No: 6C3539E6BM Serial No: 6C3539E659,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Manufacturer Part Number 652583-B21 Serial No: 6C3539E6BM Serial No: 6C3539E659,TP,EXTRACT_MODEL,0.7253
+389057_1526301926_1.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.6921
+389057_1526301926_1.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.7403
+389057_1526301926_1.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.7532
+389057_1526301926_1.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.5914
+389057_1526301926_1.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.6861
+389057_1526301926_1.html,total_amount,358838.10,"358,838.1","FP,FN",FAIL_MODEL,0.7323
+389057_1526301926_1.html,total_amount,358838.10,,FN,FAIL_MODEL,undefined
+389057_1526301926_1.html,price,0.00,0.00,TP,EXTRACT_MODEL,0.7625
+389057_1526301926_1.html,price,482.04,482.04,TP,EXTRACT_MODEL,0.7338
+389057_1526301926_1.html,price,224.54,224.54,TP,EXTRACT_MODEL,0.7027
+389057_1526301926_1.html,price,287.99,287.99,TP,EXTRACT_MODEL,0.7338
+389057_1526301926_1.html,price,12021.83,"12,021.83","FP,FN",FAIL_MODEL,0.6724
+389057_1526301926_1.html,supplier_name,Taylor Group,Taylor Group,TP,EXTRACT_MODEL,0.8331
+389057_1526301926_1.html,invoice_number,RTI8416,RTI8416,TP,EXTRACT_MODEL,0.5989
+389057_1526301926_1.html,email,achwerremittance@cdqwew.com,achwerremittance@cdqwew.com,TP,EXTRACT_MODEL,0.7818
+389057_1526301926_1.html,invoice_date,02/27/2010,02/27/10,"FP,FN",FAIL_MODEL,0.6791
+389057_1526301926_2.html,product,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Manufacturer Part Number 652583-B21 Serial No: 6C3539E6BM Serial No: 6C3539E659,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Manufacturer Part Number 652583-B21 Serial No: 6C3539E6BM Serial No: 6C3539E659,TP,EXTRACT_MODEL,0.7253
+389057_1526301926_2.html,product,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,HP ETHERNET 10GB 2P 560SFP ADAPTER Manufacturer Part Number 665249-B21 Serial No: MYI5410HLX,TP,EXTRACT_MODEL,0.7264
+389057_1526301926_2.html,product,HP DL380 GEN9 24SFF CUSTOM SRV Manufacturer Part Number EB172843 Serial No: MXQ5510015,HP DL380 GEN9 24SFF CUSTOM SRV Manufacturer Part Number EB172843 Serial No: MXQ5510015,TP,EXTRACT_MODEL,0.7071
+389057_1526301926_2.html,product,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,CDW CUSTOM HW SRVR REQ4443 Manufacturer Part Number REQ4443,TP,EXTRACT_MODEL,0.6959
+389057_1526301926_2.html,product,HP 81 E 8GB SP PCI-E FC HBA Manufacturer Part Number AJ762B Serial No: 5CF5430GDD Serial No: 5CF5430GXS,HP 81 E 8GB SP PCI-E FC HBA Manufacturer Part Number AJ762B Serial No: 5CF5430GDD Serial No: 5CF5430GXS,TP,EXTRACT_MODEL,0.7356
+389057_1526301926_2.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.5914
+389057_1526301926_2.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.6921
+389057_1526301926_2.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.6861
+389057_1526301926_2.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.7403
+389057_1526301926_2.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.7532
+389057_1526301926_2.html,total_amount,974186.91,"974,186.91","FP,FN",FAIL_MODEL,0.8697
+389057_1526301926_2.html,price,482.04,482.04,TP,EXTRACT_MODEL,0.7338
+389057_1526301926_2.html,price,224.54,224.54,TP,EXTRACT_MODEL,0.7027
+389057_1526301926_2.html,price,287.99,287.99,TP,EXTRACT_MODEL,0.7338
+389057_1526301926_2.html,price,0.00,0.00,TP,EXTRACT_MODEL,0.7625
+389057_1526301926_2.html,price,12021.83,"12,021.83","FP,FN",FAIL_MODEL,0.6724
+389057_1526301926_2.html,supplier_name,Watson Inc,Watson Inc,TP,EXTRACT_MODEL,0.8328
+389057_1526301926_2.html,invoice_number,RBH1274,RBH1274,TP,EXTRACT_MODEL,0.6189
+389057_1526301926_2.html,email,dgwis@dkldf.edu,dgwis@dkldf.edu,TP,EXTRACT_MODEL,0.7310
+389057_1526301926_2.html,invoice_date,11/05/1991,11/15/91,"FP,FN",FAIL_MODEL,0.7701
+389842_advanced_1526302224_1.html,product,Exercitationem sit nam labore nesciunt. Exercitationem sit nam labore nesciunt. Quidem cupiditate eligendi.,Exercitationem sit nam labore nesciunt. Exercitationem sit nam labore nesciunt. Quidem cupiditate eligendi.,TP,EXTRACT_MODEL,0.8303
+389842_advanced_1526302224_1.html,total_amount,1834.00,1834,"FP,FN",FAIL_MODEL,0.7345
+389842_advanced_1526302224_1.html,price,55.99,55.99,TP,EXTRACT_MODEL,0.7491
+389842_advanced_1526302224_1.html,supplier_name,Barnes PLC LLC,Barnes PLC,"FP,FN",FAIL_MODEL,0.8382
+389842_advanced_1526302224_1.html,invoice_number,PII9506,PII9506,TP,EXTRACT_MODEL,0.7077
+389842_advanced_1526302224_1.html,email,achremittance@cdw.com,achremittance@cdw.com,TP,EXTRACT_MODEL,0.7873
+389842_advanced_1526302224_1.html,invoice_date,08/29/1996,08/29/96,"FP,FN",FAIL_MODEL,0.7248
+389842_advanced_1526302224_2.html,product,Temporibus occaecati sit dolore iure quo. Temporibus occaecati sit dolore iure quo. Laborum ab fuga voluptatibus ipsam.,Temporibus occaecati sit dolore iure quo. Temporibus occaecati sit dolore iure quo. Laborum ab fuga voluptatibus ipsam.,TP,EXTRACT_MODEL,0.7524
+389842_advanced_1526302224_2.html,product,Nostrum porro beatae. Nostrum porro beatae. Consequuntur asperiores voluptatum vitae.,Nostrum porro beatae. Nostrum porro beatae. Consequuntur asperiores voluptatum vitae.,TP,EXTRACT_MODEL,0.7343
+389842_advanced_1526302224_2.html,total_amount,2137.00,2137,"FP,FN",FAIL_MODEL,0.7345
+389842_advanced_1526302224_2.html,price,69.78,69.78,TP,EXTRACT_MODEL,0.7168
+389842_advanced_1526302224_2.html,price,21.32,21.32,TP,EXTRACT_MODEL,0.7416
+389842_advanced_1526302224_2.html,supplier_name,"Cooper, Allison and Jackson LLC",Jackson,"FP,FN",FAIL_MODEL,0.2998
+389842_advanced_1526302224_2.html,invoice_number,KOP8574,,FN,FAIL_MODEL,undefined
+389842_advanced_1526302224_2.html,email,achremittance@cdwweew.com,achremittance@cdwweew.com,TP,EXTRACT_MODEL,0.7835
+389842_advanced_1526302224_2.html,invoice_date,10/15/1970,10/15/70,"FP,FN",FAIL_MODEL,0.7347
+b_424261_1526302379_1.html,product,2816999 HP ETHERNET 10GB 2P 560SFP ADAPT,,FN,FAIL_MODEL,undefined
+b_424261_1526302379_1.html,quantity,3.00,,FN,FAIL_MODEL,undefined
+b_424261_1526302379_1.html,total_amount,1896.29,1896.29,TP,EXTRACT_MODEL,0.6341
+b_424261_1526302379_1.html,price,69.96,,FN,FAIL_MODEL,undefined
+b_424261_1526302379_1.html,supplier_name,"MARTIN, BURCH AND KING",MARSHALL GROUP.,"FP,FN",FAIL_MODEL,0.6169
+b_424261_1526302379_1.html,invoice_number,QE24584,QE24584,TP,EXTRACT_MODEL,0.4643
+b_424261_1526302379_1.html,invoice_date,08/19/1970,08-19-70,"FP,FN",FAIL_MODEL,0.6918
+c_427915_1526302430_0.html,product,HP 16GB 2RX4 PC4-2133P-R KIT,HP 16GB 2RX4 PC4-2133P-R KIT,TP,EXTRACT_MODEL,0.5491
+c_427915_1526302430_0.html,product,HP DL380 GEN9 24SFF E5-2690 CUSTOM Mfg. Part#: EB172692,HP DL380 GEN9 24SFF E5-2690 CUSTOM Mfg. Part#: EB172692,TP,EXTRACT_MODEL,0.5781
+c_427915_1526302430_0.html,product,HP GEN8 600GB 6GSAS 10K 2.5 SC ENT Mfg. Part#: 652583-B21,,FN,FAIL_MODEL,undefined
+c_427915_1526302430_0.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.7404
+c_427915_1526302430_0.html,quantity,48.00,48,"FP,FN",FAIL_MODEL,0.7871
+c_427915_1526302430_0.html,quantity,8.00,8,"FP,FN",FAIL_MODEL,0.8146
+c_427915_1526302430_0.html,total_amount,4541.88,,FN,FAIL_MODEL,undefined
+c_427915_1526302430_0.html,price,164.39,164.39,TP,EXTRACT_MODEL,0.8426
+c_427915_1526302430_0.html,price,7899.07,"7,899.07","FP,FN",FAIL_MODEL,0.7912
+c_427915_1526302430_0.html,price,224.54,224.54,TP,EXTRACT_MODEL,0.8426
+c_427915_1526302430_0.html,price,,"63,192.56",FP,FAIL_MODEL,0.4419
+c_427915_1526302430_0.html,price,,"3,592.64",FP,FAIL_MODEL,0.4594
+c_427915_1526302430_0.html,price,,"7,890.72",FP,FAIL_MODEL,0.5244
+c_427915_1526302430_0.html,supplier_name,"COOK, DIXON AND BLAIR",,FN,FAIL_MODEL,undefined
+c_427915_1526302430_0.html,invoice_number,GDU4300,GDU4300,TP,EXTRACT_MODEL,0.8998
+c_427915_1526302430_0.html,email,cdwsales@cdwemail.com,<cdwsales@cdwemail.com,"FP,FN",FAIL_MODEL,0.4622
+c_427915_1526302430_0.html,invoice_date,08/05/1991,,FN,FAIL_MODEL,undefined
+doc00123920180117122119.html,product,Intelligent Bronze Chair,Intelligent Bronze Chair,TP,EXTRACT_MODEL,0.8014
+doc00123920180117122119.html,product,Enormous Wool Shirt,Enormous Wool Shirt,TP,EXTRACT_MODEL,0.8375
+doc00123920180117122119.html,product,Heavy Duty Wool Bottle,Heavy Duty Wool Bottle,TP,EXTRACT_MODEL,0.7723
+doc00123920180117122119.html,product,Intelligent Wooden Computer,Intelligent Wooden Computer,TP,EXTRACT_MODEL,0.8341
+doc00123920180117122119.html,quantity,15.00,15,"FP,FN",FAIL_MODEL,0.8345
+doc00123920180117122119.html,quantity,59.00,59,"FP,FN",FAIL_MODEL,0.7844
+doc00123920180117122119.html,quantity,39.00,39,"FP,FN",FAIL_MODEL,0.8535
+doc00123920180117122119.html,quantity,39.00,39,"FP,FN",FAIL_MODEL,0.8839
+doc00123920180117122119.html,total_amount,113093.82,"113,093.82","FP,FN",FAIL_MODEL,0.7777
+doc00123920180117122119.html,price,761.52,761.52,TP,EXTRACT_MODEL,0.9089
+doc00123920180117122119.html,price,481.68,481.68,TP,EXTRACT_MODEL,0.8889
+doc00123920180117122119.html,price,349.09,349.09,TP,EXTRACT_MODEL,0.9089
+doc00123920180117122119.html,price,730.14,730.14,TP,EXTRACT_MODEL,0.9123
+doc00123920180117122119.html,supplier_name,Blanda Inc,Blanda Inc,TP,EXTRACT_MODEL,0.6652
+doc00123920180117122119.html,invoice_number,7536317931,7536317931,TP,EXTRACT_MODEL,0.8366
+doc00125020180117122554.html,product,Awesome Plastic Bench,Awesome Plastic Bench,TP,EXTRACT_MODEL,0.8156
+doc00125020180117122554.html,product,Awesome Bronze Keyboard,Awesome Bronze Keyboard,TP,EXTRACT_MODEL,0.8328
+doc00125020180117122554.html,product,Durable Bronze Wallet,Durable Bronze Wallet,TP,EXTRACT_MODEL,0.8363
+doc00125020180117122554.html,product,Heavy Duty Marble Chair,Heavy Duty Marble Chair,TP,EXTRACT_MODEL,0.7463
+doc00125020180117122554.html,product,Lightweight Wooden Bottle,Lightweight Wooden Bottle,TP,EXTRACT_MODEL,0.7603
+doc00125020180117122554.html,product,Synergistic Plastic Bag,Synergistic Plastic Bag,TP,EXTRACT_MODEL,0.7901
+doc00125020180117122554.html,product,Durable Silk Shoes,Durable Silk Shoes,TP,EXTRACT_MODEL,0.8549
+doc00125020180117122554.html,product,Aerodynamic Steel Shoes,Aerodynamic Steel Shoes,TP,EXTRACT_MODEL,0.8046
+doc00125020180117122554.html,product,Fantastic Cotton Bench,Fantastic Cotton Bench,TP,EXTRACT_MODEL,0.8511
+doc00125020180117122554.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8966
+doc00125020180117122554.html,quantity,21.00,21,"FP,FN",FAIL_MODEL,0.8654
+doc00125020180117122554.html,quantity,31.00,31,"FP,FN",FAIL_MODEL,0.8484
+doc00125020180117122554.html,quantity,27.00,27,"FP,FN",FAIL_MODEL,0.8864
+doc00125020180117122554.html,quantity,61.00,61,"FP,FN",FAIL_MODEL,0.8823
+doc00125020180117122554.html,quantity,22.00,22,"FP,FN",FAIL_MODEL,0.9017
+doc00125020180117122554.html,quantity,78.00,78,"FP,FN",FAIL_MODEL,0.8476
+doc00125020180117122554.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.8059
+doc00125020180117122554.html,quantity,23.00,~23,"FP,FN",FAIL_MODEL,0.6760
+doc00125020180117122554.html,total_amount,179906.78,"179,906.78","FP,FN",FAIL_MODEL,0.6719
+doc00125020180117122554.html,price,610.87,610.87,TP,EXTRACT_MODEL,0.9176
+doc00125020180117122554.html,price,812.32,812.32,TP,EXTRACT_MODEL,0.9085
+doc00125020180117122554.html,price,534.70,534.70,TP,EXTRACT_MODEL,0.9085
+doc00125020180117122554.html,price,659.83,659.83,TP,EXTRACT_MODEL,0.9085
+doc00125020180117122554.html,price,940.38,940.38,TP,EXTRACT_MODEL,0.9256
+doc00125020180117122554.html,price,541.48,541.48,TP,EXTRACT_MODEL,0.8909
+doc00125020180117122554.html,price,170.11,170.11,TP,EXTRACT_MODEL,0.8583
+doc00125020180117122554.html,price,343.57,343.57,TP,EXTRACT_MODEL,0.8634
+doc00125020180117122554.html,price,473.72,473.72,TP,EXTRACT_MODEL,0.8634
+doc00125020180117122554.html,supplier_name,Mertz LLC,Mertz LLC,TP,EXTRACT_MODEL,0.6674
+doc00125020180117122554.html,invoice_number,3202057232,3202057232,TP,EXTRACT_MODEL,0.7168
+doc00145620180117152142.html,product,Customer Support,Customer Support,TP,EXTRACT_MODEL,0.7200
+doc00145620180117152142.html,product,Pilot Development,Pilot Development,TP,EXTRACT_MODEL,0.8055
+doc00145620180117152142.html,product,Development,Development,TP,EXTRACT_MODEL,0.7577
+doc00145620180117152142.html,product,Social MediaMarketing,Social Media   Marketing,"FP,FN",FAIL_MODEL,0.6696
+doc00145620180117152142.html,quantity,74.00,74,"FP,FN",FAIL_MODEL,0.9312
+doc00145620180117152142.html,quantity,15.00,15,"FP,FN",FAIL_MODEL,0.9340
+doc00145620180117152142.html,quantity,92.00,92,"FP,FN",FAIL_MODEL,0.9841
+doc00145620180117152142.html,quantity,38.00,38,"FP,FN",FAIL_MODEL,0.9230
+doc00145620180117152142.html,total_amount,16653.60,38.0,"FP,FN",FAIL_MODEL,0.5403
+doc00145620180117152142.html,price,150.00,38.0,"FP,FN",FAIL_MODEL,0.6103
+doc00145620180117152142.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.7818
+doc00145620180117152142.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.7459
+doc00145620180117152142.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.8070
+doc00145620180117152142.html,price,,"11,100.0",FP,FAIL_MODEL,0.5665
+doc00145620180117152142.html,supplier_name,Workfusion,Workfi,"FP,FN",FAIL_MODEL,0.9613
+doc00145620180117152142.html,invoice_number,12501425,12501425,TP,EXTRACT_MODEL,0.7494
+doc00145620180117152142.html,email,john.doe@example.com,,FN,FAIL_MODEL,undefined
+doc00145620180117152142.html,invoice_date,01/16/2018,"January 16, 2018","FP,FN",FAIL_MODEL,0.7661
+doc00145720180117152206.html,product,Social MediaMarketing,Social Media   Marketing,"FP,FN",FAIL_MODEL,0.6797
+doc00145720180117152206.html,product,Development,Development,TP,EXTRACT_MODEL,0.6837
+doc00145720180117152206.html,quantity,71.00,71,"FP,FN",FAIL_MODEL,0.8923
+doc00145720180117152206.html,quantity,30.00,30,"FP,FN",FAIL_MODEL,0.8941
+doc00145720180117152206.html,total_amount,2245.20,"2,245.20","FP,FN",FAIL_MODEL,0.9645
+doc00145720180117152206.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.8546
+doc00145720180117152206.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.8727
+doc00145720180117152206.html,price,,"1,871.00",FP,FAIL_MODEL,0.5579
+doc00145720180117152206.html,supplier_name,Workfusion,Workfusion,TP,EXTRACT_MODEL,0.9731
+doc00145720180117152206.html,invoice_number,,1345295509,FP,FAIL_MODEL,0.7408
+doc00145720180117152206.html,email,iohn.doe@example.com,,FN,FAIL_MODEL,undefined
+doc00145720180117152206.html,invoice_date,01/16/2018,"January 16, 2018","FP,FN",FAIL_MODEL,0.7732
+doc00146020180117152339.html,product,Social MediaMarketing,Social Media  Marketing,"FP,FN",FAIL_MODEL,0.5978
+doc00146020180117152339.html,product,Customer Support,Customer Support,TP,EXTRACT_MODEL,0.6970
+doc00146020180117152339.html,product,Video Marketing,Video Marketing,TP,EXTRACT_MODEL,0.5550
+doc00146020180117152339.html,product,Pilot Development,Pilot Development,TP,EXTRACT_MODEL,0.7302
+doc00146020180117152339.html,product,Development,Development,TP,EXTRACT_MODEL,0.7523
+doc00146020180117152339.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.9328
+doc00146020180117152339.html,quantity,6.00,6,"FP,FN",FAIL_MODEL,0.9340
+doc00146020180117152339.html,quantity,93.00,93,"FP,FN",FAIL_MODEL,0.9230
+doc00146020180117152339.html,quantity,15.00,15,"FP,FN",FAIL_MODEL,0.9651
+doc00146020180117152339.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.9707
+doc00146020180117152339.html,total_amount,3537.60,,FN,FAIL_MODEL,undefined
+doc00146020180117152339.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.7647
+doc00146020180117152339.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.7459
+doc00146020180117152339.html,price,150.00,150.00,TP,EXTRACT_MODEL,0.7433
+doc00146020180117152339.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.7739
+doc00146020180117152339.html,price,5.00,5.00,TP,EXTRACT_MODEL,0.7739
+doc00146020180117152339.html,price,,93.0,FP,FAIL_MODEL,0.6103
+doc00146020180117152339.html,price,,20.0,FP,FAIL_MODEL,0.5176
+doc00146020180117152339.html,supplier_name,Workf,Workf,TP,EXTRACT_MODEL,0.8986
+doc00146020180117152339.html,invoice_number,1759339126,1759339126,TP,EXTRACT_MODEL,0.7845
+doc00146020180117152339.html,email,jack harrowt@examDle.com,jack harrowtS)examDle.com,"FP,FN",FAIL_MODEL,0.3865
+doc00146020180117152339.html,invoice_date,01/16/2018,"January 16,    
+   2018","FP,FN",FAIL_MODEL,0.7651
+doc00147520180117152859.html,product,Pilot Development,Pilot Development,TP,EXTRACT_MODEL,0.7259
+doc00147520180117152859.html,product,Development,Development,TP,EXTRACT_MODEL,0.6843
+doc00147520180117152859.html,product,Social Medisf vC,,FN,FAIL_MODEL,undefined
+doc00147520180117152859.html,quantity,13.00,13,"FP,FN",FAIL_MODEL,0.9230
+doc00147520180117152859.html,quantity,99.00,99,"FP,FN",FAIL_MODEL,0.9566
+doc00147520180117152859.html,quantity,20.00,20,"FP,FN",FAIL_MODEL,0.9019
+doc00147520180117152859.html,total_amount,19275.60,"19,275.6(","FP,FN",FAIL_MODEL,0.8183
+doc00147520180117152859.html,price,150.00,150.00,TP,EXTRACT_MODEL,0.7990
+doc00147520180117152859.html,price,1.00,1.00,TP,EXTRACT_MODEL,0.7797
+doc00147520180117152859.html,price,60.00,60.00,TP,EXTRACT_MODEL,0.8460
+doc00147520180117152859.html,supplier_name,Workfi,Workfi,TP,EXTRACT_MODEL,0.8530
+doc00147520180117152859.html,invoice_number,740612417,740612417,TP,EXTRACT_MODEL,0.6170
+doc00147520180117152859.html,email,iack.harrow@examDle.com,iack.harrow(5).examDle.com,"FP,FN",FAIL_MODEL,0.7261
+doc00147520180117152859.html,invoice_date,01/16/2018,"January 16,    
+   2018","FP,FN",FAIL_MODEL,0.7028
+d_442019_1526302473_2.html,total_amount,7581.26,7581.26,TP,EXTRACT_MODEL,0.8170
+d_442019_1526302473_2.html,supplier_name,HERNANDEZ INC,HERNANDEZ INC,TP,EXTRACT_MODEL,0.6381
+d_442019_1526302473_2.html,invoice_number,MZS9646,MZS9646,TP,EXTRACT_MODEL,0.6964
+d_442019_1526302473_2.html,email,gary91@gonzalez-perkins.net,gary91@gonzalez-perkins.net,TP,EXTRACT_MODEL,0.6698
+d_442019_1526302473_2.html,invoice_date,07/22/1980,07/22/80,"FP,FN",FAIL_MODEL,0.7762
+d_442019_1526302473_3.html,total_amount,4601.21,,FN,FAIL_MODEL,undefined
+d_442019_1526302473_3.html,supplier_name,GONZALEZ GROUP,,FN,FAIL_MODEL,undefined
+d_442019_1526302473_3.html,invoice_number,SGU8213,SGU8213,TP,EXTRACT_MODEL,0.6890
+d_442019_1526302473_3.html,email,eric51@yahoo.com,eric51@yahoo.com,TP,EXTRACT_MODEL,0.7333
+d_442019_1526302473_3.html,invoice_date,05/19/1973,05/19/73,"FP,FN",FAIL_MODEL,0.7320
+invoice136.html,product,Intelligent Wooden Plate,Intelligent Wooden Plate,TP,EXTRACT_MODEL,0.7914
+invoice136.html,product,Synergistic Rubber Shirt,Synergistic Rubber Shirt,TP,EXTRACT_MODEL,0.8542
+invoice136.html,product,Aerodynamic Linen Shirt,Aerodynamic Linen Shirt,TP,EXTRACT_MODEL,0.8343
+invoice136.html,product,Synergistic Cotton Shirt,Synergistic Cotton Shirt,TP,EXTRACT_MODEL,0.8323
+invoice136.html,product,Small Bronze Hat,Small Bronze Hat,TP,EXTRACT_MODEL,0.8135
+invoice136.html,product,Fantastic Marble Bottle,Fantastic Marble Bottle,TP,EXTRACT_MODEL,0.8404
+invoice136.html,quantity,32.00,32,"FP,FN",FAIL_MODEL,0.7722
+invoice136.html,quantity,46.00,46,"FP,FN",FAIL_MODEL,0.7601
+invoice136.html,quantity,6.00,6,"FP,FN",FAIL_MODEL,0.7749
+invoice136.html,quantity,44.00,44,"FP,FN",FAIL_MODEL,0.8342
+invoice136.html,quantity,19.00,19,"FP,FN",FAIL_MODEL,0.8332
+invoice136.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.7678
+invoice136.html,total_amount,39655.76,"39,655.76","FP,FN",FAIL_MODEL,0.7255
+invoice136.html,price,53.27,53.27,TP,EXTRACT_MODEL,0.9089
+invoice136.html,price,463.13,463.13,TP,EXTRACT_MODEL,0.9259
+invoice136.html,price,418.55,418.55,TP,EXTRACT_MODEL,0.9089
+invoice136.html,price,182.44,182.44,TP,EXTRACT_MODEL,0.8953
+invoice136.html,price,156.96,156.96,TP,EXTRACT_MODEL,0.9089
+invoice136.html,price,215.36,215.36,TP,EXTRACT_MODEL,0.9089
+invoice136.html,supplier_name,"Bartoletti, Bartoletti and Bartoletti","Bartoletti, Bartoletti and Bartoletti",TP,EXTRACT_MODEL,0.7443
+invoice136.html,invoice_number,3461319999,3461319999,TP,EXTRACT_MODEL,0.8722
+invoice136.html,email,cali.mcclure@yahoo.com,cali.mcclure@yahoo.com,TP,EXTRACT_MODEL,0.9525
+invoice136.html,invoice_date,08/16/1971,"August 16, 1971","FP,FN",FAIL_MODEL,0.7371
+invoice139.html,product,Aerodynamic Linen Knife,Aerodynamic Linen Knife,TP,EXTRACT_MODEL,0.8412
+invoice139.html,product,Lightweight Paper Chair,Lightweight Paper Chair,TP,EXTRACT_MODEL,0.8046
+invoice139.html,product,Heavy Duty Rubber Car,Heavy Duty Rubber Car,TP,EXTRACT_MODEL,0.7937
+invoice139.html,product,Rustic Wooden Table,Rustic Wooden Table,TP,EXTRACT_MODEL,0.8418
+invoice139.html,product,Enormous Wooden Bench,Enormous Wooden Bench,TP,EXTRACT_MODEL,0.8445
+invoice139.html,product,Mediocre Granite Hat,Mediocre Granite Hat,TP,EXTRACT_MODEL,0.8255
+invoice139.html,product,Intelligent Concrete Table,Intelligent Concrete Table,TP,EXTRACT_MODEL,0.8388
+invoice139.html,product,Durable Silk Gloves,Durable Silk Gloves,TP,EXTRACT_MODEL,0.8229
+invoice139.html,product,Durable Paper Gloves,Durable Paper Gloves,TP,EXTRACT_MODEL,0.8408
+invoice139.html,quantity,47.00,47,"FP,FN",FAIL_MODEL,0.7653
+invoice139.html,quantity,38.00,38,"FP,FN",FAIL_MODEL,0.7781
+invoice139.html,quantity,45.00,45,"FP,FN",FAIL_MODEL,0.7596
+invoice139.html,quantity,39.00,39,"FP,FN",FAIL_MODEL,0.7728
+invoice139.html,quantity,36.00,36,"FP,FN",FAIL_MODEL,0.7627
+invoice139.html,quantity,12.00,12,"FP,FN",FAIL_MODEL,0.8238
+invoice139.html,quantity,5.00,5,"FP,FN",FAIL_MODEL,0.8493
+invoice139.html,quantity,19.00,19,"FP,FN",FAIL_MODEL,0.7843
+invoice139.html,quantity,49.00,49,"FP,FN",FAIL_MODEL,0.7629
+invoice139.html,total_amount,113052.25,"113,052.25","FP,FN",FAIL_MODEL,0.7255
+invoice139.html,price,173.73,173.73,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,439.20,439.20,TP,EXTRACT_MODEL,0.8913
+invoice139.html,price,354.53,354.53,TP,EXTRACT_MODEL,0.9259
+invoice139.html,price,455.45,455.45,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,396.74,396.74,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,331.79,331.79,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,183.88,183.88,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,383.67,383.67,TP,EXTRACT_MODEL,0.9089
+invoice139.html,price,259.81,259.81,TP,EXTRACT_MODEL,0.9089
+invoice139.html,supplier_name,Jenkins-Jenkins,Jenkins-Jenkins,TP,EXTRACT_MODEL,0.8661
+invoice139.html,invoice_number,6507378943,6507378943,TP,EXTRACT_MODEL,0.7333
+invoice139.html,email,marjolaine.rohan@gmail.com,marjolaine.rohan@gmail.com,TP,EXTRACT_MODEL,0.9525
+invoice139.html,invoice_date,07/03/2009,"July 03, 2009","FP,FN",FAIL_MODEL,0.7375
+invoice164.html,product,Practical Granite Bench,Practical Granite Bench,TP,EXTRACT_MODEL,0.8529
+invoice164.html,product,Gorgeous Iron Bench,Gorgeous Iron Bench,TP,EXTRACT_MODEL,0.8503
+invoice164.html,quantity,23.00,23,"FP,FN",FAIL_MODEL,0.8885
+invoice164.html,quantity,37.00,37,"FP,FN",FAIL_MODEL,0.8823
+invoice164.html,total_amount,30868.39,"30,868.39","FP,FN",FAIL_MODEL,0.7255
+invoice164.html,price,456.12,456.12,TP,EXTRACT_MODEL,0.9259
+invoice164.html,price,411.70,411.70,TP,EXTRACT_MODEL,0.8953
+invoice164.html,supplier_name,Padberg-Padberg,Padberg-Padberg,TP,EXTRACT_MODEL,0.7513
+invoice164.html,invoice_number,9982242803,9982242803,TP,EXTRACT_MODEL,0.8414
+invoice164.html,email,cara.trantow@hotmail.com,cara.trantow@hotmail.com,TP,EXTRACT_MODEL,0.9525
+invoice164.html,invoice_date,09/12/1990,"September 12, 1990","FP,FN",FAIL_MODEL,0.7372
+invoice17.html,product,Intelligent Steel Pants,Intelligent Steel Pants,TP,EXTRACT_MODEL,0.8207
+invoice17.html,product,Ergonomic Linen Shirt,Ergonomic Linen Shirt,TP,EXTRACT_MODEL,0.8014
+invoice17.html,product,Intelligent Granite Bag,Intelligent Granite Bag,TP,EXTRACT_MODEL,0.7887
+invoice17.html,product,Awesome Bronze Shirt,Awesome Bronze Shirt,TP,EXTRACT_MODEL,0.8157
+invoice17.html,product,Lightweight Linen Lamp,Lightweight Linen Lamp,TP,EXTRACT_MODEL,0.8382
+invoice17.html,product,Lightweight Bronze Pants,Lightweight Bronze Pants,TP,EXTRACT_MODEL,0.8521
+invoice17.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.7647
+invoice17.html,quantity,20.00,20,"FP,FN",FAIL_MODEL,0.8798
+invoice17.html,quantity,3.00,3,"FP,FN",FAIL_MODEL,0.8014
+invoice17.html,quantity,24.00,24,"FP,FN",FAIL_MODEL,0.7952
+invoice17.html,quantity,11.00,11,"FP,FN",FAIL_MODEL,0.9041
+invoice17.html,quantity,32.00,32,"FP,FN",FAIL_MODEL,0.7787
+invoice17.html,total_amount,20250.36,"20,250.36","FP,FN",FAIL_MODEL,0.7255
+invoice17.html,price,151.69,151.69,TP,EXTRACT_MODEL,0.9089
+invoice17.html,price,25.07,25.07,TP,EXTRACT_MODEL,0.9089
+invoice17.html,price,257.23,257.23,TP,EXTRACT_MODEL,0.9089
+invoice17.html,price,113.87,113.87,TP,EXTRACT_MODEL,0.9259
+invoice17.html,price,192.48,192.48,TP,EXTRACT_MODEL,0.9089
+invoice17.html,price,323.84,323.84,TP,EXTRACT_MODEL,0.9089
+invoice17.html,supplier_name,Johnston-Johnston,Johnston-Johnston,TP,EXTRACT_MODEL,0.8694
+invoice17.html,invoice_number,0946851758,0946851758,TP,EXTRACT_MODEL,0.8525
+invoice17.html,email,linnie.brakus@gmail.com,linnie.brakus@gmail.com,TP,EXTRACT_MODEL,0.9525
+invoice17.html,invoice_date,08/21/1977,"August 21, 1977","FP,FN",FAIL_MODEL,0.7432
+invoice179.html,product,Durable Leather Chair,Durable Leather Chair,TP,EXTRACT_MODEL,0.8328
+invoice179.html,product,Enormous Leather Car,Enormous Leather Car,TP,EXTRACT_MODEL,0.8021
+invoice179.html,product,Ergonomic Granite Gloves,Ergonomic Granite Gloves,TP,EXTRACT_MODEL,0.8530
+invoice179.html,quantity,3.00,3,"FP,FN",FAIL_MODEL,0.7487
+invoice179.html,quantity,43.00,43,"FP,FN",FAIL_MODEL,0.8312
+invoice179.html,quantity,27.00,27,"FP,FN",FAIL_MODEL,0.7205
+invoice179.html,total_amount,10910.14,"10,910.14","FP,FN",FAIL_MODEL,0.7255
+invoice179.html,price,271.56,271.56,TP,EXTRACT_MODEL,0.8913
+invoice179.html,price,10.64,10.64,TP,EXTRACT_MODEL,0.8913
+invoice179.html,price,40.18,40.18,TP,EXTRACT_MODEL,0.9259
+invoice179.html,supplier_name,Gusikowski-Gusikowski,Gusikowski-Gusikowski,TP,EXTRACT_MODEL,0.7817
+invoice179.html,invoice_number,9937850024,9937850024,TP,EXTRACT_MODEL,0.8507
+invoice179.html,email,christ.hirthe@yahoo.com,christ.hirthe@yahoo.com,TP,EXTRACT_MODEL,0.9525
+invoice179.html,invoice_date,01/15/2010,"January 15, 2010","FP,FN",FAIL_MODEL,0.7420
+invoice181.html,product,Rustic Rubber Pants,Rustic Rubber Pants,TP,EXTRACT_MODEL,0.8541
+invoice181.html,product,Gorgeous Wooden Chair,Gorgeous Wooden Chair,TP,EXTRACT_MODEL,0.7852
+invoice181.html,product,Aerodynamic Iron Coat,Aerodynamic Iron Coat,TP,EXTRACT_MODEL,0.8215
+invoice181.html,product,Synergistic Paper Car,Synergistic Paper Car,TP,EXTRACT_MODEL,0.8259
+invoice181.html,product,Enormous Granite Keyboard,Enormous Granite Keyboard,TP,EXTRACT_MODEL,0.7589
+invoice181.html,product,Rustic Plastic Bench,Rustic Plastic Bench,TP,EXTRACT_MODEL,0.8104
+invoice181.html,product,Incredible Cotton Coat,Incredible Cotton Coat,TP,EXTRACT_MODEL,0.7933
+invoice181.html,product,Incredible Bronze Pants,Incredible Bronze Pants,TP,EXTRACT_MODEL,0.8079
+invoice181.html,product,Heavy Duty Paper Coat,Heavy Duty Paper Coat,TP,EXTRACT_MODEL,0.7931
+invoice181.html,quantity,13.00,13,"FP,FN",FAIL_MODEL,0.7974
+invoice181.html,quantity,45.00,45,"FP,FN",FAIL_MODEL,0.7847
+invoice181.html,quantity,1.00,10,"FP,FN",FAIL_MODEL,0.8013
+invoice181.html,quantity,20.00,20,"FP,FN",FAIL_MODEL,0.7983
+invoice181.html,quantity,10.00,1,"FP,FN",FAIL_MODEL,0.8399
+invoice181.html,quantity,28.00,28,"FP,FN",FAIL_MODEL,0.8053
+invoice181.html,quantity,51.00,51,"FP,FN",FAIL_MODEL,0.8222
+invoice181.html,quantity,19.00,19,"FP,FN",FAIL_MODEL,0.8649
+invoice181.html,quantity,27.00,27,"FP,FN",FAIL_MODEL,0.7907
+invoice181.html,total_amount,42338.65,"42,338.65","FP,FN",FAIL_MODEL,0.7255
+invoice181.html,price,317.66,317.66,TP,EXTRACT_MODEL,0.9259
+invoice181.html,price,414.29,414.29,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,253.61,253.61,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,60.41,60.41,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,226.08,226.08,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,460.42,460.42,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,103.10,103.10,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,152.07,152.07,TP,EXTRACT_MODEL,0.9089
+invoice181.html,price,51.92,51.92,TP,EXTRACT_MODEL,0.9089
+invoice181.html,supplier_name,"Marvin, Marvin and Marvin","Marvin, Marvin and Marvin",TP,EXTRACT_MODEL,0.7382
+invoice181.html,invoice_number,8150426970,8150426970,TP,EXTRACT_MODEL,0.7356
+invoice181.html,email,cornelius.hilll@hotmail.com,cornelius.hilll@hotmail.com,TP,EXTRACT_MODEL,0.9498
+invoice181.html,invoice_date,05/05/1999,"May 05, 1999","FP,FN",FAIL_MODEL,0.7310
+invoice183.html,product,Small Concrete Bag,Small Concrete Bag,TP,EXTRACT_MODEL,0.8471
+invoice183.html,product,Awesome Wooden Watch,Awesome Wooden Watch,TP,EXTRACT_MODEL,0.8143
+invoice183.html,product,Awesome Rubber Car,Awesome Rubber Car,TP,EXTRACT_MODEL,0.8045
+invoice183.html,product,Rustic Bronze Watch,Rustic Bronze Watch,TP,EXTRACT_MODEL,0.8023
+invoice183.html,product,Aerodynamic Rubber Plate,Aerodynamic Rubber Plate,TP,EXTRACT_MODEL,0.8163
+invoice183.html,product,Ergonomic Linen Table,Ergonomic Linen Table,TP,EXTRACT_MODEL,0.8595
+invoice183.html,product,Practical Paper Car,Practical Paper Car,TP,EXTRACT_MODEL,0.8525
+invoice183.html,product,Mediocre Bronze Coat,Mediocre Bronze Coat,TP,EXTRACT_MODEL,0.8075
+invoice183.html,quantity,53.00,53,"FP,FN",FAIL_MODEL,0.8180
+invoice183.html,quantity,24.00,24,"FP,FN",FAIL_MODEL,0.7956
+invoice183.html,quantity,29.00,29,"FP,FN",FAIL_MODEL,0.7306
+invoice183.html,quantity,29.00,29,"FP,FN",FAIL_MODEL,0.7524
+invoice183.html,quantity,47.00,47,"FP,FN",FAIL_MODEL,0.7791
+invoice183.html,quantity,16.00,16,"FP,FN",FAIL_MODEL,0.8340
+invoice183.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.8181
+invoice183.html,quantity,24.00,24,"FP,FN",FAIL_MODEL,0.8161
+invoice183.html,total_amount,72177.35,"72,177.35","FP,FN",FAIL_MODEL,0.7255
+invoice183.html,price,472.91,472.91,TP,EXTRACT_MODEL,0.9113
+invoice183.html,price,215.41,215.41,TP,EXTRACT_MODEL,0.9089
+invoice183.html,price,296.15,296.15,TP,EXTRACT_MODEL,0.8913
+invoice183.html,price,270.65,270.65,TP,EXTRACT_MODEL,0.9089
+invoice183.html,price,342.20,342.20,TP,EXTRACT_MODEL,0.9089
+invoice183.html,price,247.31,247.31,TP,EXTRACT_MODEL,0.9089
+invoice183.html,price,214.83,214.83,TP,EXTRACT_MODEL,0.9089
+invoice183.html,price,179.79,179.79,TP,EXTRACT_MODEL,0.9089
+invoice183.html,supplier_name,"Runte, Runte and Runte","Runte, Runte and Runte",TP,EXTRACT_MODEL,0.6543
+invoice183.html,invoice_number,1476606211,1476606211,TP,EXTRACT_MODEL,0.7536
+invoice183.html,email,krystel.bradtke@yahoo.com,krystel.bradtke@yahoo.com,TP,EXTRACT_MODEL,0.9525
+invoice183.html,invoice_date,11/09/1971,"November 09, 1971","FP,FN",FAIL_MODEL,0.7311
+train.0382b18d-0c6c-472b-bb2e-a30e3d02a071.html,supplier_name,National Global Corp,,FN,FAIL_MODEL,undefined
+train.0382b18d-0c6c-472b-bb2e-a30e3d02a071.html,invoice_date,01/13/2015,1/13/2015,"FP,FN",FAIL_MODEL,0.8759
+train.09f780a8-fc67-4f4e-8e10-4a65c980b3f4.html,invoice_number,9999,9999,TP,EXTRACT_MODEL,0.6641
+train.09f780a8-fc67-4f4e-8e10-4a65c980b3f4.html,email,sales@yoursite.com,sales@yoursite.com,TP,EXTRACT_MODEL,0.8594
+train.09f780a8-fc67-4f4e-8e10-4a65c980b3f4.html,invoice_date,04/11/2012,"April 11, 2012","FP,FN",FAIL_MODEL,0.6765
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,product,Provided Services Description (date range),Provided Services Description (date range),TP,EXTRACT_MODEL,0.6961
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,product,,SHIPPING & HANDLING,FP,FAIL_MODEL,0.5948
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,quantity,1.00,i,"FP,FN",FAIL_MODEL,0.6665
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,total_amount,0.00,0.00,TP,EXTRACT_MODEL,0.6710
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,price,0.00,0.00,TP,EXTRACT_MODEL,0.8999
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,price,,0.00,FP,FAIL_MODEL,0.5668
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,supplier_name,Jkdie-Kool Company,Jkdie-Kool Company,TP,EXTRACT_MODEL,0.7746
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,email,YQurEm.ail@YQur.Slte.com,YQurEm.ail@YQur.Slte.com,TP,EXTRACT_MODEL,0.7980
+train.113c1a4b-beb7-4c7a-8f62-c490dbe87d60.html,invoice_date,01/01/2001,"Jan 1, 0001","FP,FN",FAIL_MODEL,0.4919
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,product,StepsTo Life 32 of 52: Dynamic Praying - MP3 Download Download,StepsTo Life 32 of 52: Dynamic     Praying - MP3 Download     Download,"FP,FN",FAIL_MODEL,0.6817
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.9163
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,quantity,,£2.49,FP,FAIL_MODEL,0.5277
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,total_amount,2.49,2.49,TP,EXTRACT_MODEL,0.6296
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,price,2.49,£2.49,"FP,FN",FAIL_MODEL,0.7715
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,supplier_name,NKIE MINISTRIES RESOURCES,Ellel Ministries          Resources,"FP,FN",FAIL_MODEL,0.5149
+train.23cc2c5d-bb0b-4e5f-b483-e46a1e2b9728.html,email,infc@uk.stcre.ellel.crg,infc@uk.stcre.ellel.crg,TP,EXTRACT_MODEL,0.5967
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,product,"Very long product description that occupies more than 1 line - in fact, it occupies 2 lines","Very long product description that occupies more than     1 line - in fact, it occupies 2 lines","FP,FN",FAIL_MODEL,0.7111
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,product,,One line product description,FP,FAIL_MODEL,0.6751
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8928
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,total_amount,1140.87,,FN,FAIL_MODEL,undefined
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,price,199.99,199.99,TP,EXTRACT_MODEL,0.9048
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,price,,420.00,FP,FAIL_MODEL,0.5966
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,invoice_number,INV1048,INV1048,TP,EXTRACT_MODEL,0.9461
+train.24b16e33-e1b3-475e-bd75-b305b5ba6448.html,invoice_date,08/20/2006,"August 20,2006","FP,FN",FAIL_MODEL,0.7504
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,product,Installation,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,product,EagleCell 5000 unit,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,product,Site preparation - structural modifications,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,product,Electncal 200 Amp upgrade. etc,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,00,FP,FAIL_MODEL,0.8463
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,00,FP,FAIL_MODEL,0.7480
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,00,FP,FAIL_MODEL,0.7660
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,1.250,FP,FAIL_MODEL,0.8643
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,1.500,FP,FAIL_MODEL,0.5632
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,quantity,,3.500.00,FP,FAIL_MODEL,0.4980
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,total_amount,8250.00,"8,250.00","FP,FN",FAIL_MODEL,0.4576
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,price,1250.00,1.250,"FP,FN",FAIL_MODEL,0.7046
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,price,2000.00,2.000,"FP,FN",FAIL_MODEL,0.7393
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,price,3500.00,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,price,1500.00,,FN,FAIL_MODEL,undefined
+train.24fcee06-7f29-4960-aa78-48b5f50a2065.html,supplier_name,"ABC Air Conditioning, lnc.",,FN,FAIL_MODEL,undefined
+train.3998e31d-bf0e-4963-ae0f-5d5866545b28.html,total_amount,116.38,(5.35,"FP,FN",FAIL_MODEL,0.6479
+train.3998e31d-bf0e-4963-ae0f-5d5866545b28.html,supplier_name,ORACLE,,FN,FAIL_MODEL,undefined
+train.3998e31d-bf0e-4963-ae0f-5d5866545b28.html,invoice_number,Bl-2,,FN,FAIL_MODEL,undefined
+train.3998e31d-bf0e-4963-ae0f-5d5866545b28.html,invoice_date,06/19/2009,06/19/2009,TP,EXTRACT_MODEL,0.8816
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,product,0eV-gite fee • Nwt-nember Rate,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,product,CtrVeretKO Devter,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,product,Accom-odslon Thnday 4th,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.5484
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,total_amount,325.00,325,"FP,FN",FAIL_MODEL,0.4494
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,price,87.50,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,price,162.50,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,price,20.83,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,invoice_number,908901,,FN,FAIL_MODEL,undefined
+train.440c078b-5e8b-4282-9d4f-20fec91d7aeb.html,invoice_date,10/16/2010,16*107010,"FP,FN",FAIL_MODEL,0.5418
+train.4b95dae4-6c18-4f91-8ba9-dd10e926fdf2.html,total_amount,,EO.CX,FP,FAIL_MODEL,0.6617
+train.4b95dae4-6c18-4f91-8ba9-dd10e926fdf2.html,invoice_date,07/14/2016,1*07/2016,"FP,FN",FAIL_MODEL,0.6386
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,product,Sanding and painting dresser,Sanding and painting dresser,TP,EXTRACT_MODEL,0.8470
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,product,Kitchen cabinet installation,Kitchen cabinet installation,TP,EXTRACT_MODEL,0.6566
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,product,Bathroom sink installation,Bathroom sink installation,TP,EXTRACT_MODEL,0.8169
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,product,25 hours painting,25 hours painting,TP,EXTRACT_MODEL,0.6044
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,product,Floorboard replacement,Floorboard replacement,TP,EXTRACT_MODEL,0.7710
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,quantity,4.00,4,"FP,FN",FAIL_MODEL,0.8628
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8843
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.8763
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,quantity,1.00,i,"FP,FN",FAIL_MODEL,0.7108
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,quantity,1.00,i,"FP,FN",FAIL_MODEL,0.6421
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,total_amount,1838.80,,FN,FAIL_MODEL,undefined
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,price,39.00,39.00,TP,EXTRACT_MODEL,0.5150
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,price,250.00,250.00,TP,EXTRACT_MODEL,0.5460
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,price,885.00,885.00,TP,EXTRACT_MODEL,0.7155
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,price,600.00,600.00,TP,EXTRACT_MODEL,0.4897
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,price,170.00,170.00,TP,EXTRACT_MODEL,0.3901
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,supplier_name,Niwher Deplore,,FN,FAIL_MODEL,undefined
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,invoice_number,00984,00984,TP,EXTRACT_MODEL,0.6214
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,email,Contact@lnvoiceNinja.com,Contact@lnvoiceNinja.com,TP,EXTRACT_MODEL,0.7025
+train.4fd268f9-8056-46e3-9e19-43bc4e54caee.html,invoice_date,09/08/2014,"Sep 8, 2014","FP,FN",FAIL_MODEL,0.6841
+train.51b19c68-0f6e-41b4-b60c-59a0fd6d821b.html,total_amount,112.20,S112.20,"FP,FN",FAIL_MODEL,0.9497
+train.51b19c68-0f6e-41b4-b60c-59a0fd6d821b.html,supplier_name,Sliced Invoces,,FN,FAIL_MODEL,undefined
+train.51b19c68-0f6e-41b4-b60c-59a0fd6d821b.html,invoice_number,INV-0003,INV-0003,TP,EXTRACT_MODEL,0.9423
+train.51b19c68-0f6e-41b4-b60c-59a0fd6d821b.html,invoice_date,11/18/2015,November 18.2015,"FP,FN",FAIL_MODEL,0.8185
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,product,Penjualan Jasa Service Periode Januari 2013,Penjualan Jasa Service Periode Januari 2013,TP,EXTRACT_MODEL,0.7624
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,total_amount,110000000.00,00000456,"FP,FN",FAIL_MODEL,0.9354
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,price,1000000.00,"1,000,000.00","FP,FN",FAIL_MODEL,0.8572
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,supplier_name,Graha Alam Center,,FN,FAIL_MODEL,undefined
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,invoice_number,00000456,00000456,TP,EXTRACT_MODEL,0.5822
+train.5388fffc-37fb-46c3-88a7-d8a1ddd25bfb.html,invoice_date,02/11/2013,11 February 2013,"FP,FN",FAIL_MODEL,0.6890
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,product,Example service,Example service,TP,EXTRACT_MODEL,0.7521
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,product,Example product,Example product,TP,EXTRACT_MODEL,0.5408
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,quantity,12.00,,FN,FAIL_MODEL,undefined
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,quantity,4.00,,FN,FAIL_MODEL,undefined
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,total_amount,412.13,412.13,TP,EXTRACT_MODEL,0.7800
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,price,362.00,362,"FP,FN",FAIL_MODEL,0.7270
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,price,75.00,75.00,TP,EXTRACT_MODEL,0.7784
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,supplier_name,JEH CO,Dave Steve,"FP,FN",FAIL_MODEL,0.5363
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,invoice_number,100025,100025,TP,EXTRACT_MODEL,0.6433
+train.5a210b13-f9d9-4fb9-b30e-e189d710ad83.html,invoice_date,01/15/2016,15.1.2016,"FP,FN",FAIL_MODEL,0.7733
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,product,DEBEER SILKY SILVER,,FN,FAIL_MODEL,undefined
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,total_amount,4500.00,,FN,FAIL_MODEL,undefined
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,price,3913.04,,FN,FAIL_MODEL,undefined
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,supplier_name,23213K Neq1xa autocolor,,FN,FAIL_MODEL,undefined
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,invoice_number,T3,T3,TP,EXTRACT_MODEL,0.8311
+train.60f9f0eb-2442-4537-acda-5f5a25bf2b54.html,invoice_date,06/12/2012,06/12/12,"FP,FN",FAIL_MODEL,0.7716
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,product,APPLE IPAD CASING - WHITE,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,product,190!mAh Slim Battery Charging Case foe iPhone4/4S,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,product,2403mAh Sdar Powered Recharge«*e Battery Pack foe i Piece or iPod,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,product,APPLE IPAD CASING - BLACK,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,product,SAM9JNG GALAXY TAB 10.1* CASING - BLACK,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,quantity,21000.05,2,"FP,FN",FAIL_MODEL,0.3840
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,quantity,10000.05,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,quantity,20000.05,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,quantity,20000.05,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,quantity,21000.05,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,total_amount,14595.00,"14,595.00","FP,FN",FAIL_MODEL,0.8466
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.9237
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,price,15.00,15.00,TP,EXTRACT_MODEL,0.8528
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,price,10.00,10.00,TP,EXTRACT_MODEL,0.8728
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,price,12.00,12.00,TP,EXTRACT_MODEL,0.9078
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,price,20.00,20.00,TP,EXTRACT_MODEL,0.8909
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,supplier_name,Cgayw Cube Inc,Cgayw Cube,"FP,FN",FAIL_MODEL,0.4473
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,invoice_number,74-2999212,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,email,admit@xiraubexom,,FN,FAIL_MODEL,undefined
+train.64db13ba-5c8c-4f7a-9255-1fbb8d7897b0.html,invoice_date,03/21/2012,21-Mar-2012,"FP,FN",FAIL_MODEL,0.5129
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,product,Template Design Monmgn,Template Design     Monmgn,"FP,FN",FAIL_MODEL,0.5009
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,product,Testing,Testing,TP,EXTRACT_MODEL,0.5247
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,product,Template Development Saw XMTML CSS. a-d PHP walk neOvw Vtfudci yngle aulo reipcvtfng ccmaci t»m,Saw XMTML CSS. a-d PHP walk neOvw Vtfudci yngle aulo reipcvtfng  ccmaci t»m,"FP,FN",FAIL_MODEL,0.5943
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,product,,Template Development,FP,FAIL_MODEL,0.5274
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.5831
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,quantity,15.00,15,"FP,FN",FAIL_MODEL,0.7032
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,quantity,15.00,,FN,FAIL_MODEL,undefined
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,quantity,75.00,,FN,FAIL_MODEL,undefined
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,total_amount,2400.00,2400.00,TP,EXTRACT_MODEL,0.6075
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,price,75.00,,FN,FAIL_MODEL,undefined
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,price,75.00,,FN,FAIL_MODEL,undefined
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,supplier_name,Grseaeme Dusckett Freelance Design And Development,Grseaeme Dusckett          Freelance Design And Development,"FP,FN",FAIL_MODEL,0.6384
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,invoice_number,101,,FN,FAIL_MODEL,undefined
+train.67c97e5d-2359-4210-9c61-96bf22f18ed2.html,email,heilo@graemeduckettconi,,FN,FAIL_MODEL,undefined
+train.74c88592-32f2-4b36-812e-423400fa362d.html,product,Install 3 Air Fresheners,Install 3 Air Fresheners,TP,EXTRACT_MODEL,0.5589
+train.74c88592-32f2-4b36-812e-423400fa362d.html,product,Carpet Cleaning,Carpet Cleaning,TP,EXTRACT_MODEL,0.7416
+train.74c88592-32f2-4b36-812e-423400fa362d.html,product,"3 BEDR00MS, 1 LIVING ROOM","3 BEDR00MS, 1 LIVING ROOM",TP,EXTRACT_MODEL,0.5342
+train.74c88592-32f2-4b36-812e-423400fa362d.html,product,1 YEAR WARRANTY,,FN,FAIL_MODEL,undefined
+train.74c88592-32f2-4b36-812e-423400fa362d.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8376
+train.74c88592-32f2-4b36-812e-423400fa362d.html,quantity,3.00,3,"FP,FN",FAIL_MODEL,0.6592
+train.74c88592-32f2-4b36-812e-423400fa362d.html,total_amount,104.00,S104.00,"FP,FN",FAIL_MODEL,0.5982
+train.74c88592-32f2-4b36-812e-423400fa362d.html,price,589.00,S89.00,"FP,FN",FAIL_MODEL,0.4966
+train.74c88592-32f2-4b36-812e-423400fa362d.html,price,5.00,5.00,TP,EXTRACT_MODEL,0.8800
+train.74c88592-32f2-4b36-812e-423400fa362d.html,supplier_name,AL'S CARPET CLEANING,AL'S CARPET CLEANING,TP,EXTRACT_MODEL,0.6547
+train.74c88592-32f2-4b36-812e-423400fa362d.html,invoice_number,001,,FN,FAIL_MODEL,undefined
+train.74c88592-32f2-4b36-812e-423400fa362d.html,email,alscarpet@vahoo.com,,FN,FAIL_MODEL,undefined
+train.74c88592-32f2-4b36-812e-423400fa362d.html,invoice_date,03/02/2011,"March 2,2011","FP,FN",FAIL_MODEL,0.6842
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,product,TELECOM MAINTENANCE AGREEMENT,,FN,FAIL_MODEL,undefined
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,quantity,1.00,,FN,FAIL_MODEL,undefined
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,total_amount,425.00,S425.00,"FP,FN",FAIL_MODEL,0.8258
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,price,425.00,,FN,FAIL_MODEL,undefined
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,supplier_name,JDIELO,,FN,FAIL_MODEL,undefined
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,invoice_number,1022561,,FN,FAIL_MODEL,undefined
+train.74ee9e41-465c-49da-bb5b-2cb6582ec45b.html,invoice_date,06/15/2012,6/15/2012,"FP,FN",FAIL_MODEL,0.6326
+train.75190e93-c093-4dcd-b45c-ab7df506775d.html,total_amount,100.00,100.00,TP,EXTRACT_MODEL,0.7767
+train.75190e93-c093-4dcd-b45c-ab7df506775d.html,invoice_number,L009-987,L009-987,TP,EXTRACT_MODEL,0.8067
+train.75190e93-c093-4dcd-b45c-ab7df506775d.html,email,abc@wordexceltemplates.com,abc(@)wordexceltemplates.com,"FP,FN",FAIL_MODEL,0.6182
+train.75190e93-c093-4dcd-b45c-ab7df506775d.html,invoice_date,06/15/2015,,FN,FAIL_MODEL,undefined
+train.78f81b7c-9f88-4cb6-98bb-9ee33ad05668.html,total_amount,807.20,807.20,TP,EXTRACT_MODEL,0.6052
+train.78f81b7c-9f88-4cb6-98bb-9ee33ad05668.html,supplier_name,9Jow Corp,s-tees,"FP,FN",FAIL_MODEL,0.3764
+train.78f81b7c-9f88-4cb6-98bb-9ee33ad05668.html,invoice_number,0001,,FN,FAIL_MODEL,undefined
+train.78f81b7c-9f88-4cb6-98bb-9ee33ad05668.html,invoice_date,09/17/2007,9/17/2007,"FP,FN",FAIL_MODEL,0.5960
+train.7b7029e3-ca02-4ea2-a9e8-010ad08244ac.html,total_amount,25470.00,"25,470.00","FP,FN",FAIL_MODEL,0.7832
+train.7b7029e3-ca02-4ea2-a9e8-010ad08244ac.html,supplier_name,Poswer Misle Meganet,,FN,FAIL_MODEL,undefined
+train.7b7029e3-ca02-4ea2-a9e8-010ad08244ac.html,invoice_number,1NV000203,1NV000203,TP,EXTRACT_MODEL,0.8350
+train.7b7029e3-ca02-4ea2-a9e8-010ad08244ac.html,email,megine@poswermisle.net,megine@poswermisle.net,TP,EXTRACT_MODEL,0.8614
+train.7b7029e3-ca02-4ea2-a9e8-010ad08244ac.html,invoice_date,05/06/2013,05/06/2013,TP,EXTRACT_MODEL,0.8395
+train.7bb9fe95-f25e-40b0-890c-3f9528d0499f.html,total_amount,500.00,Cost,"FP,FN",FAIL_MODEL,0.6102
+train.7bb9fe95-f25e-40b0-890c-3f9528d0499f.html,supplier_name,Scores Software lnc.,,FN,FAIL_MODEL,undefined
+train.7bb9fe95-f25e-40b0-890c-3f9528d0499f.html,invoice_number,13-01007,13-01007,TP,EXTRACT_MODEL,0.7773
+train.7bb9fe95-f25e-40b0-890c-3f9528d0499f.html,invoice_date,03/01/2013,,FN,FAIL_MODEL,undefined
+train.8a17ce28-e4c1-4423-b647-968628636241.html,product,"_ , . includes card readcr, receipt phnter. iPad Complete Kit POS , .stand, & cash drawer","_ , . includes card readcr, receipt phnter. iPad     Complete Kit POS , .     stand, & cash drawer","FP,FN",FAIL_MODEL,0.6650
+train.8a17ce28-e4c1-4423-b647-968628636241.html,product,Mobifo Card Reader For iPhone & iPad,Mobifo Card Reader For iPhone & iPad,TP,EXTRACT_MODEL,0.6748
+train.8a17ce28-e4c1-4423-b647-968628636241.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8914
+train.8a17ce28-e4c1-4423-b647-968628636241.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.7972
+train.8a17ce28-e4c1-4423-b647-968628636241.html,total_amount,776.31,S89.31,"FP,FN",FAIL_MODEL,0.4907
+train.8a17ce28-e4c1-4423-b647-968628636241.html,price,19.00,19.00,TP,EXTRACT_MODEL,0.8423
+train.8a17ce28-e4c1-4423-b647-968628636241.html,price,649.00,649.00,TP,EXTRACT_MODEL,0.8948
+train.8a17ce28-e4c1-4423-b647-968628636241.html,supplier_name,Skeie Hardware Store,Skeie Hardware Store,TP,EXTRACT_MODEL,0.5297
+train.8a17ce28-e4c1-4423-b647-968628636241.html,invoice_number,0047,,FN,FAIL_MODEL,undefined
+train.8a17ce28-e4c1-4423-b647-968628636241.html,email,poshardware@Skeie.com,customer@mycmail.com,"FP,FN",FAIL_MODEL,0.7886
+train.8a17ce28-e4c1-4423-b647-968628636241.html,invoice_date,01/13/2015,January 13.2015,"FP,FN",FAIL_MODEL,0.5707
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,product,Product narro,,FN,FAIL_MODEL,undefined
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.8542
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,total_amount,0.00,,FN,FAIL_MODEL,undefined
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,price,0.00,,FN,FAIL_MODEL,undefined
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,supplier_name,Johndoe,,FN,FAIL_MODEL,undefined
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,invoice_number,0000,,FN,FAIL_MODEL,undefined
+train.9da25f54-c87b-46f4-82a1-b4a2db30abe8.html,invoice_date,03/03/2015,,FN,FAIL_MODEL,undefined
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,product,2.6GHz/ 1GB/320GB/ SM P- DVD/FDO/VB,"PDC-E53O0 -     2.6GHz/ 1GB/320GB/ SM P- DVD/FDO/VB     LG 18.5"" WLCD     HP LaserJet 5200","FP,FN",FAIL_MODEL,0.4852
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,product,PDC-E53O0 -,,FN,FAIL_MODEL,undefined
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,product,LG 18.5,,FN,FAIL_MODEL,undefined
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,product,HP LaserJet 5200,,FN,FAIL_MODEL,undefined
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,quantity,4.00,4.00,TP,EXTRACT_MODEL,0.8722
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,quantity,10.00,10.00,TP,EXTRACT_MODEL,0.8818
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,quantity,6.00,6.00,TP,EXTRACT_MODEL,0.9052
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,quantity,1.00,1.00,TP,EXTRACT_MODEL,0.8767
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,quantity,,1.100.00,FP,FAIL_MODEL,0.5341
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,total_amount,9933.00,"9,460.00","FP,FN",FAIL_MODEL,0.6940
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,price,580.00,580.00,TP,EXTRACT_MODEL,0.8478
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,price,1100.00,1.100.00,"FP,FN",FAIL_MODEL,0.6113
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,price,230.00,230.00,TP,EXTRACT_MODEL,0.8571
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,price,645.00,645.00,TP,EXTRACT_MODEL,0.9110
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,supplier_name,Xin Cube Inc,Xin Cube Inc,TP,EXTRACT_MODEL,0.6622
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,invoice_number,INV10100005,INV10100005,TP,EXTRACT_MODEL,0.5552
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,email,admins@incube.com,,FN,FAIL_MODEL,undefined
+train.b74ec8ad-ee3c-4e88-8f49-733765ebab19.html,invoice_date,10/19/2010,19-0ct-2010,"FP,FN",FAIL_MODEL,0.5479
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,product,Very long product description that occupies more than 1 line - in fact. it occupies 2 lines,Very long product description that occupies more than     1 line - in fact. it occupies 2 lines,"FP,FN",FAIL_MODEL,0.8257
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,product,One line product description,One line product description,TP,EXTRACT_MODEL,0.7694
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,quantity,2.00,2,"FP,FN",FAIL_MODEL,0.8828
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,quantity,1.00,1,"FP,FN",FAIL_MODEL,0.9088
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,total_amount,1140.87,"1,140.87","FP,FN",FAIL_MODEL,0.6521
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,price,420.00,420 00,"FP,FN",FAIL_MODEL,0.8139
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,price,199.99,199.99,TP,EXTRACT_MODEL,0.8199
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,supplier_name,Bank of Montreal,Bank of Montreal,TP,EXTRACT_MODEL,0.4657
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,invoice_number,INVI048,INVI048,TP,EXTRACT_MODEL,0.7302
+train.baaed2d8-76d4-434d-b44b-32c393feab1d.html,invoice_date,08/20/2006,August 20.,"FP,FN",FAIL_MODEL,0.5476
+train.cb6090c9-5241-4b4b-8f73-5dd8bae6a176.html,total_amount,630.00,630.00,TP,EXTRACT_MODEL,0.8275
+train.cb6090c9-5241-4b4b-8f73-5dd8bae6a176.html,supplier_name,Ioew Web Design,Ioew Web Design,TP,EXTRACT_MODEL,0.6804
+train.cb6090c9-5241-4b4b-8f73-5dd8bae6a176.html,invoice_number,983211,983211,TP,EXTRACT_MODEL,0.8988
+train.cb6090c9-5241-4b4b-8f73-5dd8bae6a176.html,invoice_date,10/04/2014,04.10.14,"FP,FN",FAIL_MODEL,0.5405

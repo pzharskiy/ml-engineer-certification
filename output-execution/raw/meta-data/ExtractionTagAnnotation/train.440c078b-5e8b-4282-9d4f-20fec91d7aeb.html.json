@@ -1,0 +1,1 @@
+[{"dataValue":"16*107010","fieldType":"DATE","name":"invoice_date","begin":305,"end":314,"score":0.5418020603598428},{"dataValue":"1","fieldType":"NUMBER","name":"quantity","begin":617,"end":618,"score":0.5484488425444776},{"dataValue":"325","fieldType":"NUMBER","name":"total_amount","begin":1143,"end":1146,"score":0.4493632944626869}]

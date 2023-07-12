@@ -1,0 +1,1 @@
+[{"dataValue":"INV-0007","fieldType":"TEXT","name":"invoice_number","begin":490,"end":498,"score":0.9423064224359647},{"dataValue":"11/18/2015","fieldType":"DATE","name":"invoice_date","begin":604,"end":620,"score":0.8185377395583785},{"dataValue":"112.20","fieldType":"NUMBER","name":"total_amount","begin":667,"end":674,"score":0.9497102732062191}]

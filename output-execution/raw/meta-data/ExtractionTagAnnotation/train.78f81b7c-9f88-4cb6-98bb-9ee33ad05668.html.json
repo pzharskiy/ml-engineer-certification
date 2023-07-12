@@ -1,0 +1,1 @@
+[{"dataValue":"s-tees","fieldType":"COMPANY_NAME","name":"supplier_name","begin":15,"end":21,"score":0.37642353824518326},{"dataValue":"9/17/2007","fieldType":"DATE","name":"invoice_date","begin":178,"end":187,"score":0.5959804218362451},{"dataValue":"807.20","fieldType":"NUMBER","name":"total_amount","begin":1691,"end":1697,"score":0.6051801110934838}]
